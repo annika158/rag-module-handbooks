@@ -1,0 +1,194 @@
+Metadata in chunk - Question: Worum geht es in dem Modul 'Regulierungsökonomik' des Studiengangs Master VWL? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2019-07-03_bsc_bwl_modulbeschreibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Grundlagen der Regulierung (für BWLer) 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2020-01-22_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: Sommersemester 2020
+Module Title: Grundlagen der Regulierung (für BWLer) 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen der Regulierung 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2014-10_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Bachelorarbeit 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2018-10-04_bsc_bwl_modulbeschreibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2017
+Effective From: WS 2018/19
+Module Title: Grundlagen der Regulierung (für BWLer) 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Wettbewerb und Regulierung 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2020-01-22_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: Sommersemester 2020
+Module Title: Neue Institutionenökonomik für BWLer 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Wettbewerb und Regulierung 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Wettbewerb und Regulierung 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2017_02_07_bsc_bwl_modulbescheibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2016
+Effective From: WS 2017/18
+Module Title: Grundlagen der Regulierung (für BWLer) 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen der Regulierung (für BWLer) ', 'source': 'module_handbooks_economics/2019-07-03_bsc_bwl_modulbeschreibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Grundlagen der Regulierung (für BWLer) 
+
+modultitel deutsch : grundlagen der regulierung ( fur bwler ) modultitel englisch : foundations of regulation studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : vwl 6a status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung / seminar grundlagen der regulierung pflicht 30 h ( 2 sws ) 90 2 ubung ubung zu grundlagen der regulierung pflicht 30 h ( 2 sws ) 30 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul baut auf den grundlagen der mikrookonomik auf und intensiviert die dort erlangten kenntnisse. in weiterfuhrenden modulen finden sich die inhalte des moduls in form von wirtschaftspolitischen und regulatorischen anwendungsfeldern wieder. eine parallele belegung des moduls „ grundlagen der wirtschaftspolitik fur bwler “ ist empfehlensw
+---------- Chunk 1 ----------
+{'degree': 'Bachelor', 'effective_from': 'Sommersemester 2020', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen der Regulierung (für BWLer) ', 'source': 'module_handbooks_economics/2020-01-22_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: Sommersemester 2020
+Module Title: Grundlagen der Regulierung (für BWLer) 
+
+modultitel deutsch : grundlagen der regulierung ( fur bwler ) modultitel englisch : foundations of regulation studiengang : bachelor betriebswirtschaftslehre po 2017 / 2018 1 modulnummer : vwl 6a status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung / seminar grundlagen der regulierung pflicht 30 h ( 2 sws ) 90 2 ubung ubung zu grundlagen der regulierung pflicht 30 h ( 2 sws ) 30 4 modulinhalte : zielsetzung des moduls / einbindung in das curriculum : das modul baut auf den grundlagen der mikrookonomik auf und intensiviert die dort erlangten kenntnisse. in weiterfuhrenden modulen finden sich die inhalte des moduls in form von wirtschaftspolitischen und regulatorischen anwendungsfeldern wieder. eine parallele belegung des moduls „ grundlagen der wirtschaftspolitik fur bwler “ ist empf
+---------- Chunk 2 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen der Regulierung ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen der Regulierung 
+
+modultitel deutsch : grundlagen der regulierung modultitel englisch : foundations of regulation studiengang : bachelor volkswirtschaftslehre 1 modulnummer : vwl 6a status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 3 oder 4 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar grundlagen der regulierung pflicht 30 h ( 2 sws ) 90 2 ubung ubung zu grundlagen der regulierung pflicht 30 h ( 2 sws ) 30 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul baut auf den grundlagen der mikrookonomik auf und intensiviert die dort erlangten kenntnisse. in weiterfuhrenden modulen finden sich die inhalte des moduls in form von wirtschaftspolitischen und regulatorischen anwendungsfeldern wieder. eine parallele belegung des moduls „ grundlagen der wirtschaftspolitik “ ist empfehlenswert. lehrinhalte des moduls : in diesem modul werden die grundzuge,
+---------- Chunk 3 ----------
+{'degree': 'Bachelor', 'effective_from': '14. Oktober 2010', 'examination_regulation': 'Prüfungsordnung 2010', 'module_title': 'Bachelorarbeit ', 'source': 'module_handbooks_economics/2014-10_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Bachelorarbeit 
+
+fur das modul werden angerechnet, wenn das modul insgesamt erfolgreich abgeschlossen wurde, d. h. alle prufungsrelevanten leistungen und studienleistungen bestanden wurden. 11 gewichtung der modulnote fur die bildung der gesamtnote : 6, 67 % ( 12 von 180 ) 12 modulbezogene teilnahmevoraussetzungen : es mussen 90 lp erreicht worden sein. die / der studierende muss zudem nachweisen, dass sie / er ein seminar im rahmen der wahlpflichtmodule vwl oder bwl absolviert hat. dieses seminar muss vor beginn der bachelorarbeit abgeschlossen worden sein. diese regelung gilt fur alle studierende, welche im ss 2013 das 3. studienjahr noch nicht begonnen haben. 13 anwesenheit : 14 verwendbarkeit in anderen studiengangen : keine 15 modulbeauftragte / r : zustandiger fachbereich : prof. dr. van suntum fb 04 – wirtschaftswissenschaften 16 sonstiges : 99
+---------- Chunk 4 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2017', 'module_title': 'Grundlagen der Regulierung (für BWLer) ', 'source': 'module_handbooks_economics/2018-10-04_bsc_bwl_modulbeschreibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2017
+Effective From: WS 2018/19
+Module Title: Grundlagen der Regulierung (für BWLer) 
+
+modultitel deutsch : grundlagen der regulierung ( fur bwler ) modultitel englisch : foundations of regulation studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : vwl 6a status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung / seminar grundlagen der regulierung pflicht 30 h ( 2 sws ) 90 2 ubung ubung zu grundlagen der regulierung pflicht 30 h ( 2 sws ) 30 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul baut auf den grundlagen der mikrookonomik auf und intensiviert die dort erlangten kenntnisse. in weiterfuhrenden modulen finden sich die inhalte des moduls in form von wirtschaftspolitischen und regulatorischen anwendungsfeldern wieder. eine parallele belegung des moduls „ grundlagen der wirtschaftspolitik fur bwler
+---------- Chunk 5 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Wettbewerb und Regulierung ', 'source': 'module_handbooks_economics/2024-01-23_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Wettbewerb und Regulierung 
+
+modultitel deutsch : wettbewerb und regulierung modultitel englisch : competition and regulation studiengang : bachelor volkswirtschaftslehre 1 modulnummer : vwl 12 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 3 oder 4 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung wettbewerb und regulierung pflicht 30 h ( 2 sws ) 90 2 ubung ubung zu wettbewerb und regulierung pflicht 30 h ( 2 sws ) 30 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul baut auf den grundlagen der mikrookonomik auf und intensiviert die dort erlangten kenntnisse. in weiterfuhrenden modulen finden sich die inhalte des moduls in form von wirtschaftspolitischen und regulatorischen anwendungsfeldern wieder. eine parallele belegung des moduls „ grundlagen der wirtschaftspolitik “ ist empfehlenswert. lehrinhalte des moduls : in diesem modul
+---------- Chunk 6 ----------
+{'degree': 'Bachelor', 'effective_from': 'Sommersemester 2020', 'examination_regulation': 'unknown', 'module_title': 'Neue Institutionenökonomik für BWLer ', 'source': 'module_handbooks_economics/2020-01-22_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: Sommersemester 2020
+Module Title: Neue Institutionenökonomik für BWLer 
+
+##rd deren selbststandige arbeitsweise unterstutzt. zusatzlich werden die studieninhalte im praktischen umfeld angewendet. hierzu werden in der gesamten vorlesung konkrete fallbeispiele, beispielsweise zu institutionen als spielregeln, herangezogen. 6 beschreibung von wahlmoglichkeiten innerhalb des moduls : keine 7 leistungsuberprufung : modulabschlussprufung ( map ) 8 prufungsleistungen : 101 nr. anzahl und art ; anbindung an lehrveranstaltung dauer gewichtung fur die modulnote in % 1 modulabschlussklausur 90 min. 100 % 9 studienleistungen : keine 1 0 voraussetzungen fur die vergabe von leistungspunkten : die leistungspunkte fur das modul werden angerechnet, wenn das modul insgesamt erfolgreich abgeschlossen wurde, d. h. alle prufungsleistungen und studienleistungen bestanden wurden. 11 lp - zuordnung : teilnahme / prasenz ( teil 3 ) nr. 1 1. 00 lp nr. 2 1. 00 lp prufungsleistungen ( teil 8 ) nr. 1 4. 00 lp summe 6 lp 1 2 gewichtung der mod
+---------- Chunk 7 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Wettbewerb und Regulierung ', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Wettbewerb und Regulierung 
+
+modultitel deutsch : wettbewerb und regulierung modultitel englisch : competition and regulation studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : trv 33 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung wettbewerb und regulierung pflicht 30 h ( 2 sws ) 90 2 ubung ubung zu wettbewerb und regulierung pflicht 30 h ( 2 sws ) 30 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul baut auf den grundlagen der mikrookonomik auf und intensiviert die dort erlangten kenntnisse. in weiterfuhrenden modulen finden sich die inhalte des moduls in form von wirtschaftspolitischen und regulatorischen anwendungsfeldern wieder. eine parallele belegung des moduls „ grundlagen der wirtschaftspolitik “ ist empfehlenswert. lehrinhalte des moduls :
+---------- Chunk 8 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Wettbewerb und Regulierung ', 'source': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Wettbewerb und Regulierung 
+
+modultitel deutsch : wettbewerb und regulierung modultitel englisch : competition and regulation studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : trv 33 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung wettbewerb und regulierung pflicht 30 h ( 2 sws ) 90 2 ubung ubung zu wettbewerb und regulierung pflicht 30 h ( 2 sws ) 30 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul baut auf den grundlagen der mikrookonomik auf und intensiviert die dort erlangten kenntnisse. in weiterfuhrenden modulen finden sich die inhalte des moduls in form von wirtschaftspolitischen und regulatorischen anwendungsfeldern wieder. eine parallele belegung des moduls „ grundlagen der wirtschaftspolitik “ ist empfehlenswert. lehrinhalte des moduls : in dies
+---------- Chunk 9 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2017/18', 'examination_regulation': 'Prüfungsordnung 2016', 'module_title': 'Grundlagen der Regulierung (für BWLer) ', 'source': 'module_handbooks_economics/2017_02_07_bsc_bwl_modulbescheibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2016
+Effective From: WS 2017/18
+Module Title: Grundlagen der Regulierung (für BWLer) 
+
+modultitel deutsch : grundlagen der regulierung ( fur bwler ) modultitel englisch : foundations of regulation studiengang : bachelor betriebswirtschaftslehre po 2010 1 modulnummer : vwl 6a status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status lp prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung grundlagen der regulierung pflicht 4 30 h ( 2 sws ) 90 2 ubung ubung zu grundlagen der regulierung pflicht 2 30 h ( 2 sws ) 30 4 modulinhalte : hintergrund und verhaltnis zu anderen modulen : das modul baut auf den grundlagen der mikrookonomik auf und intensiviert die dort erlangten kenntnisse. in weiterfuhrenden modulen finden sich die inhalte des moduls in form von wirtschaftspolitischen und regulatorischen anwendungsfeldern wieder. eine parallele belegung des moduls „ grundlagen der wirtschaftspolitik fur bwler “ ist em
+
+
+===== Answer =====
+
+Answer: Leider kann ich mit den mir zur Verfügung stehenden Informationen keine Antwort auf diese Frage geben.
+Expected answer: In diesem Modul wird die Ursachenanalyse für Marktversagen vertieft und das ökonomische Instrumentarium zu deren Korrektur und Regulierung untersucht, …

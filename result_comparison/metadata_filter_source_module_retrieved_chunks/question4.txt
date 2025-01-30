@@ -1,0 +1,40 @@
+Metadata filter - Question: What are the prerequisites to write the master's thesis in Information Systems? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: unknown
+Effective From: wintersemester 2019/20
+Module Title: Master’s Thesis  
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: unknown
+Effective From: wintersemester 2019/20
+Module Title: Master’s Thesis  
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Master', 'effective_from': 'wintersemester 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Master’s Thesis  ', 'source': 'module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf', 'study_program': 'Master of Science in Information Systems'}
+module title english : master ’ s thesis course program : master information systems 1 module no : mt state : compulsory language of instruction : english 2 turn : each semester duration : 1 semester semester : 3 or 4 cp : 30 workload ( h ) : 900 3 module structure : no type course state workload ( h ) presence ( h + ch ) self - study ( h ) 1 writing the thesis compulsory 0 h ( 0 ch ) 750 2 thesis defense compulsory 0 h ( 0 ch ) 60 3 exercise research methods compulsory 30 h ( 2 ch ) 60 4 module profile : purpose of the module / integration into curriculum : the master thesis is written in the research context of one of the method tracks im, pm, bn, bi and / or isd. course content : those are subject to the topic and area where the thesis is intended. the thesis defense covers the thesis ’ topic. with his / her master ’ s thesis, a student is supposed to prove his / her ability to take part in the scientific process by doing a small piece of research and write an appropriate paper on it. the thesis should have a length of approximately 80 pages. the thesis defense contains a presentation of the thesis ’ profile as well as a discussion. 5 learning outcomes : academic : the student can handle a research topic in a scientific way and apply the results to practical problems. he or she can present and defend approaches, underlying theory and results. soft skills : the student can handle the formal requirements associated to a research paper : investigating the research context, collecting material from the scientific literature, performing and processing bibliographical inquiries, presenting own ideas in the scientific environment of the given topic. 6 description of possible electives within the modules : none 7 examination : final module exam 8 relevant work : 77 no number and type ; connection to course duration part of final mark in % 1 master´s thesis 100 % 9 study work
+---------- Chunk 1 ----------
+{'degree': 'Master', 'effective_from': 'wintersemester 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Master’s Thesis  ', 'source': 'module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf', 'study_program': 'Master of Science in Information Systems'}
+the given topic. 6 description of possible electives within the modules : none 7 examination : final module exam 8 relevant work : 77 no number and type ; connection to course duration part of final mark in % 1 master´s thesis 100 % 9 study work : no number and type ; connection to course duration 1 thesis defense ( oral ) max. 1h 10 prerequisites for credit points : the credit points will be granted after all relevant work and study work have been successfully completed. 11 cp assignment : presence ( see no 3 ) no 1 0. 00 cp no 2 0. 00 cp no 3 1. 00 cp relevant work ( see no 8 ) no 1 27. 00 cp study work ( see no 9 ) no 1 2. 00 cp total 30 cp 12 weight of the module grade for the overall grade : 30 / 120 ( 25 % ) 13 module prerequisites : 60 credit points. 14 presence : presence is strongly recommended to warrant learning success 15 mobility / acknowledgement : use of the module for other course programs none 16 responsible lecturer : prof. dr. heike trautmann department : school of business and economics 17 misc. :
+
+
+===== Answer =====
+
+Answer: According to my information, the prerequisites to write the master's thesis in Information Systems are 60 credit points.
+Expected answer: 60 credit points
+
+Filter: {'$and': [{'source': {'$eq': 'module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf'}}, {'module_title': {'$eq': 'Master’s Thesis  '}}]}

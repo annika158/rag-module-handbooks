@@ -1,0 +1,104 @@
+Metadata filter: 
+
+Filter:
+ {'$and': [{'source': {'$eq': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf'}}, {'module_title': {'$eq': 'Grundlagen der Regulierung '}}]}
+
+Metadata filter (source and module): 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen der Regulierung 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen der Regulierung 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen der Regulierung 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen der Regulierung 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen der Regulierung 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen der Regulierung 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen der Regulierung 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen der Regulierung ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+modultitel deutsch : grundlagen der regulierung modultitel englisch : foundations of regulation studiengang : bachelor volkswirtschaftslehre 1 modulnummer : vwl 6a status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 3 oder 4 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar grundlagen der regulierung pflicht 30 h ( 2 sws ) 90 2 ubung ubung zu grundlagen der regulierung pflicht 30 h ( 2 sws ) 30 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul baut auf den grundlagen der mikrookonomik auf und intensiviert die dort erlangten kenntnisse. in weiterfuhrenden modulen finden sich die inhalte des moduls in form von wirtschaftspolitischen und regulatorischen anwendungsfeldern wieder. eine parallele belegung des moduls „ grundlagen der wirtschaftspolitik “ ist empfehlenswert. lehrinhalte des moduls : in diesem modul werden die grundzuge, bereiche und instrumente der wettbewerbs - und regulierungstheorie behandelt. dazu werden zuerst die grundlage
+---------- Chunk 1 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen der Regulierung ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+in diesem modul werden die grundzuge, bereiche und instrumente der wettbewerbs - und regulierungstheorie behandelt. dazu werden zuerst die grundlagen der wettbewerbstheorie und regulierungsokonomik vermittelt. im anschluss daran erfolgt die behandlung der deutschen sowie europaischen wettbewerbs - und regulierungspolitik, die durch anwendungsbeispiele vertieft wird. die vorlesung grundlagen der regulierung basiert auf wettbewerbsproblemen von markten und wie diese mit okonomisch fundierter regulierung gelost werden konnen. dazu werden die grundlegenden regulierungstheorien vorgestellt. die studierenden erlernen die analyse der instrumente, welche in der lage sind marktversagen zu beheben und in welchem zusammenhang sie sinnvoll eingesetzt werden konnen. praktische beispiele und anwendungen werden genutzt, um den studierenden den lernstoff nahe zu bringen. zusatzlich wird diskutiert, warum wettbewerb auf markten der bevorzugte soziale zustand ist und warum unternehmen wettbewerb reduzieren wollen. dazu werden diverse industrieokonomische modelle studiert, die verschiedene marktstrukturen behandeln
+---------- Chunk 2 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen der Regulierung ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+##um unternehmen wettbewerb reduzieren wollen. dazu werden diverse industrieokonomische modelle studiert, die verschiedene marktstrukturen behandeln und unterschiedliche ergebnisse erzeugen. der einfluss der marktkrafte und des marktverhaltens auf okonomische institutionen wird ebenso analysiert. themen lernziele 18 1. einleitung verstehen, wie wettbewerbspolitik aus dem historischen kontext hervorgegangen ist, welche ziele sie verfolgt und welcher zusammenhang zur regulierung besteht. 2. marktmacht und wohlfahrt verstehen, dass marktmacht zu unterschiedlichen ineffizienzen fuhren und so wohlfahrtsverluste entstehen konnen. 3. aufgaben der wettbewerbspolitik verstehen, dass die wettbewerbspolitik unterschiedliche aufgaben wahrnimmt. 4. grundlagen der regulierung lernen, warum naturliche monopole entstehen, wie sie entstehen und warum sie moglicherweise nicht pareto - optimale zustande erzeugen. wissen, welche regulierungstheorien es gibt. 5. preis - und preisstrukturregulierung lernen, wie preise und preisstrukturen naturlicher monopolisten reguli
+---------- Chunk 3 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen der Regulierung ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+die theoretischen kenntnisse der regulierungs - und wettbewerbstheorie sowie die damit verbundenen praktischen instrumente zur losung derartiger problemstellungen schlusselqualifikationen : in diesem modul lernen die studierenden insbesondere die analyse komplexer wirtschaftspolitischer sachverhalte mit multiplen einflussfaktoren sowie abstraktes und vernetztes denken. in den ubungen wird die losungskompetenz anhand von beispielen eingeubt. durch eine eigenverantwortliche vorbereitung der ubungen durch die studierenden wird deren selbststandige arbeitsweise unterstutzt. zusatzlich werden die studieninhalte im praktischen umfeld angewendet. hierzu werden in der gesamten vorlesung konkrete fallbeispiele herangezogen, um wirtschaftspolitische handlungsempfehlungen in aktuellen fragestellungen zu geben sowie die vor - und nachteile durchgefuhrter politischer maßnahmen abzuwagen. 6 beschreibung von wahlmoglichkeiten innerhalb des moduls : keine 7 leistungsuberprufung : modulabschlussprufung ( map ) 8 prufungsleistungen : nr. anzahl und art ; anbindung an lehrveranstaltung dauer gewichtung fur die modulnote in
+---------- Chunk 4 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen der Regulierung ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+##ulierungstheorien es gibt. 5. preis - und preisstrukturregulierung lernen, wie preise und preisstrukturen naturlicher monopolisten reguliert werden konnen und welche probleme resultieren konnen. 6. asymmetrische information lernen, welche instrumente die regulierungspolitik bei asymmetrischer information nutzen kann. 7. kostenorientierte regulierung lernen, welche kostenorientierten regulierungsinstrumente zur verfugung stehen und welche anreizwirkungen diese verursachen. 8. anreizregulierung lernen der unterschiedlichen formen von anreizbasierter regulierung. 9. deregulierung von netzwerksektoren lernen, wie netzwerksektoren dereguliert werden konnen. 5 erworbene kompetenzen : fachliche kompetenzen : dieses modul vermittelt den studierenden inhaltliche kompetenzen durch die vermittlung der grundlegenden analytischen und institutionellen kenntnisse zur systematisierung und analyse wirtschaftspolitischer frage - und problemstellungen. daruber hinaus erwerben die studierenden die theoretischen kenntnisse der regulierungs - und wettbewerbstheorie sowie die damit verbundenen praktischen instrumente zur losung derartiger problemstellungen sc
+---------- Chunk 5 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen der Regulierung ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+modulabschlussprufung ( map ) 8 prufungsleistungen : nr. anzahl und art ; anbindung an lehrveranstaltung dauer gewichtung fur die modulnote in % 1 modulabschlussklausur 90 min. 100 % 19 9 studienleistungen : keine 10 voraussetzungen fur die vergabe von leistungspunkten : die leistungspunkte fur das modul werden angerechnet, wenn das modul insgesamt erfolgreich abgeschlossen wurde, d. h. alle prufungsleistungen und studienleistungen bestanden wurden. 11 lp - zuordnung : teilnahme / prasent ( siehe nr. 3 ) nr. 1 1. 00 lp nr. 2 1. 00 lp prufungsleistungen ( siehe nr. 8 ) nr. 1 4. 00 lp summe 6 lp 12 gewichtung der modulnote fur die bildung der gesamtnote : 6 / 180 ( 3, 33 % ) 13 modulbezogene teilnahmevoraussetzungen : keine 14 anwesenheit : die anwesenheit wird empfohlen, um den lernerfolg zu verbessern 15 mobilitat / anerkennung : verwendbarkeit in anderen studiengangen bachelor bwl englische ubersetzung der modulkomponenten aus teil 3 nr. 1 : foundations of regulation nr. 2 : tutorial on foundations of regulation 16 modulbeauftragte / r : professor dr. gernot sieg einrichtung
+---------- Chunk 6 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen der Regulierung ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+der modulkomponenten aus teil 3 nr. 1 : foundations of regulation nr. 2 : tutorial on foundations of regulation 16 modulbeauftragte / r : professor dr. gernot sieg einrichtung : fb 04 - wirtschaftswissenschaften 17 sonstiges : 20 grundlagen der wirtschaftspolitik
+
+
+===== Answer =====
+
+Question: In welchem Semester findet die Vorlesung 'Grundlagen der Regulierung' statt? Ich studiere VWL im Bachelor seit dem WS 2020/21.
+Answer: Die Vorlesung "Grundlagen der Regulierung" findet jedes Sommersemester statt.
+Expected answer: Jedes Sommersemester -> Studiengang Bachelor VWL ab WS 2020/21

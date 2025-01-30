@@ -1,0 +1,92 @@
+Metadata filter: 
+
+Filter:
+ {'$and': [{'source': {'$eq': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf'}}, {'module_title': {'$eq': 'Regulierungsökonomik '}}]}
+
+Metadata filter (source and module): 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2020/21
+Module Title: Regulierungsökonomik 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2020/21
+Module Title: Regulierungsökonomik 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2020/21
+Module Title: Regulierungsökonomik 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2020/21
+Module Title: Regulierungsökonomik 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2020/21
+Module Title: Regulierungsökonomik 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2020/21
+Module Title: Regulierungsökonomik 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Regulierungsökonomik ', 'source': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+modultitel deutsch : regulierungsokonomik modultitel englisch : regulatory economics studiengang : master volkswirtschaftslehre 1 modulnummer : vwl mp4 status : pflicht unterrichtssprache : englisch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 1 oder 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung regulierungsokonomik pflicht 30 h ( 2 sws ) 90 2 ubung ubung / fallstudien / diskussion aktueller entwicklungen pflicht 15 h ( 1 sws ) 45 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul " regulierungsokonomik " baut auf dem bachelormodul " angewandte wirtschaftsforschung : wirtschaftspolitik und regulierung " auf. die weiteren module der mikrookonomik bilden das theoretische fundament. das modul " volkswirtschaftspolitik " ist uber die thematik der staatlichen eingriffe in den markt eng mit der regulierungsokonomik verwandt. uber die regulierung von netzsektoren, die ein kernthema der vorlesung darstellt, gibt es verbindungen zu den modulen der en
+---------- Chunk 1 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Regulierungsökonomik ', 'source': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+andere regulierungsoptionen analysieren. 5 lernergebnisse des moduls : fachliche kompetenzen : studierende konnen nach abschluss des moduls eine eigenstandige einschatzung des regulierungsbedarfes, der regulierungsmoglichkeiten und insbesondere deren institutionelle umsetzung entwickeln. sie besitzen die notigen kenntnisse, um wirkungen und moglichkeiten unterschiedlicher regulatorischer instrumente abzuschatzen und auf ihre anwendungsorientierung hin zu uberprufen. schlusselqualifikationen : in diesem modul lernen die studierenden insbesondere die analyse komplexer okonomischer sachverhalte mit multiplen einflussfaktoren, abstraktes und vernetztes denken. in den ubungen wird die praktische losungskompetenz fur angewandte probleme gefordert. durch eine eigenverantwortliche vorbereitung der ubungen durch die studierenden wird deren selbststandige arbeitsweise unterstutzt. zusatzlich werden die studieninhalte im praktischen umfeld angewendet. hierzu werden in der gesamten vorlesung konkrete fallbeispiele, beispielsweise zu konkreten regulierungsmaßnahmen durch den staat, herangezogen. 6 beschreibung von wahlm
+---------- Chunk 2 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Regulierungsökonomik ', 'source': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+##sokonomik verwandt. uber die regulierung von netzsektoren, die ein kernthema der vorlesung darstellt, gibt es verbindungen zu den modulen der energieokonomik und verkehrsokonomik. aufbauend kann das seminar „ aktuelle wirtschaftspolitische entwicklungen " gewahlt werden. lehrinhalte des moduls : in diesem modul wird die ursachenanalyse fur marktversagen vertieft und das okonomische instrumentarium zu deren korrektur und regulierung untersucht. darauf aufbauend erfolgt eine anwendungsorientierte detailanalyse der regulierung in ausgewahlten industrien. dabei werden vor allem die neuen institutionenokonomischen aspekte der regulierung integriert. themen lernziele 1. theorie der regulierung lernen, wann regulierung erforderlich ist und wie monopolistische bottlenecks zu identifizieren sind. verstehen, dass der regulatorische prozess nicht friktionslos ist und dass die akteure ihren eigeninteressen folgen. lerne, die unterschiedlichen ziele der regulierung zu erfassen und zu unterscheiden. 14 2. regulierungsinstrumente die unterschiedlichen regulierungsinstrumente erlernen und ihre vor - und nachteile verstehen
+---------- Chunk 3 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Regulierungsökonomik ', 'source': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+##zungen : keine 14 anwesenheit : die anwesenheit wird dringend empfohlen, um den lernerfolg zu verbessern. 15 mobilitat / anerkennung : verwendbarkeit in anderen studiengangen master bwl, master humangeographie englische ubersetzung der modulkomponenten aus teil 3 nr. 1 : economics of regulation nr. 2 : tutorial / case studies / discussion of current developments 16 modulbeauftragte / r : prof. dr. theresia theurl einrichtung : fb 04 - wirtschaftswissenschaften 17 sonstiges : 16 projektstudium
+---------- Chunk 4 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Regulierungsökonomik ', 'source': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+konkrete fallbeispiele, beispielsweise zu konkreten regulierungsmaßnahmen durch den staat, herangezogen. 6 beschreibung von wahlmoglichkeiten innerhalb des moduls : keine 7 leistungsuberprufung : modulabschlussprufung ( map ) 8 prufungsleistungen : nr. anzahl und art ; anbindung an lehrveranstaltung dauer gewichtung fur die modulnote in % 1 modulabschlussklausur 90 min. 100 % 9 studienleistungen : keine 10 voraussetzungen fur die vergabe von leistungspunkten : die leistungspunkte fur das modul werden angerechnet, wenn das modul insgesamt 15 erfolgreich abgeschlossen wurde, d. h. alle prufungsleistungen und studienleistungen bestanden wurden. 11 lp - zuordnung : teilnahme / prasenz ( siehe nr. 3 ) nr. 1 1. 00 lp nr. 2 0. 50 lp prufungsleistungen ( siehe nr. 8 ) nr. 1 4. 50 lp summe 6 lp 12 gewichtung der modulnote fur die bildung der gesamtnote : 6 / 120 ( 5 % ) 13 modulbezogene teilnahmevoraussetzungen : keine 14 anwesenheit : die anwesenheit wird dringend empfohlen, um den lernerfolg zu verbessern. 15 mobilitat / anerkennung
+---------- Chunk 5 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Regulierungsökonomik ', 'source': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+unterscheiden. 14 2. regulierungsinstrumente die unterschiedlichen regulierungsinstrumente erlernen und ihre vor - und nachteile verstehen. die eignung verschiedener regulierungsinstrumente bewerten. 3. 1 anwendung in netzindustrien die besonderheit von netzindustrien verstehen. erlernen von unterschiedlichen regulierungsregimen und ihre vor - und nachteile analysieren. 3. 2 anwendung auf den netzsektor telekommunikation die besonderheiten des netzsektors telekommunikation und die folgen fur die regulierung verstehen. erlernen der aktuellen regulierungen auf nationaler und europaischer ebene. die wirksamkeit dieser regulierungen bewerten und andere regulierungsoptionen analysieren. 3. 3 anwendung auf den netzsektor elektrizitat die besonderheiten des netzsektors elektrizitat und die folgen fur die regulierung verstehen. erlernen der aktuellen regulierungen auf nationaler und europaischer ebene. die wirksamkeit dieser regulierungen bewerten und andere regulierungsoptionen analysieren. 5 lernergebnisse des moduls : fachliche kompetenzen : studierende konnen nach abschluss des moduls eine e
+
+
+===== Answer =====
+
+Question: Worum geht es in dem Modul 'Regulierungsökonomik' des Studiengangs Master VWL? Ich habe im WS 2020/21 angefangen.
+Answer: Das Modul "Regulierungsökonomik" im Studiengang Master VWL befasst sich mit der Analyse von Marktversagen und der Untersuchung von regulatorischen Instrumenten zur Korrektur und Regulierung. Es werden Themen wie die Theorie der Regulierung, Regulierungsinstrumente und ihre Anwendung in verschiedenen Industrien, insbesondere in Netzindustrien wie Telekommunikation und Elektrizität, behandelt.
+Expected answer: In diesem Modul wird die Ursachenanalyse für Marktversagen vertieft und das ökonomische Instrumentarium zu deren Korrektur und Regulierung untersucht, …

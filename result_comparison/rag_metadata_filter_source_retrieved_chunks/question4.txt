@@ -1,0 +1,138 @@
+Metadata filter (only source): 
+
+Filter:
+ {'source': {'$eq': 'module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf'}}
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: unknown
+Effective From: wintersemester 2019/20
+Module Title: Master’s Thesis  
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: unknown
+Effective From: wintersemester 2019/20
+Module Title: Information Management: Theories 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: unknown
+Effective From: wintersemester 2019/20
+Module Title: Information Management: Tasks and Techniques 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: unknown
+Effective From: wintersemester 2019/20
+Module Title: Elective Modules (Seminar) 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: unknown
+Effective From: wintersemester 2019/20
+Module Title: Project Seminar  
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: unknown
+Effective From: wintersemester 2019/20
+Module Title: Elective Modules (Seminar) 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: unknown
+Effective From: wintersemester 2019/20
+Module Title: Information Systems Development: Data Integration 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: unknown
+Effective From: wintersemester 2019/20
+Module Title: Information Management: Managing the Information Age Organization 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: unknown
+Effective From: wintersemester 2019/20
+Module Title: Selected Chapters in Information Systems 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: unknown
+Effective From: wintersemester 2019/20
+Module Title: Business Intelligence: Management Information Systems and Data 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Master', 'effective_from': 'wintersemester 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Master’s Thesis  ', 'source': 'module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf', 'study_program': 'Master of Science in Information Systems'}
+module title english : master ’ s thesis course program : master information systems 1 module no : mt state : compulsory language of instruction : english 2 turn : each semester duration : 1 semester semester : 3 or 4 cp : 30 workload ( h ) : 900 3 module structure : no type course state workload ( h ) presence ( h + ch ) self - study ( h ) 1 writing the thesis compulsory 0 h ( 0 ch ) 750 2 thesis defense compulsory 0 h ( 0 ch ) 60 3 exercise research methods compulsory 30 h ( 2 ch ) 60 4 module profile : purpose of the module / integration into curriculum : the master thesis is written in the research context of one of the method tracks im, pm, bn, bi and / or isd. course content : those are subject to the topic and area where the thesis is intended. the thesis defense covers the thesis ’ topic. with his / her master ’ s thesis, a student is supposed to prove his / her ability to take part in the scientific process by doing a small piece of research and write an appropriate paper on it. the thesis should have a length of approximately 80 pages. the thesis defense contains a presentation of the thesis ’ profile as well as a discussion. 5 learning outcomes : academic : the student can handle a research topic in a scientific way and apply the results to practical problems. he or she can present and defend approaches, underlying theory and results. soft skills : the student can handle the formal requirements associated to a research paper : investigating the research context, collecting material from the scientific literature, performing and processing bibliographical inquiries, presenting own ideas in the scientific environment of the given topic. 6 description of possible electives within the modules : none 7 examination : final module exam 8 relevant work : 77 no number and type ; connection to course duration part of final mark in % 1 master´s thesis 100 % 9 study work
+---------- Chunk 1 ----------
+{'degree': 'Master', 'effective_from': 'wintersemester 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Information Management: Theories ', 'source': 'module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf', 'study_program': 'Master of Science in Information Systems'}
+access to the academic debate on im, specifically, the international academic debate on the most important or discussed issues of information management. the students will b ) discern theories underlying the frameworks and techniques proposed for solving im tasks, including market, resource and capability based theories of strategic information systems, it strategy theory, it value productivity theory, organization theory of it and theories of sourcing and governing the information function. they will be able to c ) will develop a repertoire of theoretical approaches and be able to apply them to issues of information management and d ) will understand the contributions of important 10 management theories to the is field and will be able to assess these tools and the underlying theories critically. soft skills : in addition to providing students with the capabilities to deal with academic literature reflectively, the course trains them in presenting their take on selected academic papers to the class and furthers their general ability to take an active part in academic discussions. this ability is based on a combination of reading, thinking, writing, discussing and listening skills. students will practice their collaboration skills and develop techniques for efficient collaboration 6 description of possible electives within the modules : the module can be taken as part of the track information management or as an elective. within the electives a minimum of 2 seminars has to be taken. 7 examination : examinations for every part of the module 8 relevant work : no number and type ; connection to course duration part of final mark in % 1 final written exam up to 120 min. 60 % 9 study work : no number and type ; connection to course duration 1 reflection on readings by presentation ( groups of 3 - 5 students ), written report and comments on reading ca. 20 min., ca 5 pages, ca 6 pages 10 prerequisites for credit points : the credit points will be granted after all relevant work and study work have been successfully completed. 11 cp assignment : presence ( see no 3
+---------- Chunk 2 ----------
+{'degree': 'Master', 'effective_from': 'wintersemester 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Information Management: Tasks and Techniques ', 'source': 'module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf', 'study_program': 'Master of Science in Information Systems'}
+their conceptual knowledge in light of real world practices. 5 learning outcomes : academic : the course provides students with skills indispensable for an it executive. in particular, students will obtain a comprehensive overview of the field of it management and get acquainted with the typical tasks it managers are charged with. they will also get to know prominent frameworks and techniques to solve im tasks as proposed in textbooks. soft skills : in addition to expertise in the fields mentioned above, students will deepen their skills in 7 constructively analyzing and solving case studies in both classroom settings and as part of individual assignments. 6 description of possible electives within the modules : the module can be taken as part of the track information management or as an elective. within the electives a minimum of 2 seminars has to be taken. 7 examination : final module exam 8 relevant work : no number and type ; connection to course duration part of final mark in % 1 final written exam up to 120 min. 100 % 9 study work : no number and type ; connection to course duration 1 answering case - study questions 10 pages 10 prerequisites for credit points : the credit points will be granted after all relevant work and study work have been successfully completed. 11 cp assignment : presence ( see no 3 ) no 1 1. 00 cp no 2 1. 00 cp relevant work ( see no 8 ) no 1 3. 00 cp study work ( see no 9 ) no 1 1. 00 cp total 6 cp 12 weight of the module grade for the overall grade : 6 / 120 ( 5 % ) 13 module prerequisites : none 14 presence : presence is strongly recommended to warrant learning success 15 mobility / acknowledgement : use of the module for other course programs master business administration 16 responsible lecturer : prof. dr. stefan klein, dr. alexander teubner department : school of business and economics 8 17 misc. : 9 information management
+---------- Chunk 3 ----------
+{'degree': 'Master', 'effective_from': 'wintersemester 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Elective Modules (Seminar) ', 'source': 'module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf', 'study_program': 'Master of Science in Information Systems'}
+electives within the modules : within the electives a minimum of 2 seminars has to be taken. 65 7 examination : examinations for every part of the module 8 relevant work : no number and type ; connection to course duration part of final mark in % 1 seminar elaboration ( academic paper ) and presentation ca 20 pages, ca 60 minutes 100 % 9 study work : none 10 prerequisites for credit points : the credit points will be granted after all relevant work and study work have been successfully completed. 11 cp assignment : presence ( see no 3 ) no 1 2. 00 cp relevant work ( see no 8 ) no 1 4. 00 cp total 6 cp 12 weight of the module grade for the overall grade : 6 / 120 ( 5 % ) 13 module prerequisites : none 14 presence : presence is strongly recommended to warrant learning success 15 mobility / acknowledgement : use of the module for other course programs none 16 responsible lecturer : prof. dr. stefan klein department : school of business and economics 17 misc. : 66 selected chapters in information systems
+---------- Chunk 4 ----------
+{'degree': 'Master', 'effective_from': 'wintersemester 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Project Seminar  ', 'source': 'module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf', 'study_program': 'Master of Science in Information Systems'}
+module title english : project seminar course program : master information systems 1 module no : ps state : compulsory language of instruction : english 2 turn : each semester duration : 1 semester semester : 3 or 4 cp : 12 workload ( h ) : 360 3 module structure : no type course state workload ( h ) presence ( h + ch ) self - study ( h ) 1 project seminar project seminar compulsory 120 h ( 8 ch ) 240 4 module profile : purpose of the module / integration into curriculum : the material and methods that were introduced in former tracks im, pm, bn, bi, isd and / or lpr will be applied in a practice - oriented project to solve a realistic, complex problem. the project is often performed in collaboration with a partner from industry. the experience gained in the project seminar can be helpful for the master thesis. course content : the material and methods learned in previous courses are applied in a practice - oriented project with topics varying from term to term. in particular teamwork, project planning and management, development of a business concept, design of a corresponding software architecture, implementation, and testing will be trained. moreover, the intermediate and final results of the project will be presented using state - of - theart tools. the participants also have to read relevant literature and describe required concepts in papers. the students are supported in all these activities by tutors. themes learning objectives writing scientific papers read and understand scientific literature. describe the read material well - structured, understandably, and precisely in own words in a paper presentation present the material described in the paper orally using state - of - the - art tools ( such as e. g. powerpoint ) in a well - structured, understandable, and precise way. project work solve a realistic task in a project team. project management manage a project taking into account limited time and resources. divide a complex task into activities and assign
+---------- Chunk 5 ----------
+{'degree': 'Master', 'effective_from': 'wintersemester 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Elective Modules (Seminar) ', 'source': 'module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf', 'study_program': 'Master of Science in Information Systems'}
+module title english : elective modules ( seminar ) course program : master information systems 1 module no : emsem1 - 6 state : elective language of instruction : english 2 turn : each semester duration : 1 semester semester : 1 or 2 or 3 or 4 cp : 6 workload ( h ) : 180 3 module structure : no type course state workload ( h ) presence ( h + ch ) self - study ( h ) 1 seminar elective modules compulsory 60 h ( 4 ch ) 120 4 module profile : purpose of the module / integration into curriculum : usually, the topics deepen the profile of one ( or more ) of the tracks im, pm, bn, bi, isd and lpr. therefore, knowledge of the profile of pertaining track ( s ) is strongly recommended. course content : the elective seminars deal with topics that arise from recent research. they are usually organized in small groups of students. each student gives a seminar talk and, to this end, writes a seminar elaboration. main seminar - topics may change from term to term. to follow recent developments, the topics and, accordingly, the learning objectives are changing from term to term. examples of earlier topics have been : • structural model analysis • model visualization - layout and perception • network evolution • beautiful data • erp systems in industry, retail and supply chains • information retrieval • coordination in supply chain management • theoretical computer science 5 learning outcomes : academic : the students deepen their knowledge in specific topics. soft skills : students improve their skills in acquiring profound scientific knowledge and presentation. depending on the topic, group working abilities are supported. 6 description of possible electives within the modules : within the electives a minimum of 2 seminars has to be taken. 65 7 examination : examinations for every part of the module 8 relevant work : no number and type ; connection to course duration part of final mark in %
+---------- Chunk 6 ----------
+{'degree': 'Master', 'effective_from': 'wintersemester 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Information Systems Development: Data Integration ', 'source': 'module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf', 'study_program': 'Master of Science in Information Systems'}
+study work : none 10 prerequisites for credit points : the credit points will be granted after all relevant work and study work have been successfully completed. 11 cp assignment : presence ( see no 3 ) no 1 1. 00 cp no 2 1. 00 cp relevant work ( see no 8 ) no 1 2. 50 cp no 2 1. 50 cp total 6 cp 43 12 weight of the module grade for the overall grade : 6 / 120 ( 5 % ) 13 module prerequisites : basic database knowledge 14 presence : presence is recommended. 15 mobility / acknowledgement : use of the module for other course programs master business administration 16 responsible lecturer : prof. dr. gottfried vossen department : school of business and economics 17 misc. : 44 information systems development : advanced concepts in software engineering
+---------- Chunk 7 ----------
+{'degree': 'Master', 'effective_from': 'wintersemester 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Information Management: Managing the Information Age Organization ', 'source': 'module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf', 'study_program': 'Master of Science in Information Systems'}
+in the “ information age ” and be able to explain the technological, social and economic phenomena constituting it. furthermore, they are expected to have an idea of how the information age challenges traditional management concepts and what appropriate responses to these challenges might look like. 5 soft skills : the course introduces students to the analysis of case studies in small groups and furthers their ability to actively participate in classroom discussions. 6 description of possible electives within the modules : the module can be taken as part of the track information management or as an elective. within the electives a minimum of 2 seminars has to be taken. 7 examination : final module exam 8 relevant work : no number and type ; connection to course duration part of final mark in % 1 final written exam up to 120 min. 100 % 9 study work : none 10 prerequisites for credit points : the credit points will be granted after all relevant work and study work have been successfully completed. 11 cp assignment : presence ( see no 3 ) no 1 1. 00 cp no 2 1. 00 cp relevant work ( see no 8 ) no 1 4. 00 cp total 6 cp 12 weight of the module grade for the overall grade : 6 / 120 ( 5 % ) 13 module prerequisites : none 14 presence : presence is strongly recommended to warrant learning success 15 mobility / acknowledgement : use of the module for other course programs master business administration 16 responsible lecturer : prof. dr. stefan klein, dr. stefan schellhammer department : school of business and economics 17 misc. : 6 information management : tasks and techniques
+---------- Chunk 8 ----------
+{'degree': 'Master', 'effective_from': 'wintersemester 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Selected Chapters in Information Systems ', 'source': 'module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf', 'study_program': 'Master of Science in Information Systems'}
+module title english : selected chapters in information systems course program : master information systems 1 module no : scis 1 - 5 state : elective language of instruction : english 2 turn : irregularly duration : 1 semester semester : 1 or 2 or 3 cp : 6 workload ( h ) : 180 3 module structure : no type course state workload ( h ) presence ( h + ch ) self - study ( h ) 1 lecture lecture “ selected chapters in is ” compulsory 30 h ( 2 ch ) 60 2 exercise exercise “ selected chapters in is ” compulsory 30 h ( 2 ch ) 60 4 module profile : course content : an actual or classical topic extending to the “ methods ” or to the “ domains ” of information systems or being located in the border areas of information systems and computer science / mathematics / business administration. this module integrates lectures which are offered only once or at irregular intervals, e. g., by guest lecturers or by other lecturers who are members of the institute only for a limited time. profile of the lecture are announced in the ( electronic ) university calendar and are usually introduced during the seminar - presentation which takes place in the preceding term. 5 learning outcomes : academic : the students gain deepened insight into a special topic of information systems. they can apply techniques associated with the topic to specific problem settings. soft skills : the students learn to work with specific scientific literature. 6 description of possible electives within the modules : within the electives a minimum of 2 seminars has to be taken. 7 examination : final module exam 8 relevant work : no number and type ; connection to course duration part of final mark in % 1 final written exam up to 120 min. 100 % 67 9 study work : none 10 prerequisites for credit points : the credit points will be granted after all relevant work and study work have been successfully completed. 11 cp assignment : presence ( see no 3
+---------- Chunk 9 ----------
+{'degree': 'Master', 'effective_from': 'wintersemester 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Business Intelligence: Management Information Systems and Data ', 'source': 'module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf', 'study_program': 'Master of Science in Information Systems'}
+in mis / dwh projects ; to evaluate different bi strategies in organizations and understand their implementation information management to understand data science concepts ; to be able to apply information needs analyses 5 learning outcomes : academic : the students learn to know common methods and practices as well as technological foundations for creation and maintenance of data warehouse and management information systems. the students will develop an understanding of the most common terms in the domain and will be able to critically reflect on these. soft skills : through exercises and presentations, students are able to develop the following soft skills : • presentation techniques • team work • ability to communicate and collaborate • autonomous working • time management • application of theoretical concepts in practical settings 32 6 description of possible electives within the modules : the module can be taken as part of the track business intelligence or as an elective. within the electives a minimum of 2 seminars has to be taken. 7 examination : examinations for every part of the module 8 relevant work : no number and type ; connection to course duration part of final mark in % 1 final written exam 120 min. 100 % 9 study work : no number and type ; connection to course duration 1 4 exercises each 10 pages 2 1 presentation 20 minutes 10 prerequisites for credit points : the credit points will be granted after all relevant work and study work have been successfully completed. 11 cp assignment : presence ( see no 3 ) no 1 1. 00 cp no 2 1. 00 cp relevant work ( see no 8 ) no 1 2. 50 cp study work ( see no 9 ) no 1 1. 00 cp no 2 0. 50 cp total 6 cp 12 weight of the module grade for the overall grade : 6 / 120 ( 5 % ) 13 module prerequisites : none 14 presence : presence is strongly recommended to warrant learning success 15 mobility / acknowledgement : use of the module for other course programs master business administration 33 16 responsible lecturer
+
+
+===== Answer =====
+
+Question: What are the prerequisites to write the master's thesis in Information Systems? I started in Wintersemester 2019/20.
+Answer: Based on my information, there are no specific prerequisites mentioned for writing the master's thesis in Information Systems. However, it is mentioned that the master thesis is written in the research context of one of the method tracks IM, PM, BN, BI, and/or ISD, suggesting that students should have a good understanding of the concepts and methods learned in these tracks before starting their thesis.
+Expected answer: 60 credit points

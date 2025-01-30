@@ -1,0 +1,136 @@
+Metadata filter (only source) - Question: Wie setzt sich die Note aus dem Modul 'Performance Management & Strategy Execution' des Masters BWL ab WiSe 2023/24 zusammen? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Performance Management & Strategy Execution 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Management II 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: From Data to Insights: Driving Corporate Performance 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Performance Management & Strategy Execution 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Ausgewählte Kapitel des Managements 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Market- and Resource-Based View of Strategy 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Innovation Management 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Ausgewählte Kapitel des Accounting II 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Management I 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Market-oriented Leadership (Major Marketing) 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Performance Management & Strategy Execution ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : performance management & strategy execution modultitel englisch : performance management & strategy execution studiengang : master betriebswirtschaftslehre 1 modulnummer : acm13 status : wahlpflicht unterrichtssprache : englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung performance management & strategy execution pflicht 30 h ( 2 sws ) 60 2 ubung tutorial on performance management & strategy execution pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : dieser kurs beschaftigt sich mit der fragestellung, wie manager und angestellte eines unternehmens ausgerichtet werden mussen, um eine unternehmensstrategie zu implementieren. ausrichtungsprobleme sind besonders schwerwiegend, wenn individuelle ziele der angestellten und manager von den zielen der shareholder oder der geschaftsfuhrung abweichen. die implementierung einer strategie ist dementsprechend eine der großten herausforderungen eines modernen unternehmens. dieser kurs setzt deshalb einen besonderen fokus auf ansatze und instrumente des management alignment
+---------- Chunk 1 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Management II ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : management ii modultitel englisch : management ii studiengang : master betriebswirtschaftslehre 1 modulnummer : cfm04 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung strategisches management iii pflicht 30 h ( 2 sws ) 60 2 ubung fallstudienubung pflicht 30 h ( 2 sws ) 30 3 ubung internettutorium pflicht 0 h ( 0 sws ) 30 4 profil des moduls : lehrinhalte des moduls : die veranstaltung „ strategisches management iii “ beschaftigt sich mit grundlegenden fragen von strategischer positionierung und deren umsetzung. zentrale okonomische prinzipien und eine historische einordnung sorgen fur den rahmen dieser veranstaltung, um zu erortern, welche faktoren die strategiewahl eines unternehmens beeinflussen und determinieren. die umfassende diskussion von diversifikationsmoglichkeiten erlautert die rolle von unternehmensgrenzen. darauf aufbauend werden einzelunternehmens - und marktbezogene auswirkungen
+---------- Chunk 2 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'From Data to Insights: Driving Corporate Performance ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : from data to insights : driving corporate performance modultitel englisch : from data to insights : driving corporate performance studiengang : master betriebswirtschaftslehre 1 modulnummer : acm 18 status : wahlpflicht unterrichtssprache : englisch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung from data to insights : driving corporate performance pflicht 30 h ( 2 sws ) 60 2 ubung from data to insights : driving corporate performance pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : daten erheben und / oder sammeln, bereinigen, konsolidieren und interpretieren, gewinnt in der praxis stetig an relevanz und wird, angesichts aktueller trends, weiterhin an wichtigkeit zunehmen. im rahmen des controllings ist es folglich notwendig, strukturierte und unstrukturierte daten einer organisation einsetzen zu konnen. ziel ist es, kritische erfolgsmesser und - treiber sowie kausale zusammenhange innerhalb eines unternehmens zu erkennen und hierauf aufbauend managementents
+---------- Chunk 3 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Performance Management & Strategy Execution ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+##liche ausarbeitung max. 10 s. 2 25 % 9 studienleistungen : keine 10 voraussetzungen fur die vergabe von leistungspunkten : die leistungspunkte fur das modul werden angerechnet, wenn das modul insgesamt erfolgreich abgeschlossen wurde, d. h. alle prufungsleistungen und studienleistungen bestanden wurden. 11 lp - zuordnung : teilnahme / prasenz ( siehe teil 3 ) nr. 1 1. 00 lp 54 nr. 2 1. 00 lp prufungsleistungen ( siehe teil 8 ) nr. 1 3. 00 lp nr. 2 1. 00 lp summe 6 lp 12 gewichtung der modulnote fur die bildung der gesamtnote : 6 / 120 ( 5 % ) 13 modulbezogene teilnahmevoraussetzungen : keine 14 anwesenheit : die anwesenheit wird dringend empfohlen, um den lernerfolg zu verbessern. 15 mobilitat / anerkennung : verwendbarkeit in anderen studiengangen master is englische ubersetzung der modulkomponenten aus teil 3 nr. 1 : performance management & strategy execution nr. 2 : tutorial on performance management & strategy execution 16 modulbeauftragte / r : professor dr. martin artz einrichtung : fb 04 - wirtschaftswissenschaftliche fakultat 17 sonstiges : 55 ifrs und controlling
+---------- Chunk 4 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Ausgewählte Kapitel des Managements ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : ausgewahlte kapitel des managements modultitel englisch : selected topics on management studiengang : master betriebswirtschaftslehre 1 modulnummer : cfm10 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 2 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung / seminar ausgewahlte kapitel zu fragen des managements wahlpflicht 30 h ( 2 sws ) 150 2 seminar fuhren und steuern im konzern * wahlpflicht 60 h ( 4 sws ) 120 3 seminar fortgeschrittene empirische managementforschung wahlpflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : die ausgewahlten kapitel des managements konzentrieren sich auf verschiedene fragestellungen des managements. die kurse und veranstaltungen dieses moduls besitzen wechselnde themenschwerpunkte und adressieren aktuelle entwicklungen und trends im management. lehrinhalte des moduls : in diesem modul werden aktuelle fragestellungen aus dem bereich management vorgestellt. die veranstaltungen haben abhangig von den ak
+---------- Chunk 5 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Market- and Resource-Based View of Strategy ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : market - and resource - based view of strategy modultitel englisch : market - and resource - based view of strategy studiengang : master betriebswirtschaftslehre 1 modulnummer : cfm05 status : pflicht unterrichtssprache : englisch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung market - and resource - based view of strategy pflicht 30 h ( 2 sws ) 60 2 ubung market - and resource - based view of strategy ( exercises ) pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : die vorlesung „ market - and resource - based view of strategy “ beantwortet die grundfrage des strategischen managements : wie ist es trotz wettbewerb moglich, einen dauerhaften uberdurchschnittlichen unternehmenserfolg zu erzielen? die vorlesung kombiniert die beiden bekanntesten strategieansatze, die marktorientierte und die ressourcenorientierte strategielehre. wahrend die marktorientierte strategielehre auf die chancen und risiken des externen marktumfeldes betrachtet, analysier
+---------- Chunk 6 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Innovation Management ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : innovation management modultitel englisch : innovation management studiengang : master betriebswirtschaftslehre 1 modulnummer : mcm05 status : wahlpflicht unterrichtssprache : englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung innovation management wahlpflicht 30 h ( 2 sws ) 60 2 ubung ubung zu innovation management wahlpflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : dieser kurs vermittelt den studierenden, wie wert fur die kunden eines jungen oder etablierten unternehmens durch produkte / dienstleistungen ( value equity ) generiert werden kann. es werden strategien erortert, die als grundlage fur einen wettbewerbsvorteil dienen und darauf aufbauend untersucht, welche organisatorischen strukturen die identifikation, die herstellung und die kommerzialisierung von ( technologischen ) innovationen fordern. lehrinhalte des moduls : folgende themen werden unter anderem im rahmen des kurses behandelt : - innovationsprozess - schaffung
+---------- Chunk 7 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Ausgewählte Kapitel des Accounting II ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+englische ubersetzung der modulkomponenten aus teil 3 nr. 1 : accounting and auditing i nr. 2 : trade and company law i nr. 3 : insurance economics nr. 4 : intop ( in english ) nr. 5 : case studies in international accounting nr. 6 : accounting research seminar ( phd ) nr. 7 : cases in top management decision making ( in english ) nr. 8 : managing growth : organizational design and financial management 50 nr. 9 : management accounting research ( phd course ) 16 modulbeauftragte / r : prof. dr. hans - jurgen kirsch einrichtung : fb 04 - wirtschaftswissenschaften 17 sonstiges : das intop - seminar kann entweder als blockveranstaltung oder im rahmen einer wochentlichen veranstaltung durchgefuhrt werden. neben dem erfolg bei der unternehmenssimulation und der finalen prasentation wird auch die hausarbeit bewertet. da die teilnehmeranzahl beschrankt ist, muss eine bewerbung am institut fur unternehmensrechnung und - besteuerung erfolgen. 51 performance management & strategy execution
+---------- Chunk 8 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Management I ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : management i modultitel englisch : management i studiengang : master betriebswirtschaftslehre 1 modulnummer : cfm02 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung strategisches management i pflicht 30 h ( 2 sws ) 60 2 vorlesung strategisches management ii pflicht 30 h ( 2 sws ) 60 4 profil des moduls : lehrinhalte des moduls : ziel der veranstaltung „ strategisches management i “ ist es, wesentliche einblicke in ein effektives wachstumsmanagement junger unternehmen zu geben. ausgehend von empirischen erkenntnissen und theoretischen analysen werden insbesondere instrumente des wachstumsmanagements ( u. a. ein avanciertes lebenszyklusmodell ) vorgestellt. umfangreiche fallbeispiele verdeutlichen die praxisrelevanz der ausfuhrungen. die behandlung des themas „ unternehmenskrisen “ rundet die veranstaltung inhaltlich ab. ziel der veranstaltung „ strategisches management ii “ ist es, wesentliche einblicke in eine fundier
+---------- Chunk 9 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Market-oriented Leadership (Major Marketing) ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : market - oriented leadership ( major marketing ) modultitel englisch : market - oriented leadership ( major marketing ) studiengang : master betriebswirtschaftslehre 1 modulnummer : mcm01 status : pflicht unterrichtssprache : englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung market - oriented leadership pflicht 30 h ( 2 sws ) 60 2 ubung ubung zu market - oriented leadership pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : dieser kurs vermittelt die grundlagen der marktorientierten unternehmensfuhrung. es werden die konzeptionellen grundlagen der marktorientierten unternehmensfuhrung vorgestellt und die studierenden erhalten einen uberblick uber die drei wesentlichen ressourcen eines unternehmens : produkte / services, marken und kundenbeziehungen. zudem wird den studierenden vermittelt, welche abhangigkeiten zwischen den ressourcen bestehen und welchen einfluss kontextfaktoren auf die ausgestaltung der einzelnen ressourcen haben. der ein
+
+
+===== Answer =====
+
+Answer: Die Note setzt sich aus der Teilnahme/Präsenz (1 LP), Prüfungsleistungen (4 LP) und Studienleistungen (1 LP) zusammen.
+Expected answer: Klausur 75%, Schriftliche Ausarbeitung 25%
+
+Filter: {'source': {'$eq': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf'}}

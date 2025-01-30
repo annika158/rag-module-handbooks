@@ -1,0 +1,78 @@
+Was sind Module im 1. Semester Bachelor Wirtschaftsinformatik in der PO 2022? 
+
+Basierend auf meiner Information kann ich keine spezifischen Module für das 1. Semester Bachelor Wirtschaftsinformatik in der PO 2022 nennen, da die bereitgestellten Informationen sich auf die Module für die Studiengänge Bachelor Betriebswirtschaftslehre und Bachelor Volkswirtschaftslehre beziehen. 
+
+Expected answer: Einführung in die Wirtschaftsinformatik, Programmierung, Wirtschaftsmathematik, Einführung in die BWL, Investition und Finanzierung
+
+----------------------------------------------------------------------------------------------------
+
+Was für Module sind im Bereich Quantitative Methoden im Bachelor Wirtschaftsinformatik in der PO 2018? 
+
+Nach meiner Information gibt es im Bereich Quantitative Methoden im Bachelor Wirtschaftsinformatik in der PO 2018 folgende Module:
+
+* QR1: Mathematik und IT (12 LP)
+* QR2: Statistik I (6 LP)
+* QR3: Recht (6 LP)
+* QR4: Empirische Methoden (9 LP)
+
+Es gibt auch ein Modul "Empirische Wirtschaftsforschung" (QMS 4) im Bachelor Volkswirtschaftslehre, das als Pflichtmodul im Sommersemester angeboten wird. 
+
+Expected answer: Wirtschaftsmathematik, Operations Research, Daten und Wahrscheinlichkeiten, Datenanalyse und Simulation
+
+----------------------------------------------------------------------------------------------------
+
+Was für Pflichtmodule muss ich im Bereich VWL und Recht im Studiengang Bachelor BWL belegen? 
+
+Im Bereich VWL und Recht sind keine Pflichtmodule vorgesehen. 
+
+Expected answer: Einführung in die VWL & Mikroökonomik, Grundlagen der Makroökonomik, Recht für Ökonomen
+
+----------------------------------------------------------------------------------------------------
+
+What are the prerequisites to write the master's thesis in Information Systems? 
+
+According to my information, the prerequisites to write the master's thesis in Information Systems are 60 credit points. 
+
+Expected answer: 60 credit points
+
+----------------------------------------------------------------------------------------------------
+
+Worum geht es in dem Modul 'Regulierungsökonomik' des Studiengangs Master VWL? 
+
+In dem Modul "Regulierungsökonomik" des Studiengangs Master Volkswirtschaftslehre geht es um die Grundlagen der Regulierungsökonomik, einschließlich der Theorie und Praxis der Regulierung von Märkten und Unternehmen. Das Modul behandelt Themen wie die Regulierung von Netzsektoren, staatliche Eingriffe in den Markt und die Auswirkungen von Regulierungsmaßnahmen auf die Wirtschaft. 
+
+Expected answer: In diesem Modul wird die Ursachenanalyse für Marktversagen vertieft und das ökonomische Instrumentarium zu deren Korrektur und Regulierung untersucht, …
+
+----------------------------------------------------------------------------------------------------
+
+In welchem Semester findet die Vorlesung 'Grundlagen der Regulierung' statt? 
+
+Jedes Sommersemester 
+
+Expected answer: Jedes Sommersemester -> Studiengang Bachelor VWL ab WS 2020/21
+
+----------------------------------------------------------------------------------------------------
+
+Welchen Umfang muss die Bachelorarbeit im Studiengang BWL haben? 
+
+Die Bachelorarbeit soll einen Umfang von etwa 40 Seiten haben. 
+
+Expected answer: Nicht mehr als 7000 Wörter
+
+----------------------------------------------------------------------------------------------------
+
+Wie setzt sich die Note aus dem Modul 'Performance Management & Strategy Execution' des Masters BWL ab WiSe 2023/24 zusammen? 
+
+Leider kann ich mit den mir zur Verfügung stehenden Informationen keine genaue Antwort auf die Frage geben, wie sich die Note aus dem Modul 'Performance Management & Strategy Execution' des Masters BWL ab WiSe 2023/24 zusammensetzt. 
+
+Expected answer: Klausur 75%, Schriftliche Ausarbeitung 25%
+
+----------------------------------------------------------------------------------------------------
+
+In welchem Semester ist der Praxisworkshop im Master BWL mit Major Finance vorgesehen? 
+
+Laut meiner Informationen ist der Praxisworkshop im Masterstudiengang Betriebswirtschaftslehre (BWL) mit Major Finance im 3. Fachsemester vorgesehen. 
+
+Expected answer: Im 3. Fachsemester
+
+----------------------------------------------------------------------------------------------------

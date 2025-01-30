@@ -1,0 +1,144 @@
+Metadata filter: 
+
+Filter:
+ {'source': {'$eq': 'module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf'}}
+
+Metadata filter (source and module): 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: General Information or Unknown Module
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Vertiefungsmodul Quantitative Methoden 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Wirtschaftsmathematik 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Einführung in die Volkswirtschaftslehre 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Grundlagen der Betriebswirtschaftslehre 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: General Information or Unknown Module
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Operations Management 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: General Information or Unknown Module
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Operations Research 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Grundlagen des Rechnungswesens 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'General Information or Unknown Module', 'source': 'module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+..................................................................... 74 wissenschaftlich begleitetes praktikum............................................................................... 77 bachelorarbeit...................................................................................................................... 80 studienverlaufsplan : jahr semester wirtschaftsinformatik informatik quantitative methoden betriebswirt - schaftslehre vwl und recht lp gesamt 1 einfuhrung in die wirtschaftsinformatik ( 3 lp ) programmierung ( 9 lp ) mathematik ( 9 lp ) grundlagen der betriebswirt - schaftslehre ( 9
+---------- Chunk 1 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Vertiefungsmodul Quantitative Methoden ', 'source': 'module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : vertiefungsmodul quantitative methoden modultitel englisch : specialization quantitative methods studiengang : bachelor wirtschaftsinformatik 1 modulnummer : vm qm status : wahlpflicht unterrichtssprache : deutsch 2 turnus : unregelmaßig dauer : 2 semester fachsemester : 5 oder 6 lp : 9 workload ( h ) : 270 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung spezialvorlesung quantitative methoden pflicht 30 h ( 2 sws ) 55 2 seminar seminar zu quantitative methoden pflicht 30 h ( 2 sws ) 120 3 seminar prasentationstechnik pflicht 15 h ( 1 sws ) 20 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul soll ein begrenztes themengebiet aus dem bereich quantitative methoden vertief t behandeln. diese themengebiete variieren ; insbesondere konnen sie sich aus aktuellen wissenschaftlichen diskussionen ergeben. in der ( u. u. geblockten ) vorlesung werden grundlegenden kenntnisse aus dem ausgewahlten bereich vermittelt und durch in die vo rlesung integrierte ubungen vertieft. das seminar beschaftigt sich damit, ein wissenschaftliches thema ausgehend
+---------- Chunk 2 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Wirtschaftsmathematik ', 'source': 'module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : wirtschaftsmathematik modultitel englisch : mathematics for is studiengang : bachelor wirtschaftsinformatik 1 modulnummer : qm 1 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 lp : 9 workload ( h ) : 270 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung + ubung mathematik fur wiwi pflicht 75 h ( 5 sws ) 105 2 ubung uberbruckungskurs mathematik pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : mathematikkenntnisse in linearer algebra und analysis sind fundamental in allen quantitativen fachgebieten der wirtschaftswissenschaften, z. b. in wirtschaftsstatistik, operations management und finance. kenntnisse aus anderen modulen sind nicht erforderlich, allenfalls eine grundlegende kenntnis der schulmathematik, insbesondere der differential - und integralrechnung einer variablen. diese wird im uberbruckungskurs noch einmal aufgefrischt. im tutorium werden im rahmen von kleingruppen, die von erfahrenen studierenden gefuhrt werden, die vorlesungsinhalte anhand von ubu
+---------- Chunk 3 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Einführung in die Volkswirtschaftslehre ', 'source': 'module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : einfuhrung in die volkswirtschaftslehre modultitel englisch : introduction to economics for is studiengang : bachelor wirtschaftsinformatik 1 modulnummer : so 1 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung einfuhrung vwl fur wirtschaftsinformatiker pflicht 30 h ( 2 sws ) 60 2 ubung ubung zu einfuhrung vwl fur wirtschaftsinformatiker pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : fur erfolgreiches unternehmerisches handeln auf komplexer gewordenen markten, nicht zuletzt in der digital vernetzten okonomie, gewinnt ein grundlegendes analytisches verstandnis der funktionsbedingungen von markten und ihrer normativen grundlagen in einer modernen demokratie zunehmende bedeutung. das modul fuhrt daher in problemstellungen und methoden der volkswirtschaftslehre ein, die fur die wirtschaftsinformatik von bedeutung sind. dazu gehoren neben den normativen grundlagen der mark
+---------- Chunk 4 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Grundlagen der Betriebswirtschaftslehre ', 'source': 'module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : grundlagen der betriebswirtschaftslehre modultitel englisch : foundations of business administration studiengang : bachelor wirtschaftsinformatik 1 modulnummer : bwl 1 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 lp : 9 workload ( h ) : 270 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung einfuhrung in die bwl pflicht 30 h ( 2 sws ) 30 2 vorlesung finanzierung pflicht 30 h ( 2 sws ) 45 3 vorlesung investition pflicht 30 h ( 2 sws ) 45 4 ubung tutorium zu bwl 1 pflicht 30 h ( 2 sws ) 30 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : der kurs dient als einfuhrungsveranstaltung fur jeden studierenden der wirtschaftswissenschaften, indem er die struktur moderner unternehmen identifiziert und analysiert. die vermittlung von grundlagenwissen und methoden zur analytischen entscheidungsfindung sind daher die hauptziele des kurses. in den folgenden semestern werden die studierenden vor allem teile von unternehmen isoliert analysieren.
+---------- Chunk 5 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'General Information or Unknown Module', 'source': 'module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modulbeschreibungen fur den studiengang wirtschaftsinformatik der westfalischen wilhelms - universitat mit dem abschluss bachelor of science ( prufungsordnung 2018 ) gultig ab dem ws 2018 / 19 inhalt einfuhrung in die wirtschaftsinformatik.................................................................................. 4 programmierung..................................................................................................................... 7 wirtschaftsmathematik..............................................................................................
+---------- Chunk 6 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Operations Management ', 'source': 'module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+##duktions - und dienstleistungsprozessen und ist im funktionalbereich operations verankert. die im funktionalbereich operations betrachteten prozesse stehen in engem zusammenhang mit prozessen des marketing, controlling sowie des finanzmanagements, die in anderen modulen betrachtet werden. es ist bspw. fur das management von bestanden wichtig, die im marketing geplanten verkaufsaktionen zu kennen. studierende sollten das erste und zweite semester erfolgreich absolviert haben. bezogen auf andere veranstaltungen werden kenntnisse aus der vorlesung „ mathematik fur wirtschaftswissenschaftler “ sowie „ statistik i “ vorausgesetzt. außerdem ist dieses modul eine basis fur das modul „ logistikmanagement “. lehrinhalte des moduls : im mittelpunkt steht das erlernen der wichtigsten quantitativen und qualitativen methoden der jeweiligen themen. themen lernziele nachfrageprognose die verschiedenen arten quantitativer und qualitativer modelle unterscheiden konnen. das nachfrageprognosemodell bestimmen konnen, welches fur vorliegende daten die beste prognose liefert. die gute von prognosen beurteilen konnen. standortplanung verschiedene ansatze zur bewaltigung von entscheidungen in der standort
+---------- Chunk 7 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'General Information or Unknown Module', 'source': 'module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+##ungsmodul wirtschaftsinformatik............................................................................... 66 vertiefungsmodul informatik................................................................................................ 69 vertiefungsmodul quantitative methoden............................................................................. 72 vertiefungsmodul bwl.......................................................................................
+---------- Chunk 8 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Operations Research ', 'source': 'module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : operations research modultitel englisch : operations research studiengang : bachelor wirtschaftsinformatik 1 modulnummer : qm 2 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung operations research pflicht 30 h ( 2 sws ) 60 2 ubung ubung zu operations research pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul „ operations research “ gibt den studierenden mathematisch begrundete und oftmals algorithmisch ausgefuhrte instrumente an die hand, mit denen zahlreiche betriebswirtschaftliche fragestellungen effektiv und effizient gelost werden konnen. es damit grundlage fur nahezu alle module mit einer mindestens teilweisen quantitativen ausrichtung anwendungen. benotigt werden lediglich kenntnisse im umfang des moduls „ wirtschaftsmathematik “. lehrinhalte des moduls : themen lernziele einfuhrung in die optimierung optimierungsprobleme definieren und klassifizieren. die studierenden wissen, dass
+---------- Chunk 9 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : grundlagen des rechnungswesens modultitel englisch : foundations of accounting studiengang : bachelor wirtschaftsinformatik 1 modulnummer : bwl 2 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 2 lp : 9 workload ( h ) : 270 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung buchfuhrung und abschluss pflicht 30 h ( 2 sws ) 60 2 vorlesung grundlagen des betriebswirtschaftlichen rechnungswesens pflicht 45 h ( 3 sws ) 75 3 ubung ubung zum betriebswirtschaftlichen rechnungswesen pflicht 30 h ( 2 sws ) 30 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : manager und investoren benotigen fur ihre geschafts - und investitionsentscheidungen informationen des internen und externen rechnungswesens. in diesem modul lernen die studierenden die rollen, verfahren und schwachen der regelmaßig verwendeten ( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entsche
+
+
+===== Answer =====
+
+Question: Was für Module sind im Bereich Quantitative Methoden im Bachelor Wirtschaftsinformatik in der PO 2018?
+Answer: Im Bereich Quantitative Methoden gibt es im Bachelor Wirtschaftsinformatik in der PO 2018 folgende Module: 
+
+1. Wirtschaftsmathematik (QM 1)
+2. Operations Research (QM 2)
+3. Vertiefungsmodul Quantitative Methoden (VM QM)
+Expected answer: Wirtschaftsmathematik, Operations Research, Daten und Wahrscheinlichkeiten, Datenanalyse und Simulation

@@ -1,0 +1,141 @@
+No modifications - Question: Was für Module sind im Bereich Quantitative Methoden im Bachelor Wirtschaftsinformatik in der PO 2018? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2017_02_07_bsc_bwl_modulbescheibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2016
+Effective From: WS 2017/18
+Module Title: Quantitative Wirtschaftsgeschichte 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2018-10-04_bsc_bwl_modulbeschreibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2017
+Effective From: WS 2018/19
+Module Title: Quantitative Wirtschaftsgeschichte 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2019-07-03_bsc_bwl_modulbeschreibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Quantitative Wirtschaftsgeschichte 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2016-07-06_msc_ec_modulhandbuch.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: WS 2016/17
+Module Title: Fortgeschrittene Quantitative Wirtschaftsgeschichte 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2018-10-04_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Quantitative Wirtschaftsgeschichte 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2019-07-03_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Quantitative Wirtschaftsgeschichte 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2020-01-22_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: Sommersemester 2020
+Module Title: Quantitative Wirtschaftsgeschichte 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2014-10_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: General Information or Unknown Module
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: General Information or Unknown Module
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Empirische Wirtschaftsforschung 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2017/18', 'examination_regulation': 'Prüfungsordnung 2016', 'module_title': 'Quantitative Wirtschaftsgeschichte ', 'source': 'module_handbooks_economics/2017_02_07_bsc_bwl_modulbescheibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : quantitative wirtschaftsgeschichte modultitel englisch : quantitative economic history studiengang : bachelor betriebswirtschaftslehre po 2010 1 modulnummer : vwl 26 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status lp prasenz ( h + sws ) selbststudium ( h ) 1 seminar ausgewahlte themen der quantitativen wirtschaftsgeschichte pflicht 3 30 h ( 2 sws ) 150 4 modulinhalte : hintergrund und verhaltnis zu anderen modulen : die quantitative wirtschaftsgeschichte analysiert wirtschaftshistorische tatbestande unter verwendung wirtschaftswissenschaftlicher modelle und empirischer methoden. inhalte und lernziele : das seminar fuhrt die studierenden anhand von ausgewahlten themen in das forschungsfeld der quantitativen wirtschaftsgeschichte ein. der fokus liegt dabei auf der vermittlung der kenntnisse uber die wirtschaftswissenschaftliche theorie und die empirischen methoden, die zu eigenstandigen forschungsleistungen im gebiet der quantitativen wirtschaftsgeschichte befahigen. die studierenden werden dazu angehalten, ein fur die for
+---------- Chunk 1 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2017', 'module_title': 'Quantitative Wirtschaftsgeschichte ', 'source': 'module_handbooks_economics/2018-10-04_bsc_bwl_modulbeschreibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : quantitative wirtschaftsgeschichte modultitel englisch : quantitative economic history studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : vwl 26 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar quantitative wirtschaftsgeschichte pflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : die quantitative wirtschaftsgeschichte uberpruft die anwendbarkeit wirtschaftswissenschaftlicher modelle auf wirtschaftshistorische daten von der antike bis zur neuesten geschichte. dadurch tragt sie sowohl zur erklarung wirtschaftshistorischer ereignisse und entwicklungen als auch zur theoriebildung der wirtschaftswissenschaften bei. je nach themenschwerpunkt sind die lehrinhalte des moduls eng verknupft mit denen der module zur mikro -, makrookonomik und zu den empirischen methoden. lehrinhalte des moduls : das seminar fuhrt die studierenden anhand von ausgewahlten themen in das forschungsfeld der quantitativen wi
+---------- Chunk 2 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Quantitative Wirtschaftsgeschichte ', 'source': 'module_handbooks_economics/2019-07-03_bsc_bwl_modulbeschreibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : quantitative wirtschaftsgeschichte modultitel englisch : quantitative economic history studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : vwl 26 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar quantitative wirtschaftsgeschichte pflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : die quantitative wirtschaftsgeschichte uberpruft die anwendbarkeit wirtschaftswissenschaftlicher modelle auf wirtschaftshistorische daten von der antike bis zur neuesten geschichte. dadurch tragt sie sowohl zur erklarung wirtschaftshistorischer ereignisse und entwicklungen als auch zur theoriebildung der wirtschaftswissenschaften bei. je nach themenschwerpunkt sind die lehrinhalte des moduls eng verknupft mit denen der module zur mikro -, makrookonomik und zu den empirischen methoden. lehrinhalte des moduls : das seminar fuhrt die studierenden anhand von ausgewahlten themen in das forschungsfeld der quantitativen wi
+---------- Chunk 3 ----------
+{'degree': 'Master', 'effective_from': 'WS 2016/17', 'examination_regulation': 'unknown', 'module_title': 'Fortgeschrittene Quantitative Wirtschaftsgeschichte ', 'source': 'module_handbooks_economics/2016-07-06_msc_ec_modulhandbuch.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+modultitel deutsch : fortgeschrittene quantitative wirtschaftsgeschichte modultitel englisch : advanced quantitative economic history studiengang : master volkswirtschaftslehre po 2012 1 modulnummer : vwl mwp12 status : wahlpflicht unterrichtssprache : englisch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 1 oder 2 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung lp prasenz ( h + sws ) selbststudium ( h ) 1 seminar ausgewahlte themen der quantitativen wirtschaftsgeschichte 6 30 h ( 2 sws ) 150 4 modulinhalte : hintergrund und verhaltnis zu anderen modulen : die quantitative wirtschaftsgeschichte analysiert wirtschaftshistorische tatbestande unter verwendung wirtschaftswissenschaftlicher modelle und empirischer methoden. inhalte und lernziele : im seminar werden vertiefende kenntnisse uber ausgewahlte themen der quantitativen wirtschaftsgeschichte vermittelt. die auswahl eines themas orientiert sich an aktuellen forschungsgebieten der quantitativen wirtschaftsgeschichte und wird vor semesterbeginn auf der homepage des instituts fur wirtschaft - und sozialgeschichte angekundigt. 5 erworbene kompetenzen : fachliche kompetenz
+---------- Chunk 4 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Quantitative Wirtschaftsgeschichte ', 'source': 'module_handbooks_economics/2018-10-04_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+modultitel deutsch : quantitative wirtschaftsgeschichte modultitel englisch : quantitative economic history studiengang : bachelor volkswirtschaftslehre 1 modulnummer : vwl 26 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar quantitative wirtschaftsgeschichte pflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : die quantitative wirtschaftsgeschichte uberpruft die anwendbarkeit wirtschaftswissenschaftlicher modelle auf wirtschaftshistorische daten von der antike bis zur neuesten geschichte. dadurch tragt sie sowohl zur erklarung wirtschaftshistorischer ereignisse und entwicklungen als auch zur theoriebildung der wirtschaftswissenschaften bei. je nach themenschwerpunkt sind die lehrinhalte des moduls eng verknupft mit denen der module zur mikro -, makrookonomik und zu den empirischen methoden. lehrinhalte des moduls : das seminar fuhrt die studierenden anhand von ausgewahlten themen in das forschungsfeld der quantitativen wirts
+---------- Chunk 5 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Quantitative Wirtschaftsgeschichte ', 'source': 'module_handbooks_economics/2019-07-03_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+modultitel deutsch : quantitative wirtschaftsgeschichte modultitel englisch : quantitative economic history studiengang : bachelor volkswirtschaftslehre 1 modulnummer : vwl 26 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar quantitative wirtschaftsgeschichte pflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : die quantitative wirtschaftsgeschichte uberpruft die anwendbarkeit wirtschaftswissenschaftlicher modelle auf wirtschaftshistorische daten von der antike bis zur neuesten geschichte. dadurch tragt sie sowohl zur erklarung wirtschaftshistorischer ereignisse und entwicklungen als auch zur theoriebildung der wirtschaftswissenschaften bei. je nach themenschwerpunkt sind die lehrinhalte des moduls eng verknupft mit denen der module zur mikro -, makrookonomik und zu den empirischen methoden. lehrinhalte des moduls : das seminar fuhrt die studierenden anhand von ausgewahlten themen in das forschungsfeld der quantitativen wirts
+---------- Chunk 6 ----------
+{'degree': 'Bachelor', 'effective_from': 'Sommersemester 2020', 'examination_regulation': 'unknown', 'module_title': 'Quantitative Wirtschaftsgeschichte ', 'source': 'module_handbooks_economics/2020-01-22_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : quantitative wirtschaftsgeschichte modultitel englisch : quantitative economic history studiengang : bachelor betriebswirtschaftslehre po 2017 / 2018 1 modulnummer : vwl 26 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar quantitative wirtschaftsgeschichte pflicht 30 h ( 2 sws ) 150 4 modulinhalte : zielsetzung des moduls / einbindung in das curriculum : die quantitative wirtschaftsgeschichte uberpruft die anwendbarkeit wirtschaftswissenschaftlicher modelle auf wirtschaftshistorische daten von der antike bis zur neuesten geschichte. dadurch tragt sie sowohl zur erklarung wirtschaftshistorischer ereignisse und entwicklungen als auch zur theoriebildung der wirtschaftswissenschaften bei. je nach themenschwerpunkt sind die lehrinhalte des moduls eng verknupft mit denen der module zur mikro -, makrookonomik und zu den empirischen methoden. lehrinhalte des moduls : das seminar fuhrt die studierenden anhand von ausgewahlten themen in das forschungsfeld der
+---------- Chunk 7 ----------
+{'degree': 'Bachelor', 'effective_from': '14. Oktober 2010', 'examination_regulation': 'Prüfungsordnung 2010', 'module_title': 'General Information or Unknown Module', 'source': 'module_handbooks_economics/2014-10_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+modulbeschreibungen fur den studiengang volkswirtschaftslehre der westfalischen wilhelms - universitat mit dem abschluss bachelor of science ( prufungsordnung 2010 ) vom 14. oktober 2010 in fassung der bekanntmachung vom 16. 10. 2014 nicht - amtliche lesefassung empfohlener studienverlaufsplan ( bei studienbeginn im wintersemester ) : jahr sem. volkswirtschaftslehre betriebswirtschaftslehre quantitative methoden, recht und schlusselqualifikationen lp gesamt qr1 mathematik und it ( 12 ) qr2 statistik i ( 6 ) statistik ii ( 6 ) qr3 recht ( 6 ) vwl2 makrookonomik i ( 9 ) vwl3 mikrookonomik ii ( 9 ) vwl4 angewandte wirtschaftsforschung : staatseinnahmen ( 12 ) vwl5 makrookonomik ii ( 9 ) vwl6 angewandte wirtschaftsforschung : wirtschaftspolitik und regulierung ( 12 ) 5 3 x 6 lp ( 3 aus x ) wahlpflichtmodul vwl9 - vwl28 2 x 6 lp ( 2 aus x ) wahlpflichtmodul bwlx - bwly 30 vwl7 makrookonomik iii ( 9 ) vwl8 : mikrookonomik iii ( 9 ) bachelorarbeit ( 12 ) 3 306 2 3 30 4 qr4 empirische methoden ( 9 ) 30
+---------- Chunk 8 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'General Information or Unknown Module', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+......................................................................................................... 158 bachelorarbeit..................................................................................................................................................... 160 4 studienverlaufsplan ( beginn zum ws ) jahr sem. volkswirtschaftslehre betriebswirtschaftslehre quantitative methoden, recht lp gesamt qr1 mathematik und it ( 12 ) qr2 statistik i ( 6 ) statistik ii ( 6 ) qr3 recht ( 6 ) vwl2 makrookonomik i ( 9 ) vwl3 mikrookonomik ii ( 9 ) vwl4 angewandte wirtschaftsforschu
+---------- Chunk 9 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Empirische Wirtschaftsforschung ', 'source': 'module_handbooks_economics/2024-01-23_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+modultitel deutsch : empirische wirtschaftsforschung modultitel englisch : empirical economics studiengang : bachelor volkswirtschaftslehre 1 modulnummer : qms 4 status : pflicht unterrichtssprache : englisch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 3 oder 4 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung empirische wirtschaftsforschung pflicht 30 h ( 2 sws ) 60 2 ubung ubung empirische wirtschaftsforschung pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : dieses modul legt den grundstein fur alle lehrveranstaltungen der empirischen wirtschaftsforschung, insbesondere die module fortgeschrittene statistik und okonometrie. voraussetzung fur dieses modul sind die module data science 1 und 2. lehrinhalte des moduls : themen : empirische wirtschaftsfragen, daten, lineare regression mit einem regressor, lineare regression mit mehreren regressoren, nicht - lineare regression, bewertung der validitat empirischer studien, instrumentvariablen - regression, einfuhrung in paneldaten - regression. das
+
+
+===== Answer =====
+
+Answer: Nach meiner Information gibt es im Bereich Quantitative Methoden im Bachelor Wirtschaftsinformatik in der PO 2018 folgende Module:
+
+* QR1: Mathematik und IT (12 LP)
+* QR2: Statistik I (6 LP)
+* QR3: Recht (6 LP)
+* QR4: Empirische Methoden (9 LP)
+
+Es gibt auch ein Modul "Empirische Wirtschaftsforschung" (QMS 4) im Bachelor Volkswirtschaftslehre, das als Pflichtmodul im Sommersemester angeboten wird.
+Expected answer: Wirtschaftsmathematik, Operations Research, Daten und Wahrscheinlichkeiten, Datenanalyse und Simulation

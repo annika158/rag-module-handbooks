@@ -1,0 +1,80 @@
+Was sind Module im 1. Semester Bachelor Wirtschaftsinformatik in der PO 2022? 
+
+Laut meiner Informationen sind im 1. Semester Bachelor Wirtschaftsinformatik in der PO 2022 folgende Module vorgesehen:
+
+1. Einführung in die Betriebswirtschaftslehre, Investition und Finanzierung (BWL1)
+2. Einführung in die Wirtschaftsinformatik (WI1)
+
+Diese Module sind Pflichtmodule und werden jedes Wintersemester angeboten. 
+
+Expected answer: Einführung in die Wirtschaftsinformatik, Programmierung, Wirtschaftsmathematik, Einführung in die BWL, Investition und Finanzierung
+
+----------------------------------------------------------------------------------------------------
+
+Was für Module sind im Bereich Quantitative Methoden im Bachelor Wirtschaftsinformatik in der PO 2018? 
+
+Im Bereich Quantitative Methoden gibt es im Bachelor Wirtschaftsinformatik in der PO 2018 folgende Module: 
+
+1. Wirtschaftsmathematik (QM 1)
+2. Operations Research (QM 2)
+3. Vertiefungsmodul Quantitative Methoden (VM QM) 
+
+Expected answer: Wirtschaftsmathematik, Operations Research, Daten und Wahrscheinlichkeiten, Datenanalyse und Simulation
+
+----------------------------------------------------------------------------------------------------
+
+Was für Pflichtmodule muss ich im Bereich VWL und Recht im Studiengang Bachelor BWL belegen? 
+
+Im Bereich VWL sind die Module "Einführung in die VWL & Mikroökonomik" (VWL 1) und "Grundlagen der Makroökonomik" (VWL 2) Pflichtmodule. Im Bereich Recht ist das Modul "Recht für Ökonomen" (R 1) ein Pflichtmodul. 
+
+Expected answer: Einführung in die VWL & Mikroökonomik, Grundlagen der Makroökonomik, Recht für Ökonomen
+
+----------------------------------------------------------------------------------------------------
+
+What are the prerequisites to write the master's thesis in Information Systems? 
+
+According to my information, the prerequisites to write the master's thesis in Information Systems are 60 credit points. 
+
+Expected answer: 60 credit points
+
+----------------------------------------------------------------------------------------------------
+
+Worum geht es in dem Modul 'Regulierungsökonomik' des Studiengangs Master VWL? 
+
+Das Modul "Regulierungsökonomik" im Studiengang Master VWL befasst sich mit der Analyse von Marktversagen und der Untersuchung des ökonomischen Instrumentariums zur Korrektur und Regulierung. Es werden Themen wie die Theorie der Regulierung, Regulierungsinstrumente und ihre Anwendung in ausgewählten Industrien behandelt, insbesondere in Netzsektoren wie Telekommunikation und Elektrizität. 
+
+Expected answer: In diesem Modul wird die Ursachenanalyse für Marktversagen vertieft und das ökonomische Instrumentarium zu deren Korrektur und Regulierung untersucht, …
+
+----------------------------------------------------------------------------------------------------
+
+In welchem Semester findet die Vorlesung 'Grundlagen der Regulierung' statt? 
+
+Jedes Sommersemester. 
+
+Expected answer: Jedes Sommersemester -> Studiengang Bachelor VWL ab WS 2020/21
+
+----------------------------------------------------------------------------------------------------
+
+Welchen Umfang muss die Bachelorarbeit im Studiengang BWL haben? 
+
+Die Bachelorarbeit soll einen Umfang von 7.000 Wörtern im Haupttext nicht überschreiten. 
+
+Expected answer: Nicht mehr als 7000 Wörter
+
+----------------------------------------------------------------------------------------------------
+
+Wie setzt sich die Note aus dem Modul 'Performance Management & Strategy Execution' des Masters BWL ab WiSe 2023/24 zusammen? 
+
+Die Note setzt sich aus einer Klausur (75%) und einer schriftlichen Ausarbeitung (25%) zusammen. 
+
+Expected answer: Klausur 75%, Schriftliche Ausarbeitung 25%
+
+----------------------------------------------------------------------------------------------------
+
+In welchem Semester ist der Praxisworkshop im Master BWL mit Major Finance vorgesehen? 
+
+Laut meiner Informationen ist der Praxisworkshop im Wintersemester vorgesehen. 
+
+Expected answer: Im 3. Fachsemester
+
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,194 @@
+Metadata in chunk - Question: Welchen Umfang muss die Bachelorarbeit im Studiengang BWL haben? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2014-10_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Bachelorarbeit 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2018-10-04_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Bachelorarbeit  
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2019-07-03_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Bachelorarbeit  
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Bachelorarbeit  
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Bachelorarbeit  
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2019-07-03_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Bachelorarbeit  
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Bachelorarbeit  
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Bachelorarbeit  
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2017_02_07_bsc_bwl_modulbescheibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2016
+Effective From: WS 2017/18
+Module Title: Bachelorarbeit (Betriebswirtschaftslehre) 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2014-10-29_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Bachelorarbeit 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Bachelor', 'effective_from': '14. Oktober 2010', 'examination_regulation': 'Prüfungsordnung 2010', 'module_title': 'Bachelorarbeit ', 'source': 'module_handbooks_economics/2014-10_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Bachelorarbeit 
+
+fur das modul werden angerechnet, wenn das modul insgesamt erfolgreich abgeschlossen wurde, d. h. alle prufungsrelevanten leistungen und studienleistungen bestanden wurden. 11 gewichtung der modulnote fur die bildung der gesamtnote : 6, 67 % ( 12 von 180 ) 12 modulbezogene teilnahmevoraussetzungen : es mussen 90 lp erreicht worden sein. die / der studierende muss zudem nachweisen, dass sie / er ein seminar im rahmen der wahlpflichtmodule vwl oder bwl absolviert hat. dieses seminar muss vor beginn der bachelorarbeit abgeschlossen worden sein. diese regelung gilt fur alle studierende, welche im ss 2013 das 3. studienjahr noch nicht begonnen haben. 13 anwesenheit : 14 verwendbarkeit in anderen studiengangen : keine 15 modulbeauftragte / r : zustandiger fachbereich : prof. dr. van suntum fb 04 – wirtschaftswissenschaften 16 sonstiges : 99
+---------- Chunk 1 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Bachelorarbeit  ', 'source': 'module_handbooks_economics/2018-10-04_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Bachelorarbeit  
+
+modultitel deutsch : bachelorarbeit modultitel englisch : bachelor thesis studiengang : bachelor volkswirtschaftslehre 1 modulnummer : ba status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 bachelorarbeit pflicht 0 h ( 0 sws ) 360 4 profil des moduls : lehrinhalte des moduls : die bachelorarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu bearbeiten und die ergebnisse sachgerecht darzustellen. sie soll einen umfang von etwa 40 seiten haben. im falle eines prakti¬kumberichtes sind die regelungen in § 11 po zu beachten. 5 lernergebnisse des moduls : fachliche kompetenzen : die studierenden gewinnen erfahrung in der wissenschaftlichen umsetzung der gelernten inhalte. weiterhin lernen sie, sich eigenstand
+---------- Chunk 2 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Bachelorarbeit  ', 'source': 'module_handbooks_economics/2019-07-03_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Bachelorarbeit  
+
+modultitel deutsch : bachelorarbeit modultitel englisch : bachelor thesis studiengang : bachelor volkswirtschaftslehre 1 modulnummer : ba status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 bachelorarbeit pflicht 0 h ( 0 sws ) 360 4 profil des moduls : lehrinhalte des moduls : die bachelorarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu bearbeiten und die ergebnisse sachgerecht darzustellen. sie soll einen umfang von etwa 40 seiten haben. im falle eines prakti¬kumberichtes sind die regelungen in § 11 po zu beachten. 5 erworbene kompetenzen : fachliche kompetenzen : die studierenden gewinnen erfahrung in der wissenschaftlichen umsetzung der gelernten inhalte. weiterhin lernen sie, sich eigenstandig in die wissenschaft
+---------- Chunk 3 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Bachelorarbeit  ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Bachelorarbeit  
+
+modultitel deutsch : bachelorarbeit modultitel englisch : bachelor thesis studiengang : bachelor volkswirtschaftslehre 1 modulnummer : ba status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 bachelorarbeit pflicht 0 h ( 0 sws ) 360 4 profil des moduls : lehrinhalte des moduls : die bachelorarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu bearbeiten und die ergebnisse sachgerecht darzustellen. sie soll einen umfang von etwa 40 seiten haben. im falle eines prakti¬kumberichtes sind die regelungen in § 11 po zu beachten. 5 erworbene kompetenzen : fachliche kompetenzen : die studierenden gewinnen erfahrung in der wissenschaftlichen umsetzung der gelernten inhalte. weiterhin lernen sie, sich eigenstandig in die wissenschaft
+---------- Chunk 4 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Bachelorarbeit  ', 'source': 'module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Bachelorarbeit  
+
+modultitel deutsch : bachelorarbeit modultitel englisch : bachelor thesis studiengang : bachelor wirtschaftsinformatik 1 modulnummer : ba status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 6 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 bachelorarbeit pflicht 0 h ( 0 sws ) 360 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : in die bachelorarbeit fließen die inhalte aus den vorangegangenen modulen ein. lehrinhalte des moduls : die bachelorarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu bearbeiten und die ergebnisse sachgerecht darzustellen. sie soll einen umfang von etwa 40 seiten haben. thema lernziele bachelorarbeit eigenstandige einarbeitung in ein komplexes thema und die zugehorige literatur. erstellen einer wissenschaftlichen arbeit. abhangig vo
+---------- Chunk 5 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Bachelorarbeit  ', 'source': 'module_handbooks_economics/2019-07-03_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Bachelorarbeit  
+
+modultitel deutsch : bachelorarbeit modultitel englisch : bachelor thesis studiengang : bachelor wirtschaftsinformatik 1 modulnummer : ba status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 bachelorarbeit pflicht 0 h ( 0 sws ) 360 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : in die bachelorarbeit fließen die inhalte aus den vorangegangenen modulen ein. lehrinhalte des moduls : die bachelorarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu bearbeiten und die ergebnisse sachgerecht darzustellen. sie soll einen umfang von etwa 40 seiten haben. themen lernziele bachelorarbeit eigenstandige einarbeitung in ein komplexes thema und die zugehorige literatur. erstellen einer wissenschaftlichen arbeit. abhangig vom them
+---------- Chunk 6 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Bachelorarbeit  ', 'source': 'module_handbooks_economics/2024-01-23_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Bachelorarbeit  
+
+modultitel deutsch : bachelorarbeit modultitel englisch : bachelor thesis studiengang : bachelor volkswirtschaftslehre 1 modulnummer : ba status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 6 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 bachelorarbeit pflicht 0 h ( 0 sws ) 360 4 profil des moduls : lehrinhalte des moduls : die bachelorarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu bearbeiten und die ergebnisse sachgerecht darzustellen. sie soll einen umfang von etwa 40 seiten haben. im falle eines prakti¬kumberichtes sind die regelungen in § 11 po zu beachten. 5 erworbene kompetenzen : fachliche kompetenzen : die studierenden gewinnen erfahrung in der wissenschaftlichen umsetzung der gelernten inhalte. weiterhin lernen sie, sich eigenstandig in die wissenschaft
+---------- Chunk 7 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Bachelorarbeit  ', 'source': 'module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Bachelorarbeit  
+
+modultitel deutsch : bachelorarbeit modultitel englisch : bachelor thesis studiengang : bachelor wirtschaftsinformatik 1 modulnummer : ba status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 bachelorarbeit pflicht 0 h ( 0 sws ) 360 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : in die bachelorarbeit fließen die inhalte aus den vorangegangenen modulen ein. lehrinhalte des moduls : die bachelorarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu be arbeiten und die ergebnisse sachgerecht darzustellen. sie soll einen umfang von etwa 40 seiten haben. themen lernziele bachelorarbeit eigenstandige einarbeitung in ein komplexes thema und die zugehorige literatur. erstellen einer wissenschaftlichen arbei
+---------- Chunk 8 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2017/18', 'examination_regulation': 'Prüfungsordnung 2016', 'module_title': 'Bachelorarbeit (Betriebswirtschaftslehre) ', 'source': 'module_handbooks_economics/2017_02_07_bsc_bwl_modulbescheibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2016
+Effective From: WS 2017/18
+Module Title: Bachelorarbeit (Betriebswirtschaftslehre) 
+
+modultitel deutsch : bachelorarbeit ( betriebswirtschaftslehre ) modultitel englisch : bachelor thesis ( business administation ) studiengang : bachelor betriebswirtschaftslehre po 2010 1 modulnummer : ba status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status lp prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung bachelorarbeit pflicht 12 0 h ( 0 sws ) 360 4 modulinhalte : inhalte und lernziele : die bachelorarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu bearbeiten und die ergebnisse sachgerecht darzustellen. sie soll einen umfang von 7. 000 worten im haupttest nicht uberschreiten. 5 erworbene kompetenzen : fachliche kompetenzen : die studierenden gewinnen erfahrung in der wissenschaftlichen umsetzung der gelernten inhalte. wei
+---------- Chunk 9 ----------
+{'degree': 'Bachelor', 'effective_from': '14. Oktober 2010', 'examination_regulation': 'Prüfungsordnung 2010', 'module_title': 'Bachelorarbeit ', 'source': 'module_handbooks_economics/2014-10-29_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Bachelorarbeit 
+
+modultitel deutsch : bachelorarbeit modultitel englisch : bachelor thesis studiengang : bachelor - studiengang wirtschaftsinformatik 1 modulnummer : ba status : pflichtmodu l unterrichtssprache : deutsch oder englisch 2 turnus : [ x ] jedes sem. dauer : [ x ] 1 sem. fachsem. : 5 - 6 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ lehrveranstaltung status lp prasenz ( h + sws ) selbst - studium ( h ) 1. bachelorarbeit [ x ] p [ ] wp 12 360 4 lehrinhalte : hintergrund und verhaltnis zu anderen modulen : in die bachelorarbeit fließen die inhalte aus den vorangegangenen modulen ein. inhalt und lernziele : die bachelorarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu bearbeiten und die ergebnisse sachgerecht darzustellen. sie soll einen umfang von etwa 40 seiten haben. themen lernziele bachelorarbei t eigenstandige einarbeitung in ein komplexes thema und die zugehorige liter
+
+
+===== Answer =====
+
+Answer: Laut meiner Informationen muss die Bachelorarbeit im Studiengang Betriebswirtschaftslehre (BWL) einen Umfang von 7.000 Wörtern im Haupttext nicht überschreiten.
+Expected answer: Nicht mehr als 7000 Wörter

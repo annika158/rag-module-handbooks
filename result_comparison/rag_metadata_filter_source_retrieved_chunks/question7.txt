@@ -1,0 +1,138 @@
+Metadata filter (only source): 
+
+Filter:
+ {'source': {'$eq': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf'}}
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: General Information or Unknown Module
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Schlüsselqualifikation B 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Schlüsselqualifikation A 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Allgemeine Studien 2 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: General Information or Unknown Module
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Allgemeine Studien 1 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: General Information or Unknown Module
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Bilanzen und Steuern 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Schlüsselqualifikation C 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Konzernbilanzen 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'General Information or Unknown Module', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+.............................................................................. 281 allgemeine studien 2............................................................................................................................. 283 bachelorarbeit....................................................................................................................................... 286 5 studienverlauf ( beginn zum wise ) jahr sem. betriebswirtschafts - lehre volks
+---------- Chunk 1 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Schlüsselqualifikation B ', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : schlusselqualifikation b modultitel englisch : hard + soft skills b studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : skb status : wahlpflicht unterrichtssprache : deutsch oder gewahlte sprache 2 turnus : jedes semester dauer : 3 semester fachsemester : 1 bis 4 lp : 15 workload ( h ) : 450 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung wirtschafts - und unternehmensethik pflicht 30 h ( 2 sws ) 60 2 vorlesung oder ubung oder seminar oder sprachkurs schlusselqualifikation i wahlpflicht 60 h ( 4 sws ) 120 3 praktikum business experience wahlpflicht 0 h ( 0 sws ) 180 4 vorlesung oder ubung oder seminar oder sprachkurs schlusselqualifikation ii wahlpflicht 30 h ( 2 sws ) 60 5 vorlesung oder ubung oder seminar oder sprachkurs schlusselqualifikation iii wahlpflicht 30 h ( 2 sws ) 60 4 profil des moduls zielsetzung / einbindung in das curriculum : das modul schlusselqualifikationen vermittelt kenntnisse in wirtschafts - und unternehmensethik sowie fur die unternehmenspraxis bedeu
+---------- Chunk 2 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Schlüsselqualifikation A ', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : schlusselqualifikation a modultitel englisch : hard + soft skills a studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : ska status : wahlpflicht unterrichtssprache : deutsch oder gewahlte sprache 2 turnus : jedes semester dauer : 3 semester fachsemester : 1 bis 4 lp : 15 workload ( h ) : 450 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung wirtschafts - und unternehmensethik pflicht 30 h ( 2 sws ) 60 2 vorlesung oder ubung oder seminar oder sprachkurs schlusselqualifikation i pflicht 60 h ( 4 sws ) 120 3 vorlesung oder ubung oder seminar oder sprachkurs schlusselqualifikation ii wahlpflicht 60 h ( 4 sws ) 120 4 praktikum business experience wahlpflicht 0 h ( 0 sws ) 180 4 profil des moduls zielsetzung / einbindung in das curriculum : das modul schlusselqualifikationen vermittelt kenntnisse in wirtschafts - und unternehmensethik sowie fur die unternehmenspraxis bedeutsame sprachkenntnisse sowie personliche und soziale fahigkeiten ( z. b. prasentationstechnik, teamarbeit, ko
+---------- Chunk 3 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Allgemeine Studien 2 ', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : allgemeine studien 2 modultitel englisch : general studies 2 studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : fwm 1 status : wahlpflicht unterrichtssprache : deutsch oder englisch oder andere sprache 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung oder ubung oder seminar oder sprachkurs veranstaltung aus den allgemeinen studien pflicht 30 h ( 2 sws ) 60 2 vorlesung / ubung / seminar / sprachkurs veranstaltung aus den allgemeinen studien pflicht 30 h ( 2 sws ) 60 3 vorlesung / ubung / seminar / sprachkurs veranstaltung aus den allgemeinen studien pflicht 30 h ( 2 sws ) 60 4 vorlesung / ubung / seminar / sprachkurs veranstaltung aus den allgemeinen studien pflicht 30 h ( 2 sws ) 60 4 profil des moduls : lehrinhalte des moduls : im rahmen dieses moduls absolvieren die studierenden veranstaltungen aus dem angebot der „ allgemeinen studien “ der universitat munster. die lehrinhalte hangen von der gewahlten le
+---------- Chunk 4 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'General Information or Unknown Module', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modulbeschreibungen zur ordnung fur die prufungen im studiengang betriebswirtschaftslehre der westfalischen wilhelms - universitat mit dem abschluss bachelor of science fur studierende ab wintersemester 2022 / 23 in der po 2022 2 inhalt studienverlauf ( beginn zum wise )............................................................................................................. 5 studienverlauf ( beginn zum sose )............................................................................................................. 6 pflichtmodule betriebswirtschaftslehre....................................................
+---------- Chunk 5 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Allgemeine Studien 1 ', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : allgemeine studien 1 modultitel englisch : general studies 1 studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : fwm 1 status : wahlpflicht unterrichtssprache : deutsch oder englisch oder andere sprache 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung oder ubung oder seminar oder sprachkurs veranstaltung aus den allgemeinen studien pflicht 30 h ( 2 sws ) 60 2 vorlesung / ubung / seminar / sprachkurs veranstaltung aus den allgemeinen studien pflicht 30 h ( 2 sws ) 60 4 profil des moduls : lehrinhalte des moduls : im rahmen dieses moduls absolvieren die studierenden veranstaltungen aus dem angebot der „ allgemeinen studien “ der universitat munster. die lehrinhalte hangen von der gewahlten lehrveranstaltung ab und haben inhalt in den bereichen ( fremd ) sprachen, wissenschaftstheorie, rhetorik und vermittlung, berufsvorbereitung und praxis sowie ( inter ) kulturalitat und kreativitat. 5 erworbene komp
+---------- Chunk 6 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'General Information or Unknown Module', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+##odul 1 ( 6 ) spezialisierung modul 5 ( 6 ) spezialsierung modul 6 ( 6 ) freies wahlmodul 2 ( 6 ) 30 6 bachelorarbeit ( 12 ) 30 1 3 5 2 3 1 30 4 hard & soft skills ii ( 6 ) 30 30 r 1 recht fur okonomen ( 6 ) hard & soft skills i ( 6 ) vwl 2 grundlagen der makrookonomik ( 6 ) 7 8 pflichtmodule betriebswirtschaftslehre 9 willkommen zur betriebswirtschaftslehre! grundlegende theorien & ihre praktische anwendung
+---------- Chunk 7 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Bilanzen und Steuern ', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : bilanzen und steuern modultitel englisch : financial accounting and taxation studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : bwl 8 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 3 oder 4 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung bilanzen pflicht 22, 5h ( 1. 5 sws ) 45 2 vorlesung grundzuge der unternehmensbesteuerung pflicht 22, 5 h ( 1. 5 sws ) 45 3 ubung ubung zu bilanzen pflicht 7. 5 h ( 0. 5 sws ) 15 4 ubung ubung zu grundzuge der unternehmensbesteuerung pflicht 7. 5 h ( 0. 5 sws ) 15 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : die lehrveranstaltung bilanzen erweitert und vertieft die im rahmen der pflichtveranstaltung „ grundlagen des rechnungswesens “ vermittelten lehrinhalte im bereich des externen rechnungswesens. die veranstaltung " grundzuge der unternehmensbesteuerung " gibt einen ersten ein
+---------- Chunk 8 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Schlüsselqualifikation C ', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : schlusselqualifikation c modultitel englisch : hard + soft skills c studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : skc status : wahlpflicht unterrichtssprache : deutsch oder gewahlte sprache 2 turnus : jedes semester dauer : 3 semester fachsemester : 1 bis 4 lp : 15 workload ( h ) : 450 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung wirtschafts - und unternehmensethik pflicht 30 h ( 2 sws ) 60 2 vorlesung oder ubung oder seminar oder sprachkurs schlusselqualifikation i wahlpflicht 30 h ( 2sws ) 60 3 vorlesung oder ubung oder seminar oder sprachkurs schlusselqualifikation ii wahlpflicht 30 h ( 2 sws ) 60 4 vorlesung oder ubung oder seminar oder sprachkurs schlusselqualifikation iii wahlpflicht 30 h ( 2 sws ) 60 5 vorlesung oder ubung oder seminar oder sprachkurs schlusselqualifikation iv wahlpflicht 30 h ( 2 sws ) 60 4 profil des moduls zielsetzung / einbindung in das curriculum : das modul schlusselqualifikationen vermittelt kenntnisse in wirtschafts - und unternehmen
+---------- Chunk 9 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Konzernbilanzen ', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : konzernbilanzen modultitel englisch : consolidated financial statements studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : trb 11 status : wahlpflicht unterrichtssprache : deutsch, teilweise englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung konzernbilanzen pflicht 45 h ( 3 sws ) 90 2 ubung ubung zu konzernbilanzen pflicht 15 h ( 1 sws ) 30 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : unternehmen konnen in unterschiedlichen formen organisiert sein. so konnen einzelne unternehmen rechtlich zwar selbstandig, wirtschaftlich indes miteinander verbunden sein. solche sogenannten konzerne stellen eine herausforderung fur die externe berichterstattung dar, da die einzelabschlusse dieser miteinander verbundenen unternehmen nur eine beschrankte aussagefahigkeit uber die wirtschaftliche lage der durch diese unternehmen gebildeten wirtschaftlichen einheit haben. das zusammenfassen der einzelabsch
+
+
+===== Answer =====
+
+Question: Welchen Umfang muss die Bachelorarbeit im Studiengang BWL mit der PO 2022 haben?
+Answer: Laut meiner Informationen muss die Bachelorarbeit im Studiengang Betriebswirtschaftslehre (BWL) mit der Prüfungsordnung (PO) 2022 12 Leistungspunkte (LP) umfassen.
+Expected answer: Nicht mehr als 7000 Wörter

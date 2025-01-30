@@ -1,0 +1,136 @@
+Metadata filter (only source) - Question: Was für Pflichtmodule muss ich im Bereich VWL und Recht im Studiengang Bachelor BWL belegen? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Bilanzen und Steuern 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Allgemeine Studien  
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Einführung in die VWL & Mikroökonomik 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Konzernbilanzen 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Recht für Ökonomen 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Bachelorarbeit  
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Seminar zur Betriebswirtschaftslehre II 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Seminar zur Betriebswirtschaftslehre I 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Seminar Allgemeine Volkswirtschaftslehre II 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : grundlagen des rechnungswesens modultitel englisch : foundations of accounting studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : bwl 2 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 1 oder 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung rechnungswesens pflicht 45 h ( 3 sws ) 75 2 ubung ubung zum rechnungswesen pflicht 15 h ( 1 sws ) 45 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul „ grundlagen des rechnungswesens “ vermittelt grundkenntnisse des externen und internen rechnungswesens und zeigt zusammenhange zwischen beiden teilgebieten auf. es verdeutlicht, wie die geschaftstatigkeit von unternehmen im rechnungswesen abgebildet wird, wie unternehmen mit den zahlen des rechnungswesens ihr geschaft steuern und wie sie uber ihre geschaftstatigkeit mit hilfe des jahresabschlusses berichten. damit werden kenntnisse vermittelt, die nicht
+---------- Chunk 1 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Bilanzen und Steuern ', 'source': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : bilanzen und steuern modultitel englisch : financial accounting and taxation studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : bwl 8 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 3 oder 4 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung bilanzen pflicht 37. 5 h ( 1, 5 sws ) 45 2 vorlesung grundzuge der unternehmensbesteuerung pflicht 37. 5 h ( 1, 5 sws ) 45 3 ubung ubung zu bilanzen pflicht 7. 5 h ( 0 sws ) 15 4 ubung ubung zu grundzuge der unternehmensbesteuerung pflicht 7. 5 h ( 0 sws ) 15 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : die lehrveranstaltung „ bilanzen “ erweitert und vertieft die im rahmen der pflichtveranstaltung „ grundlagen des rechnungswesens “ ( bwl 2 ) vermittelten lehrinhalte im bereich des externen rechnungswesens. die veranstaltung „ grundzuge der unternehmensbesteuerung “ gibt einen
+---------- Chunk 2 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Allgemeine Studien  ', 'source': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : allgemeine studien modultitel englisch : general studies studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : fwm 1 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 - 12 workload ( h ) : 180 - 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung / ubung veranstaltung aus den allgemeinen studien pflicht 30 h ( 2 sws ) 60 2 vorlesung / seminar veranstaltung aus den allgemeinen studien pflicht 30 h ( 2 sws ) 60 3 vorlesung / seminar veranstaltung aus den allgemeinen studien pflicht 30 h ( 2 sws ) 60 4 vorlesung veranstaltung aus den allgemeinen studien pflicht 30 h ( 2 sws ) 60 4 profil des moduls : lehrinhalte des moduls : im rahmen dieses moduls absolvieren die studierenden veranstaltungen aus dem angebot der „ allgemeinen studien “ der universitat munster. die lehrinhalte hangen von der gewahlten lehrveranstaltung ab und haben inhalt in den bereichen ( fremd ) sprachen, wissenschaftstheorie, rhetorik und ve
+---------- Chunk 3 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Einführung in die VWL & Mikroökonomik ', 'source': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : einfuhrung in die vwl & mikrookonomik modultitel englisch : principles of economics & microeconomics studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : vwl 1 status : pflicht unterrichtssprache : deutsch, teilweise evtl. englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 1 oder 2 lp : 9 workload ( h ) : 270 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung einfuhrung in die vwl ( wise : deutsch, sose : englisch ) pflicht 15 h ( 1 sws ) 30 2 vorlesung grundlagen der mikrookonomik pflicht 30 h ( 2 sws ) 60 3 ubung ubung zu einfuhrung in die vwl ( wise : deutsch, sose : englisch ) pflicht 15 h ( 1 sws ) 30 4 ubung tutorium zu grundlagen der mikrookonomik pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul ' einfuhrung in die vwl & mikrookonomik " ist vor allem als grundlage fur die weiteren vwl veranstaltungen insbesondere das modul ' grundlagen der makrookonomik ', abe
+---------- Chunk 4 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Konzernbilanzen ', 'source': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : konzernbilanzen modultitel englisch : consolidated financial statements studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : trb 11 status : wahlpflicht unterrichtssprache : deutsch, teilweise englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung konzernbilanzen pflicht 45 h ( 3 sws ) 90 2 ubung ubung zu konzernbilanzen pflicht 15 h ( 1 sws ) 30 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : die lehrveranstaltung „ konzernbilanzen “ erweitert die im rahmen der pflichtveranstaltung „ bilanzen und steuern “ ( bwl 8 ) vermittelten lehrinhalte im bereich des externen rechnungswesens um die ifrs - rechnungslegung sowie um die konzernrechnungslegung. lehrinhalte des moduls : inhaltlich ist die veranstaltung in zwei themenblocke untergliedert. im ersten themenblock werden die in der lehrveranstaltung „ bilanzen und steuern “ behandelten inhalte um die regel
+---------- Chunk 5 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Recht für Ökonomen ', 'source': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : recht fur okonomen modultitel englisch : law studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : r 1 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 1 oder 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung privatrecht pflicht 60 h ( 4 sws ) 120 4 profil des moduls : lehrinhalte des moduls : das modul recht fur okonomen vermittelt eine einfuhrung in das zivilrecht, insbesondere in die rechtsgebiete des bgb at sowie des schuldrechts at und des kaufrechts. zunachst werden das zustandekommen von vertragen und deren anfechtung behandelt. zudem werden die probleme des minderjahrigenrechts und des rechts der stellvertretung besprochen. im bereich des schuldrechts at wird schwerpunktmaßig das mangelrecht thematisiert. schließlich wird aus den gebieten des besonderen schuldrechts das kaufrecht, das fur das wirtschaftsleben von großter bedeutung ist, vorgestellt. 5 erworbene kompetenzen : fachliche ko
+---------- Chunk 6 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Bachelorarbeit  ', 'source': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : bachelorarbeit modultitel englisch : bachelor thesis studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : ba status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 6 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 bachelorarbeit pflicht 0 h ( 0 sws ) 360 4 profil des moduls : lehrinhalte des moduls : die bachelorarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu bearbeiten und die ergebnisse sachgerecht darzustellen. sie soll einen umfang von 7. 000 worten im haupttest nicht uberschreiten. 5 erworbene kompetenzen : fachliche kompetenzen : die studierenden gewinnen erfahrung in der wissenschaftlichen umsetzung der gelernten inhalte. weiterhin lernen sie, sich eigenstandig in die wissenschaftliche literatur einzuarbeiten und wissenschaftliche texte zu formulieren. schlusselqualifikationen : schreiben eines wissenschaftlichen textes, zeit - und se
+---------- Chunk 7 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Seminar zur Betriebswirtschaftslehre II ', 'source': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : seminar zur betriebswirtschaftslehre ii modultitel englisch : seminar in business ii studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : trb 19 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar zur betriebswirtschaftslehre pflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : die studierenden erlernen das wissenschaftliche arbeiten und vertiefen ein bestimmtes betriebswirtschaftliches thema. lehrinhalte des moduls : im rahmen des seminars verfassen die studierenden eine wissenschaftliche hausarbeit zu einem ausgewahlten thema in einer teildisziplin der betriebswirtschaftslehre. die themen variieren im zeitverlauf und konnen auch interdisziplinar ausgerichtet sein. die hausarbeit wird im seminar einzeln oder in gruppen prasentiert und diskutiert. das seminar zur betriebswirtschaftslehre verfolgt das ziel, die studierenden zu befahigen, ein problem mit wissenschaftlichen method
+---------- Chunk 8 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Seminar zur Betriebswirtschaftslehre I ', 'source': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : seminar zur betriebswirtschaftslehre i modultitel englisch : seminar in business i studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : trb 18 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar zur betriebswirtschaftslehre pflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : die studierenden erlernen das wissenschaftliche arbeiten und vertiefen ein bestimmtes betriebswirtschaftliches thema. lehrinhalte des moduls : im rahmen des seminars verfassen die studierenden eine wissenschaftliche hausarbeit zu einem ausgewahlten thema in einer teildisziplin der betriebswirtschaftslehre. die themen variieren im zeitverlauf und konnen auch interdisziplinar ausgerichtet sein. die hausarbeit wird im seminar einzeln oder in gruppen prasentiert und diskutiert. das seminar zur betriebswirtschaftslehre verfolgt das ziel, die studierenden zu befahigen, ein problem mit wissenschaftlichen method
+---------- Chunk 9 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Seminar Allgemeine Volkswirtschaftslehre II ', 'source': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+##ug, um fur jede ( n ) studierende ( n ) als basis fur bachelorarbeit, masterstudium und allgemeines okonomisches wissen relevant zu sein. themen lernziele ausgewahlte themen der allgemeinen vwl jeweils ein thema, uber das die / der studierende eine seminararbeit schreibt, soll vertieft durchdacht und analysiert werden. die ubrigen themen sollen das eigene thema in einen zusammenhang einordnen helfen. 5 erworbene kompetenzen : fachliche kompetenzen : das seminar vermittelt die fahigkeiten zur eigenstandigen, systematischen bearbeitung okonomischer fragestellungen. durch die eigenstandige, aber betreute bearbeitung einer eingegrenzten okonomischen fragestellung sollen die studierenden ihre kommunikationsfahigkeit ( schriftlich und mundlich ) als auch die fahigkeit probleme zu systematisieren und analysieren trainieren. schlusselqualifikationen : 245 in diesem modul bearbeiten die studierenden schriftlich ein abgegrenztes thema im rahmen einer seminararbeit und prasentieren die ergebnisse. durch die enge betreuung schult dies problemlosungskompetenz und das selbststandige arbeiten. feedback nach der prasentation ist hilfreich in bezug auf prasentationstechnik und
+
+
+===== Answer =====
+
+Answer: Im Bereich VWL sind die Module "Einführung in die VWL & Mikroökonomik" (VWL 1) und "Grundlagen der Makroökonomik" (VWL 2) Pflichtmodule. Im Bereich Recht ist das Modul "Recht für Ökonomen" (R 1) ein Pflichtmodul.
+Expected answer: Einführung in die VWL & Mikroökonomik, Grundlagen der Makroökonomik, Recht für Ökonomen
+
+Filter: {'source': {'$eq': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf'}}

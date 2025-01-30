@@ -1,0 +1,134 @@
+No modifications - Question: Wie setzt sich die Note aus dem Modul 'Performance Management & Strategy Execution' des Masters BWL ab WiSe 2023/24 zusammen? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2022-10-18_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2022/23
+Module Title: Performance Management & Strategy Execution 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Performance Management & Strategy Execution 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2020-05-06_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2019
+Effective From: WS 2020/21
+Module Title: Performance Management & Strategy Execution 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2019-10-29_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2019
+Effective From: WS 2019/20
+Module Title: Performance Management & Strategy Execution 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2022-10-18_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2022/23
+Module Title: Management II 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Management II 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2020-05-06_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2019
+Effective From: WS 2020/21
+Module Title: Management II 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2019-10-29_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2019
+Effective From: WS 2019/20
+Module Title: Management II 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2019-10-29_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2019
+Effective From: WS 2019/20
+Module Title: Performance Management & Strategy Execution 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2020-01-22_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: Sommersemester 2020
+Module Title: Vertiefung Management 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2022/23', 'examination_regulation': 'unknown', 'module_title': 'Performance Management & Strategy Execution ', 'source': 'module_handbooks_economics/2022-10-18_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : performance management & strategy execution modultitel englisch : performance management & strategy execution studiengang : master betriebswirtschaftslehre 1 modulnummer : acm13 status : wahlpflicht unterrichtssprache : englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung performance management & strategy execution pflicht 30 h ( 2 sws ) 60 2 ubung tutorial on performance management & strategy execution pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : dieser kurs beschaftigt sich mit der fragestellung, wie manager und angestellte eines unternehmens ausgerichtet werden mussen, um eine unternehmensstrategie zu implementieren. ausrichtungsprobleme sind besonders schwerwiegend, wenn individuelle ziele der angestellten und manager von den zielen der shareholder oder der geschaftsfuhrung abweichen. die implementierung einer strategie ist dementsprechend eine der großten herausforderungen eines modernen unternehmens. dieser kurs setzt deshalb einen besonderen fokus auf ansatze und instrumente des management alignment
+---------- Chunk 1 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Performance Management & Strategy Execution ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : performance management & strategy execution modultitel englisch : performance management & strategy execution studiengang : master betriebswirtschaftslehre 1 modulnummer : acm13 status : wahlpflicht unterrichtssprache : englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung performance management & strategy execution pflicht 30 h ( 2 sws ) 60 2 ubung tutorial on performance management & strategy execution pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : dieser kurs beschaftigt sich mit der fragestellung, wie manager und angestellte eines unternehmens ausgerichtet werden mussen, um eine unternehmensstrategie zu implementieren. ausrichtungsprobleme sind besonders schwerwiegend, wenn individuelle ziele der angestellten und manager von den zielen der shareholder oder der geschaftsfuhrung abweichen. die implementierung einer strategie ist dementsprechend eine der großten herausforderungen eines modernen unternehmens. dieser kurs setzt deshalb einen besonderen fokus auf ansatze und instrumente des management alignment
+---------- Chunk 2 ----------
+{'degree': 'Master', 'effective_from': 'WS 2020/21', 'examination_regulation': 'PO 2019', 'module_title': 'Performance Management & Strategy Execution ', 'source': 'module_handbooks_economics/2020-05-06_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : performance management & strategy execution modultitel englisch : performance management & strategy execution studiengang : master betriebswirtschaftslehre 1 modulnummer : acm13 status : wahlpflicht unterrichtssprache : englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung performance management & strategy execution pflicht 30 h ( 2 sws ) 60 2 ubung tutorial on performance management & strategy execution pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : dieser kurs beschaftigt sich mit der fragestellung, wie manager und angestellte eines unternehmens ausgerichtet werden mussen, um eine unternehmensstrategie zu implementieren. ausrichtungsprobleme sind besonders schwerwiegend, wenn individuelle ziele der angestellten und manager von den zielen der shareholder oder der geschaftsfuhrung abweichen. die implementierung einer strategie ist dementsprechend eine der großten herausforderungen eines modernen unternehmens. dieser kurs setzt deshalb einen besonderen fokus auf ansatze und instrumente des management alignment
+---------- Chunk 3 ----------
+{'degree': 'Master', 'effective_from': 'WS 2019/20', 'examination_regulation': 'PO 2019', 'module_title': 'Performance Management & Strategy Execution ', 'source': 'module_handbooks_economics/2019-10-29_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : performance management & strategy execution modultitel englisch : performance management & strategy execution studiengang : master betriebswirtschaftslehre 1 modulnummer : acm13 status : wahlpflicht unterrichtssprache : englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung performance management & strategy execution pflicht 30 h ( 2 sws ) 60 2 ubung tutorial on performance management & strategy execution pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : dieser kurs beschaftigt sich mit der fragestellung, wie manager und angestellte eines unternehmens ausgerichtet werden mussen, um eine unternehmensstrategie zu implementieren. ausrichtungsprobleme sind besonders schwerwiegend, wenn individuelle ziele der angestellten und manager von den zielen der shareholder oder der geschaftsfuhrung abweichen. die implementierung einer strategie ist dementsprechend eine der großten herausforderungen eines modernen unternehmens. dieser kurs setzt deshalb einen besonderen fokus auf ansatze und instrumente des management alignment
+---------- Chunk 4 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2022/23', 'examination_regulation': 'unknown', 'module_title': 'Management II ', 'source': 'module_handbooks_economics/2022-10-18_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : management ii modultitel englisch : management ii studiengang : master betriebswirtschaftslehre 1 modulnummer : cfm04 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung strategisches management iii pflicht 30 h ( 2 sws ) 60 2 ubung fallstudienubung pflicht 30 h ( 2 sws ) 30 3 ubung internettutorium pflicht 0 h ( 0 sws ) 30 4 profil des moduls : lehrinhalte des moduls : die veranstaltung „ strategisches management iii “ beschaftigt sich mit grundlegenden fragen von strategischer positionierung und deren umsetzung. zentrale okonomische prinzipien und eine historische einordnung sorgen fur den rahmen dieser veranstaltung, um zu erortern, welche faktoren die strategiewahl eines unternehmens beeinflussen und determinieren. die umfassende diskussion von diversifikationsmoglichkeiten erlautert die rolle von unternehmensgrenzen. darauf aufbauend werden einzelunternehmens - und marktbezogene auswirkungen
+---------- Chunk 5 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Management II ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : management ii modultitel englisch : management ii studiengang : master betriebswirtschaftslehre 1 modulnummer : cfm04 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung strategisches management iii pflicht 30 h ( 2 sws ) 60 2 ubung fallstudienubung pflicht 30 h ( 2 sws ) 30 3 ubung internettutorium pflicht 0 h ( 0 sws ) 30 4 profil des moduls : lehrinhalte des moduls : die veranstaltung „ strategisches management iii “ beschaftigt sich mit grundlegenden fragen von strategischer positionierung und deren umsetzung. zentrale okonomische prinzipien und eine historische einordnung sorgen fur den rahmen dieser veranstaltung, um zu erortern, welche faktoren die strategiewahl eines unternehmens beeinflussen und determinieren. die umfassende diskussion von diversifikationsmoglichkeiten erlautert die rolle von unternehmensgrenzen. darauf aufbauend werden einzelunternehmens - und marktbezogene auswirkungen
+---------- Chunk 6 ----------
+{'degree': 'Master', 'effective_from': 'WS 2020/21', 'examination_regulation': 'PO 2019', 'module_title': 'Management II ', 'source': 'module_handbooks_economics/2020-05-06_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : management ii modultitel englisch : management ii studiengang : master betriebswirtschaftslehre 1 modulnummer : cfm04 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung strategisches management iii pflicht 30 h ( 2 sws ) 60 2 ubung fallstudienubung pflicht 30 h ( 2 sws ) 30 3 ubung internettutorium pflicht 0 h ( 0 sws ) 30 4 profil des moduls : lehrinhalte des moduls : die veranstaltung „ strategisches management iii “ beschaftigt sich mit grundlegenden fragen von strategischer positionierung und deren umsetzung. zentrale okonomische prinzipien und eine historische einordnung sorgen fur den rahmen dieser veranstaltung, um zu erortern, welche faktoren die strategiewahl eines unternehmens beeinflussen und determinieren. die umfassende diskussion von diversifikationsmoglichkeiten erlautert die rolle von unternehmensgrenzen. darauf aufbauend werden einzelunternehmens - und marktbezogene auswirkungen
+---------- Chunk 7 ----------
+{'degree': 'Master', 'effective_from': 'WS 2019/20', 'examination_regulation': 'PO 2019', 'module_title': 'Management II ', 'source': 'module_handbooks_economics/2019-10-29_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : management ii modultitel englisch : management ii studiengang : master betriebswirtschaftslehre 1 modulnummer : cfm04 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung strategisches management iii pflicht 30 h ( 2 sws ) 60 2 ubung fallstudienubung pflicht 30 h ( 2 sws ) 30 3 ubung internettutorium pflicht 0 h ( 0 sws ) 30 4 profil des moduls : lehrinhalte des moduls : die veranstaltung „ strategisches management iii “ beschaftigt sich mit grundlegenden fragen von strategischer positionierung und deren umsetzung. zentrale okonomische prinzipien und eine historische einordnung sorgen fur den rahmen dieser veranstaltung, um zu erortern, welche faktoren die strategiewahl eines unternehmens beeinflussen und determinieren. die umfassende diskussion von diversifikationsmoglichkeiten erlautert die rolle von unternehmensgrenzen. darauf aufbauend werden einzelunternehmens - und marktbezogene auswirkungen
+---------- Chunk 8 ----------
+{'degree': 'Master', 'effective_from': 'WS 2019/20', 'examination_regulation': 'PO 2019', 'module_title': 'Performance Management & Strategy Execution ', 'source': 'module_handbooks_economics/2019-10-29_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+##rnerfolg zu verbessern. 15 mobilitat / anerkennung : verwendbarkeit in anderen studiengangen master is englische ubersetzung der modulkomponenten aus teil 3 nr. 1 : performance management & strategy execution nr. 2 : tutorial on performance management & strategy execution 16 modulbeauftragte / r : professor dr. martin artz einrichtung : fb 04 - wirtschaftswissenschaftliche fakultat 17 sonstiges : dieser entwurf wurde um tue, 17 sep 2019 10 : 06 : 12 + 0200 fur ulrike augustin erzeugt. 52 ifrs und controlling
+---------- Chunk 9 ----------
+{'degree': 'Bachelor', 'effective_from': 'Sommersemester 2020', 'examination_regulation': 'unknown', 'module_title': 'Vertiefung Management ', 'source': 'module_handbooks_economics/2020-01-22_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : vertiefung management modultitel englisch : advanced management studiengang : bachelor betriebswirtschaftslehre po 2017 / 2018 1 modulnummer : bwl 16 status : wahlpflicht unterrichtssprache : englisch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung advanced management pflicht 30 h ( 2 sws ) 60 2 seminar advanced management pflicht 30 h ( 2 sws ) 60 4 modulinhalte : zielsetzung des moduls / einbindung in das curriculum : das modul ist eine ideale erweiterung der pflichtmodule bwl 5 und bwl 10. lehrinhalte des moduls : strategisches management ist ein breit gefachertes themengebiet mit einer vielzahl von modellen und frameworks. die theoretische einbettung und die wechselbeziehungen der verschiedenen modelle gehen dabei oft verloren. im modul wird ein koharentes theoretisches modell vorgestellt, das die bekanntesten strategieansatze verbindet und die frage beantwortet, wie ein unternehmen trotz wettbewerb dauerhaft einen uberdurchschnittlichen unternehmenserfolg erzielen kan
+
+
+===== Answer =====
+
+Answer: Leider kann ich mit den mir zur Verfügung stehenden Informationen keine genaue Antwort auf die Frage geben, wie sich die Note aus dem Modul 'Performance Management & Strategy Execution' des Masters BWL ab WiSe 2023/24 zusammensetzt.
+Expected answer: Klausur 75%, Schriftliche Ausarbeitung 25%

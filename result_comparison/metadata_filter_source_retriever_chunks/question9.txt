@@ -1,0 +1,136 @@
+Metadata filter (only source) - Question: In welchem Semester ist der Praxisworkshop im Master BWL mit Major Finance vorgesehen? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Praxisworkshop 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Minor Business Research Modul 2: Business Research - Qualitative 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Introduction to Advanced Finance 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Minor Business Research Modul 3a: Business Research - Qualitative 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Aktuelle Themen des Finance 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Minor Business Research Modul 4a: Business Research - Qualitative 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Ausgewählte Kapitel des Finance II 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Minor Business Research Modul 1: Business Research - Qualitative Methods 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Forschungsseminar Finance 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Ausgewählte Kapitel des Finance I 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Praxisworkshop ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : praxisworkshop modultitel englisch : case studies in finance studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm10 status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar praxisworkshop pflicht 30 h ( 2 sws ) 150 4 profil des moduls : lehrinhalte des moduls : im „ praxisworkshop “ sollen die studierenden in kleingruppen das in den vorlesungen erworbene wissen in fallstudien anwenden. hierbei konnen die studierenden zwischen mehreren fallstudien wahlen, die in der regel in kooperation mit partnern aus der praxis durchgefuhrt werden und die in einer prasenzveranstaltung zu bearbeiten sind. die ergebnisse der kleingruppen sind anschließend vor allen teilnehmern zu prasentieren. die liste der themen wird dabei von jahr zu jahr neu festgelegt. im vorfeld der fallstudie arbeiten sich die studierenden eigenstandig in das zu bearbeitende thema ein und fuhren eine eigene literaturrecherche durch
+---------- Chunk 1 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Minor Business Research Modul 2: Business Research - Qualitative ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : minor business research modul 2 : business research - qualitative methods 2 or business research - quantitative methods 2 or business research – selective topis 2 modultitel englisch : minor business research module 2 business research - qualitative methods 2 or business research - quantitative methods 2 or business research – selective topis 2 studiengang : master betriebswirtschaftslehre 1 modulnummer : phd2 status : pflicht unterrichtssprache : englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 1 oder 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung / seminar forschungsorientierte veranstaltung wahlpflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : der minor business research dient dazu, studierenden aktuelle wissenschaftliche methoden und theorien zu vermitteln und studierende somit auf eine wissenschaftsnahe berufliche tatigkeit oder auf eine mogliche spatere promotion vorzubereiten. lehrinhalte des moduls : es ist ein kurs aus den bereichen " methoden " oder " theorie " des promotionsstudiums oder ein forschungsorientierter masterkurs zu wahlen. eine ubersicht ist im learnweb zu finden. die lehrinhalte sind abhangig davon, welcher ku
+---------- Chunk 2 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Introduction to Advanced Finance ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : introduction to advanced finance modultitel englisch : introduction to advanced finance studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm01 status : pflicht unterrichtssprache : englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung introduction to advanced finance pflicht 30 h ( 2 sws ) 60 2 ubung vertiefungsseminar introduction to advanced finance pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul bildet die inhaltliche grundlage fur die fortgeschrittenen kurse in finance. es werden inhalte aus dem bachelorstudium aufgefrischt und vertieft, sodass alle studierenden einen ahnlichen wissensstand fur das weitere studium besitzen. lehrinhalte des moduls : das modul vermittelt den studierenden die zentralen konzepte des finance. der kurs behandelt vorwiegend investmentthemen, enthalt aber auch die grundlagen des corporate finance. in rahmen des investmentteils werden z. b. die eigenschaften von finanzmarkten, die ( nutzen ) theoretische fundierung von investment
+---------- Chunk 3 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Minor Business Research Modul 3a: Business Research - Qualitative ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : minor business research modul 3a : business research - qualitative methods 1 or business research - quantitative methods 1 or business research – theories 1 or business research – selective topis 1 modultitel englisch : minor business research module 3a : business research - qualitative methods 1 or business research - quantitative methods 1 or business research – theories 1 or business research – selective topis 1 studiengang : master betriebswirtschaftslehre 1 modulnummer : phd3a status : wahlpflicht unterrichtssprache : englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 1 oder 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung / seminar veranstaltung aus dem bereich " methoden " oder „ theorie “ des promotionsstudiums wahlpflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : der minor business research dient dazu, studierenden aktuelle wissenschaftliche methoden und theorien zu vermitteln und studierende somit auf eine wissenschaftsnahe berufliche tatigkeit oder auf eine mogliche spatere promotion vorzubereiten. lehrinhalte des moduls : es ist ein kurs aus den bereichen " methoden " oder " theorie " des promotionsstudiums zu wahlen. die lehrinhalte sind abhangig davon, welch
+---------- Chunk 4 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Aktuelle Themen des Finance ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : aktuelle themen des finance modultitel englisch : contemporary topics in finance studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm18 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : unregelmaßig dauer : 1 semester fachsemester : 1 oder 2 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung ausgewahlte kapitel finance i wahlpflicht 30 h ( 2 sws ) 60 2 ubung tutorial ausgewahlte kapitel des finance i wahlpflicht 30 h ( 2 sws ) 60 4 profil des moduls : lehrinhalte des moduls : in diesem modul werden aktuelle fragestellungen aus dem bereich finance vorgestellt. die veranstaltungen haben abhangig von den aktuellen entwicklungen wechselnde inhalte und werden von verschiedenen dozenten durchgefuhrt. in die einzelnen veranstaltungen sind ubungsinhalte und fallstudien integriert. dabei liegt ein besonderes augenmerk darauf, dass sich die veranstaltungen in die aktuellen forschungsgebiete des finance einpassen. in der regel werden die veranstaltungen mit 3 lp bz
+---------- Chunk 5 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Minor Business Research Modul 4a: Business Research - Qualitative ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : minor business research modul 4a : business research - qualitative methods 2 or business research - quantitative methods 2 or business research – theories 2 or business research – selective topis 2 modultitel englisch : minor business research module 4a : business research - qualitative methods 2 or business research - quantitative methods 2 or business research – theories 2 or business research – selective topis 2 studiengang : master betriebswirtschaftslehre 1 modulnummer : phd4a status : wahlpflicht unterrichtssprache : englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 1 oder 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung / seminar veranstaltung aus dem bereich " methoden " oder „ theorie “ des promotionsstudiums wahlpflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : der minor business research dient dazu, studierenden aktuelle wissenschaftliche methoden und theorien zu vermitteln und studierende somit auf eine wissenschaftsnahe berufliche tatigkeit oder auf eine mogliche spatere promotion vorzubereiten. lehrinhalte des moduls : es ist ein kurs aus den bereichen " methoden " oder " theorie " des promotionsstudiums zu wahlen. die lehrinhalte sind abhangig davon, welch
+---------- Chunk 6 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Ausgewählte Kapitel des Finance II ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : ausgewahlte kapitel des finance ii modultitel englisch : advanced finance on specific topics ii studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm14 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung ausgewahlte kapitel finance ii wahlpflicht 30 h ( 2 sws ) 60 2 vorlesung ausgewahlte kapitel finance ii wahlpflicht 30 h ( 2 sws ) 60 3 vorlesung ausgewahlte kapitel finance ii wahlpflicht 30 h ( 2 sws ) 60 4 ubung tutorium ausgewahlte kapitel finance ii wahlpflicht 30 h ( 2 sws ) 60 5 seminar ausgewahlte kapitel finance ii wahlpflicht 30 h ( 2 sws ) 150 4 profil des moduls : lehrinhalte des moduls : in diesem modul werden aktuelle fragestellungen aus dem bereich finance vorgestellt. die veranstaltungen haben abhangig von den aktuellen entwicklungen wechselnde inhalte und werden von verschiedenen dozenten durchgefuhrt. in die einzelnen veranstal
+---------- Chunk 7 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Minor Business Research Modul 1: Business Research - Qualitative Methods ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : minor business research modul 1 : business research - qualitative methods 1 or business research - quantitative methods 1 or business research – selective topis 1 modultitel englisch : minor business research module 1 : business research - qualitative methods 1 or business research - quantitative methods 1 or business research – selective topis 1 studiengang : master betriebswirtschaftslehre 1 modulnummer : phd1 status : pflicht unterrichtssprache : englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 1 oder 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung / seminar veranstaltung aus dem bereich " methoden " des promotionsstudiums wahlpflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : der minor business research dient dazu, studierenden aktuelle wissenschaftliche methoden und theorien zu vermitteln und studierende somit auf eine wissenschaftsnahe berufliche tatigkeit oder auf eine mogliche spatere promotion vorzubereiten. lehrinhalte des moduls : es ist ein kurs aus dem bereich " methoden " des promotionsstudiums zu wahlen. die lehrinhalte sind abhangig davon, welcher kurs aus dem promotionsstudium gewahlt wird. hierzu ist jeweils die uber
+---------- Chunk 8 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Forschungsseminar Finance ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : forschungsseminar finance modultitel englisch : financial research seminar studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm09 status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 3 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar behavioral & coporate finance wahlpflicht 30 h ( 2 sws ) 330 2 seminar seminar derivate und financial engineering wahlpflicht 30 h ( 2 sws ) 330 3 seminar seminar bwl der banken wahlpflicht 30 h ( 2 sws ) 330 4 seminar seminar international financial management wahlpflicht 30 h ( 2 sws ) 330 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das verfassen von aufsatzen, artikeln, essays oder allgemeinen analysen sowie die bereitstellung von prasentationen oder die teilnahme an offenen diskussionen uber finanzthemen sind wichtige fahigkeiten fur mitarbeiter im finanzsektor ( insbesondere finanzanalysten, berater und forscher ). daruber hinaus ist das selbstandige kennenlernen eines forschungsgebietes oder eines literaturstrangs eine wesentliche voraus
+---------- Chunk 9 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Ausgewählte Kapitel des Finance I ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : ausgewahlte kapitel des finance i modultitel englisch : advanced finance on specific topics i studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm13 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung ausgewahlte kapitel finance i wahlpflicht 30 h ( 2 sws ) 60 2 vorlesung ausgewahlte kapitel finance i wahlpflicht 30 h ( 2 sws ) 60 3 vorlesung ausgewahlte kapitel finance i wahlpflicht 30 h ( 2 sws ) 60 4 ubung tutorial ausgewahlte kapitel des finance i wahlpflicht 30 h ( 2 sws ) 60 5 seminar ausgewahlte kapitel des finance i wahlpflicht 30 h ( 2 sws ) 150 4 profil des moduls : lehrinhalte des moduls : in diesem modul werden aktuelle fragestellungen aus dem bereich finance vorgestellt. die veranstaltungen haben abhangig von den aktuellen entwicklungen wechselnde inhalte und werden von verschiedenen dozenten durchgefuhrt. in die einzelnen vera
+
+
+===== Answer =====
+
+Answer: Der Praxisworkshop ist im 3. Fachsemester vorgesehen.
+Expected answer: Im 3. Fachsemester
+
+Filter: {'source': {'$eq': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf'}}

@@ -1,0 +1,68 @@
+Metadata filter: 
+
+Filter:
+ {'$and': [{'source': {'$eq': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf'}}, {'module_title': {'$eq': 'Praxisworkshop '}}]}
+
+Metadata filter (source and module): 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Praxisworkshop 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Praxisworkshop 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Praxisworkshop 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Praxisworkshop 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Praxisworkshop ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : praxisworkshop modultitel englisch : case studies in finance studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm10 status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar praxisworkshop pflicht 30 h ( 2 sws ) 150 4 profil des moduls : lehrinhalte des moduls : im „ praxisworkshop “ sollen die studierenden in kleingruppen das in den vorlesungen erworbene wissen in fallstudien anwenden. hierbei konnen die studierenden zwischen mehreren fallstudien wahlen, die in der regel in kooperation mit partnern aus der praxis durchgefuhrt werden und die in einer prasenzveranstaltung zu bearbeiten sind. die ergebnisse der kleingruppen sind anschließend vor allen teilnehmern zu prasentieren. die liste der themen wird dabei von jahr zu jahr neu festgelegt. im vorfeld der fallstudie arbeiten sich die studierenden eigenstandig in das zu bearbeitende thema ein und fuhren eine eigene literaturrecherche durch
+---------- Chunk 1 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Praxisworkshop ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+lp 12 gewichtung der modulnote fur die bildung der gesamtnote : 6 / 120 ( 5 % ) 13 modulbezogene teilnahmevoraussetzungen : empfohlen wird, dass die module fcm 01 - fcm04 sowie zwei der module fcm05 - fcm08 absolviert worden sind. 14 anwesenheit : die anwesenheit wird dringend empfohlen, um den lernerfolg zu verbessern. 15 mobilitat / anerkennung : verwendbarkeit in anderen studiengangen keine englische ubersetzung der modulkomponenten aus teil 3 nr. 1 : seminar case studies in finance 16 modulbeauftragte / r : prof. dr. christoph schneider einrichtung : fb 04 - wirtschaftswissenschaften 17 sonstiges : 105 empirisches labor i
+---------- Chunk 2 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Praxisworkshop ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+##egt. im vorfeld der fallstudie arbeiten sich die studierenden eigenstandig in das zu bearbeitende thema ein und fuhren eine eigene literaturrecherche durch. 5 erworbene kompetenzen : fachliche kompetenzen : die studierenden sind in der lage, eine aus der praxis stammende fragestellung innerhalb eines vorgegebenen zeitlichen rahmens zu analysieren. sie konnen ein problem strukturieren, die wesentlichen punkte herausarbeiten und dann diese punkte gezielt analysieren. dabei wenden sie, je nach fragestellung, sowohl quantitative als auch formal - analytische methoden an. ferner sind sie in der lage, sich im team problemorientiert zu organisieren und eine aufgabenstellung zu losen. sie konnen ihre argumente sowohl innerhalb des teams als auch gegenuber den „ auftraggebern “ vertreten und erklaren. beide punkte stellen wichtige schlusselqualifikationen dar. im laufe der losungserstellung reflektieren sie ihre eigenen losungsansatze sowie die ansatze und argumente ihrer teammitglieder kritisch und entwickeln losungsorientierte konsequenzen. die studierenden erfassen die wesentlichen punkte der selbst gewahlten literatur und erkennen
+---------- Chunk 3 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Praxisworkshop ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+kritisch und entwickeln losungsorientierte konsequenzen. die studierenden erfassen die wesentlichen punkte der selbst gewahlten literatur und erkennen eigenverantwortlich ihre kernaussagen. 6 beschreibung von wahlmoglichkeiten innerhalb des moduls : keine 7 leistungsuberprufung : modulabschlussprufung ( map ) 104 8 prufungsleistungen : nr. anzahl und art ; anbindung an lehrveranstaltung dauer ggf. anbindung an lv - nr. gewichtung fur die modulnote in % 1 1 schriftliche ausarbeitung ( in gruppen ) ca. 12 s. - - 100 % 9 studienleistungen : keine 10 voraussetzungen fur die vergabe von leistungspunkten : die leistungspunkte fur das modul werden angerechnet, wenn das modul insgesamt erfolgreich abgeschlossen wurde, d. h. alle prufungsleistungen und studienleistungen bestanden wurden. 11 lp - zuordnung : teilnahme / prasenz ( siehe teil 3 ) nr. 1 1. 00 lp prufungsleistungen ( siehe teil 8 ) nr. 1 5. 00 lp summe 6 lp 12 gewichtung der modulnote fur die bildung der gesamtnote : 6 / 120 ( 5 % ) 13 modulbezogene teilnahmevoraussetzungen : empfohlen wird,
+
+
+===== Answer =====
+
+Question: In welchem Semester ist der Praxisworkshop im Master BWL vorgesehen? Ich fange im Wintersemester 2024/25 an.
+Answer: Laut meiner Informationen ist der Praxisworkshop (FCM10) jedes Wintersemester vorgesehen. Da du im Wintersemester 2024/25 anfängst, kannst du den Praxisworkshop also im Wintersemester 2025/26 belegen, da er im dritten Fachsemester vorgesehen ist.
+Expected answer: Im 3. Fachsemester

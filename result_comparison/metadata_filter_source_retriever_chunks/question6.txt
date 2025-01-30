@@ -1,0 +1,136 @@
+Metadata filter (only source) - Question: In welchem Semester findet die Vorlesung 'Grundlagen der Regulierung' statt? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen der Regulierung 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen der Regulierung 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Recht für Ökonomen 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Recht für Ökonomen 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen der Wirtschaftspolitik 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Wirtschafts- und Unternehmensethik 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Integriertes Management Seminar 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Makroökonomik III 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen der Regulierung ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+modultitel deutsch : grundlagen der regulierung modultitel englisch : foundations of regulation studiengang : bachelor volkswirtschaftslehre 1 modulnummer : vwl 6a status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 3 oder 4 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar grundlagen der regulierung pflicht 30 h ( 2 sws ) 90 2 ubung ubung zu grundlagen der regulierung pflicht 30 h ( 2 sws ) 30 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul baut auf den grundlagen der mikrookonomik auf und intensiviert die dort erlangten kenntnisse. in weiterfuhrenden modulen finden sich die inhalte des moduls in form von wirtschaftspolitischen und regulatorischen anwendungsfeldern wieder. eine parallele belegung des moduls „ grundlagen der wirtschaftspolitik “ ist empfehlenswert. lehrinhalte des moduls : in diesem modul werden die grundzuge, bereiche und instrumente der wettbewerbs - und regulierungstheorie behandelt. dazu werden zuerst die grundlage
+---------- Chunk 1 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+##deten ( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entscheidungsfindung und kontrolle darstellen. damit erlernen die studierenden, wie quantitative informationen erhoben werden, die haufig als gegeben angenommen werden. in der zweiten halfte des semesters steht die finanzielle rechnungslegung in deutschland im mittelpunkt. damit bildet das modul die grundlage fur weitere kurse in bezug auf fragestellungen der rechnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. lehrinhalte des moduls : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die doppelte buchfuhrung. ausgehend von den rechtlichen grundlagen werden aufbau und durchfuhrung der finanzbuchfuhrung am beispiel eines industriebetriebs vorgestellt. im fokus der veranstaltung „ grundlagen des betriebswirtschaftlichen rechnungswesens “ steht die vermittlung
+---------- Chunk 2 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen der Regulierung ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+in diesem modul werden die grundzuge, bereiche und instrumente der wettbewerbs - und regulierungstheorie behandelt. dazu werden zuerst die grundlagen der wettbewerbstheorie und regulierungsokonomik vermittelt. im anschluss daran erfolgt die behandlung der deutschen sowie europaischen wettbewerbs - und regulierungspolitik, die durch anwendungsbeispiele vertieft wird. die vorlesung grundlagen der regulierung basiert auf wettbewerbsproblemen von markten und wie diese mit okonomisch fundierter regulierung gelost werden konnen. dazu werden die grundlegenden regulierungstheorien vorgestellt. die studierenden erlernen die analyse der instrumente, welche in der lage sind marktversagen zu beheben und in welchem zusammenhang sie sinnvoll eingesetzt werden konnen. praktische beispiele und anwendungen werden genutzt, um den studierenden den lernstoff nahe zu bringen. zusatzlich wird diskutiert, warum wettbewerb auf markten der bevorzugte soziale zustand ist und warum unternehmen wettbewerb reduzieren wollen. dazu werden diverse industrieokonomische modelle studiert, die verschiedene marktstrukturen behandeln
+---------- Chunk 3 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Recht für Ökonomen ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+modultitel deutsch : recht fur okonomen modultitel englisch : law studiengang : bachelor volkswirtschaftslehre 1 modulnummer : qr 3 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 1 oder 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung privatrecht pflicht 60 h ( 4 sws ) 120 4 profil des moduls : lehrinhalte des moduls : das modul recht fur okonomen vermittelt eine einfuhrung in das zivilrecht, insbesondere in die rechtsgebiete des bgb at sowie des schuldrechts at und des kaufrechts. zunachst werden das zustandekommen von vertragen und deren anfechtung behandelt. zudem werden die probleme des minderjahrigenrechts und des rechts der stellvertretung besprochen. im bereich des schuldrechts at wird schwerpunktmaßig das mangelrecht thematisiert. schließlich wird aus den gebieten des besonderen schuldrechts das kaufrecht, das fur das wirtschaftsleben von großter bedeutung ist, vorgestellt. 5 erworbene kompetenzen : fachliche ko
+---------- Chunk 4 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Recht für Ökonomen ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+##en schuldrechts das kaufrecht, das fur das wirtschaftsleben von großter bedeutung ist, vorgestellt. 5 erworbene kompetenzen : fachliche kompetenzen : die studierenden beherrschen nach abschluss des moduls die grundlegende juristische technik, um rechtsprobleme losen zu konnen. dazu gehoren einerseits das erkennen und herausfiltern der juristisch relevanten aspekte eines sachverhalts sowie andererseits das auffinden der einschlagigen rechtsnormen und die anwendung des rechts auf die gegebenen probleme der jeweiligen situation. die studierenden sind so in der lage, theoretisches und abstraktes wissen auf einen praktischen rechtsfall zu ubertragen. zudem konnen sie ihre losungen in schlussiger und differenzierter weise darstellen. schlusselqualifikationen : studierende lernen schlussig und differenziert zu argumentieren. 6 beschreibung von wahlmoglichkeiten innerhalb des moduls : keine 7 leistungsuberprufung : modulabschlussprufung ( map ) 8 prufungsleistungen : 154 nr. anzahl und art ; anbindung an lehrveranstaltung dauer gewichtung fur die modulnote in % 1 modulabschlussklausur 90 min. 100 % 9 studienleistungen : keine 10 voraus
+---------- Chunk 5 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen der Wirtschaftspolitik ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+modultitel deutsch : grundlagen der wirtschaftspolitik modultitel englisch : foundations of economic policy studiengang : bachelor volkswirtschaftslehre 1 modulnummer : vwl 6b status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 3 oder 4 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar grundlagen der wirtschaftspolitik pflicht 30 h ( 2 sws ) 90 2 ubung ubung zu grundlagen der wirtschaftspolitik pflicht 30 h ( 2 sws ) 30 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul grundlagen der wirtschaftspolitik fur baut auf dem einfuhrenden modul zur mikrookonomik i auf. schnittmengen bietet ebenfalls die institutionenokonomik. lehrinhalte des moduls : in diesem modul werden die grundzuge, bereiche und instrumente der wirtschaftspolitik in der marktwirtschaft behandelt. schwerpunkte sind die legitimation und ziele wirtschaftspolitischen handelns ( normative theorie ), die verfahren kollektiver willensbildung und die analyse des verhaltens wirts
+---------- Chunk 6 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Wirtschafts- und Unternehmensethik ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+##ne 7 leistungsuberprufung : modulabschlussprufung ( map ) 8 prufungsleistungen : nr. anzahl und art ; anbindung an lehrveranstaltung dauer gewichtung fur die modulnote in % 1 modulabschlussprufung 90 min. 100 % 9 studienleistungen : keine 10 voraussetzungen fur die vergabe von leistungspunkten : die leistungspunkte fur das modul werden angerechnet, wenn das modul insgesamt erfolgreich abgeschlossen wurde, d. h. alle prufungsleistungen und studienleistungen bestanden wurden. 11 lp - zuordnung : teilnahme / prasent ( siehe nr. 3 ) nr. 1 1. 00 lp nr. 2 1. 00 lp prufungsleistungen ( siehe nr. 8 ) nr. 1 4. 00 lp summe 6 lp 12 gewichtung der modulnote fur die bildung der gesamtnote : 6 / 180 ( 3, 33 % ) 13 modulbezogene teilnahmevoraussetzungen : keine 14 anwesenheit : die anwesenheit wird dringend empfohlen, um den lernerfolg zu verbessern 15 mobilitat / anerkennung : verwendbarkeit in anderen studiengangen bachelor bwl, bachelor politik und wirtschaft, bachelor wirtschaft und recht, 2 - fach bachelor okonomik, bachelor mathematik, bachelor geographie englische uberset
+---------- Chunk 7 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Integriertes Management Seminar ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+seminararbeit ( intop ) ( themenvergabe bereits zu semesterbeginn ) 8 - 10 s. 40 % 4 unternehmenssimulation ( intop ) : schriftliche ausarbeitungen zu den managemententscheidungen in der unternehmenssimulation intop max. 15 s. 40 % 119 5 prasentation & verteidigung ( intop ) 45 min. pro gruppe 20 % 9 studienleistungen : keine 10 voraussetzungen fur die vergabe von leistungspunkten : die leistungspunkte fur das modul werden angerechnet, wenn das modul insgesamt erfolgreich abgeschlossen wurde, d. h. alle prufungsleistungen und studienleistungen bestanden wurden. 11 lp - zuordnung : teilnahme / prasent ( siehe nr. 3 ) nr. 1 oder 1. 50 lp nr. 2 2. 00 lp prufungsleistungen ( siehe nr. 8 ) nr. 1 ( abhangig von der wahl unter teilnahme / prasenz ) und 3. 50 lp nr. 2 1. 00 lp nr. 3 ( abhangig von der wahl unter teilnahme / prasenz ) und 1. 50 lp nr. 4 und 1. 50 lp nr. 5 1. 00 lp summe 6 lp 12 gewichtung der modulnote fur die bildung der gesamtnote : 6 / 180 ( 3, 33 % ) 13 modulbezogene teilnahmevoraussetzungen : keine. die zahl der teilnehmer an dem
+---------- Chunk 8 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+dazu gehort es, geschaftsvorfalle in buchungssatze zu transformieren und schließlich in das system der finanzbuchhaltung aufzunehmen, um am ende jeden geschaftsjahres aussagen uber die vermogens -, finanz - und ertragssituation des unternehmens liefern zu konnen. die studierenden beherrschen daruber hinaus die analyse von jahresabschlussen mithilfe geeigneter kennzahlen. mit blick auf das interne rechnungswesen verfugen sie uber fundierte kenntnisse der systematik der kostenrechnung ( kostenarten -, kostenstellen - und kostentragerrechnung ) und konnen die ergebnisse betriebswirtschaftlich interpretieren. ferner sind die studierenden in der lage, einzelaspekte des rechnungswesens kritisch zu hinterfragen und zu diskutieren. schlusselqualifikationen : erstens ermoglicht das modul den studierenden, ihre interdisziplinaren fahigkeiten in bezug auf die teilgebiete des rechnungswesens zu erweitern. hierzu tragen auch die begleitenden ubungsaufgaben bei. zweitens fordern die tutorien die diskussionsfahigkeiten der studierenden und deren teamfahigkeiten in der diskussion. drittens fordert das modul die systemischen kompetenzen der
+---------- Chunk 9 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Makroökonomik III ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+vorgange und entwicklungen untersucht sowie die moglichkeiten und grenzen wirtschaftspolitischer eingriffe in diese markte verdeutlicht. dieses modul soll die studierenden in die lage versetzen, mit hilfe des vermittelten instrumentariums selbstandig losungen fur monetare probleme auf der volkswirtschaftlichen ebene zu erarbeiten. ziel ist es, den studierenden einen vertieften einblick in die funktionen auf den geldmarkt zu geben und sie zu befahigen, einerseits zustande, entwicklungen und wirtschaftspolitische eingriffe auf diesen markten zu beurteilen und andererseits eigenstandig problemlosungen zu erarbeiten. in der vorlesungsbegleitenden ubung werden die vermittelten kenntnisse vertieft und von den studierenden auf praktische beispiele angewendet. 5 erworbene kompetenzen : fachliche kompetenzen : studierende erhalten einen vertieften einblick in die funktionsweise des geldmarkts. sie sind nach abschluss des moduls befahigt, zustande, entwicklungen und wirtschaftspolitische 26 eingriffe auf dem geldmarkt zu beurteilen. der stoff des moduls wird in einer vorlesung und einer begleitenden ubung vermittelt, die jeweils durch
+
+
+===== Answer =====
+
+Answer: Jedes Sommersemester
+Expected answer: Jedes Sommersemester -> Studiengang Bachelor VWL ab WS 2020/21
+
+Filter: {'source': {'$eq': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf'}}

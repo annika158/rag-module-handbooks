@@ -1,0 +1,194 @@
+Metadata in chunk - Question: Was für Module sind im Bereich Quantitative Methoden im Bachelor Wirtschaftsinformatik in der PO 2018? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2019-07-03_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Vertiefungsmodul Quantitative Methoden 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Vertiefungsmodul Quantitative Methoden 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2014-10-29_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Vertiefungsmodul Quantitative Methoden 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2017_02_07_bsc_bwl_modulbescheibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2016
+Effective From: WS 2017/18
+Module Title: Quantitative Wirtschaftsgeschichte 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2018-10-04_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Quantitative Wirtschaftsgeschichte 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Vertiefungsmodul Quantitative Methoden 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2014-10_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Quantitative Wirtschaftsgeschichte 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2018-10-04_bsc_bwl_modulbeschreibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2017
+Effective From: WS 2018/19
+Module Title: Quantitative Wirtschaftsgeschichte 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2016-07-06_msc_ec_modulhandbuch.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: WS 2016/17
+Module Title: Empirische Methoden 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2019-07-03_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Vertiefungsmodul Quantitative Methoden 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Vertiefungsmodul Quantitative Methoden ', 'source': 'module_handbooks_economics/2019-07-03_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Vertiefungsmodul Quantitative Methoden 
+
+: keine 14 anwesenheit : die anwesenheit wird dringend empfohlen, um den lernerfolg zu verbessern. 78 15 mobilitat / anerkennung : verwendbarkeit in anderen studiengangen keine englische ubersetzung der modulkomponenten aus teil 3 nr. 1 : advances in quantitative methods nr. 2 : seminar in quantitative methods nr. 3 : presentation skills 16 modulbeauftragte / r : prof. dr. heike trautmann einrichtung : fb 04 - wirtschaftswissenschaften 17 sonstiges : 79 vertiefungsmodul bwl
+---------- Chunk 1 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Vertiefungsmodul Quantitative Methoden ', 'source': 'module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Vertiefungsmodul Quantitative Methoden 
+
+##zogene teilnahmevoraussetzungen : keine 14 anwesenheit : die anwesenheit ist dringend empfohlen, um den lernerfolg zu verbessern. 15 mobilitat / anerkennung : verwendbarkeit in anderen studiengangen bachelor wi englische ubersetzung der modulkomponenten aus teil 3 nr. 1 : advances in quantitative methods nr. 2 : seminar in quantitative methods nr. 3 : presentation skills 16 modulbeauftragte / r : prof. dr. heike trautmann einrichtung : fb 04 - wirtschaftswissenschaften 17 sonstiges : vertiefungsmodul bwl
+---------- Chunk 2 ----------
+{'degree': 'Bachelor', 'effective_from': '14. Oktober 2010', 'examination_regulation': 'Prüfungsordnung 2010', 'module_title': 'Vertiefungsmodul Quantitative Methoden ', 'source': 'module_handbooks_economics/2014-10-29_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Vertiefungsmodul Quantitative Methoden 
+
+, zeitreihen, statistische software u. v. m. die inhaltlichen lernziele variieren demgemaß von der aktuellen thematik, in jedem fall sollen sich die studierenden aber mit den jeweiligen verwendeten mathe matisch - statistischen modellen und methoden / algorithmen vertraut machen. zum schluss sollen sie jeweils auch die inhaltliche anwendung in den wirtschaftswissenschaften verstanden haben. 5 erworbene kompetenzen : fachliche kompetenzen : zum abschluss des vertiefungsmoduls haben die studierenden vertiefte kenntnisse in dem jeweiligen themengebiet erworben. soft skills und schlusselqualifikationen : durch das seminar schulen die studierenden ihre prasentations - kompetenz. sie uben gleichzeitig die eigenstandige einarbeitung in ein komplexeres themengebiet der quantitativen methoden. 6 wahlmoglichkeiten innerhalb des moduls : keine 7 leistungsuberprufung : [ ] modulabschlussprufung ( map ) [ ] modulprufung ( mp ) [ x ] modulteilprufungen ( mtp ) 8 prufungsleistung /
+---------- Chunk 3 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2017/18', 'examination_regulation': 'Prüfungsordnung 2016', 'module_title': 'Quantitative Wirtschaftsgeschichte ', 'source': 'module_handbooks_economics/2017_02_07_bsc_bwl_modulbescheibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2016
+Effective From: WS 2017/18
+Module Title: Quantitative Wirtschaftsgeschichte 
+
+modultitel deutsch : quantitative wirtschaftsgeschichte modultitel englisch : quantitative economic history studiengang : bachelor betriebswirtschaftslehre po 2010 1 modulnummer : vwl 26 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status lp prasenz ( h + sws ) selbststudium ( h ) 1 seminar ausgewahlte themen der quantitativen wirtschaftsgeschichte pflicht 3 30 h ( 2 sws ) 150 4 modulinhalte : hintergrund und verhaltnis zu anderen modulen : die quantitative wirtschaftsgeschichte analysiert wirtschaftshistorische tatbestande unter verwendung wirtschaftswissenschaftlicher modelle und empirischer methoden. inhalte und lernziele : das seminar fuhrt die studierenden anhand von ausgewahlten themen in das forschungsfeld der quantitativen wirtschaftsgeschichte ein. der fokus liegt dabei auf der vermittlung der kenntnisse uber die wirtschaftswissenschaftliche theorie und die empirischen methoden, die zu eigen
+---------- Chunk 4 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Quantitative Wirtschaftsgeschichte ', 'source': 'module_handbooks_economics/2018-10-04_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Quantitative Wirtschaftsgeschichte 
+
+je nach themenschwerpunkt sind die lehrinhalte des moduls eng verknupft mit denen der module zur mikro -, makrookonomik und zu den empirischen methoden. lehrinhalte des moduls : das seminar fuhrt die studierenden anhand von ausgewahlten themen in das forschungsfeld der quantitativen wirtschaftsgeschichte ein. der fokus liegt dabei auf der erlangung von kenntnissen uber die wirtschaftswissenschaftliche theorie und die empirischen methoden, die zu eigenstandigen forschungsleistungen im gebiet der quantitativen wirtschaftsgeschichte befahigen. die studierenden lernen, ein fur die forschung der quantitativen wirtschaftsgeschichte relevantes wirtschaftswissenschaftliches modell wie etwa das solow - swan - modell zu durchdenken und anhand von wirtschaftshistorischen daten und unter zuhilfenahme empirischer methoden zu uberprufen. 5 lernergebnisse des moduls : fachliche kompetenzen : die studierenden konnen ausgewahlte englischsprachige fachliteratur der quantitativen wirtschaftsgeschichte verstehen und im rahmen einer computergestutzten prasentation pointiert wiederge
+---------- Chunk 5 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Vertiefungsmodul Quantitative Methoden ', 'source': 'module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Vertiefungsmodul Quantitative Methoden 
+
+. v. m. die inhaltlichen lernziele variieren demgemaß von der aktuellen thematik, in jedem fall sollen sich die studierenden aber mit den jeweiligen verwendeten mathematisch - statistischen modellen und methoden / algorithmen vertraut machen. zum schluss sollen sie jeweils auch die inhaltliche anwendung in den wirtschaftswissenschaften verstanden haben. 5 lernergebnisse des moduls : fachliche kompetenzen : zum abschluss des vertiefungsmoduls haben die studierenden vertiefte kenntnisse in dem jeweiligen themengebiet erworben. schlusselqualifikationen : durch das seminar schulen die studierenden ihre prasentations - kompetenz. sie uben gleichzeitig die eigenstandige einarbeitung in ein komplexeres themengebiet der quantitativen methoden. 6 beschreibung von wahlmoglichkeiten innerhalb des moduls : keine 7 leistungsuberprufung : modulteilprufungen ( mtp ) 8 prufungsleistungen : nr. anzahl und art ; anbindung an lehrveranstaltung dauer gewichtung fur die modulnote in % 1 klausur ( nr. 1
+---------- Chunk 6 ----------
+{'degree': 'Bachelor', 'effective_from': '14. Oktober 2010', 'examination_regulation': 'Prüfungsordnung 2010', 'module_title': 'Quantitative Wirtschaftsgeschichte ', 'source': 'module_handbooks_economics/2014-10_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Quantitative Wirtschaftsgeschichte 
+
+##nis zu anderen modulen : die quantitative wirtschaftsgeschichte analysiert wirtschaftshistorische tatbestande unter verwendung wirtschaftswissenschaftlicher modelle und empirischer methoden. inhalt und lernziele : das modul fuhrt die studierenden anhand von ausgewahlten themen in das forschungsfeld der quantitativen wirtschaftsgeschichte ein. in der vorlesung wird ein breites themengebiet der quantitativen wirtschaftsgeschichte wie etwa die entwicklung der deutschen wirtschaft seit 1850 behandelt. es werden die relevanten historischen tatbestande nachgezeichnet und die diesbezuglichen forschungsdiskurse prasentiert. dabei wird immer wieder auf die wirtschaftswissenschaftliche theorie rekurriert. der fokus des seminars liegt auf der vermittlung der kenntnisse uber die wirtschaftswissenschaftliche theorie und die empirischen methoden, die zu eigenstandigen forschungsleistungen im gebiet der quantitativen wirtschaftsgeschichte befahigen. die studierenden werden dazu angehalten, ein fur die forschung der quantitativen wirtschaftsgeschichte relevantes wirtschaftswissenschaftliches model
+---------- Chunk 7 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2017', 'module_title': 'Quantitative Wirtschaftsgeschichte ', 'source': 'module_handbooks_economics/2018-10-04_bsc_bwl_modulbeschreibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2017
+Effective From: WS 2018/19
+Module Title: Quantitative Wirtschaftsgeschichte 
+
+bei. je nach themenschwerpunkt sind die lehrinhalte des moduls eng verknupft mit denen der module zur mikro -, makrookonomik und zu den empirischen methoden. lehrinhalte des moduls : das seminar fuhrt die studierenden anhand von ausgewahlten themen in das forschungsfeld der quantitativen wirtschaftsgeschichte ein. der fokus liegt dabei auf der erlangung von kenntnissen uber die wirtschaftswissenschaftliche theorie und die empirischen methoden, die zu eigenstandigen forschungsleistungen im gebiet der quantitativen wirtschaftsgeschichte befahigen. die studierenden lernen, ein fur die forschung der quantitativen wirtschaftsgeschichte relevantes wirtschaftswissenschaftliches modell wie etwa das solow - swan - modell zu durchdenken und anhand von wirtschaftshistorischen daten und unter zuhilfenahme empirischer methoden zu uberprufen. 5 lernergebnisse des moduls : fachliche kompetenzen : die studierenden konnen ausgewahlte englischsprachige fachliteratur der quantitativen wirtschaftsgeschichte verstehen und im rahmen einer computergestutzten prasentation pointiert
+---------- Chunk 8 ----------
+{'degree': 'Master', 'effective_from': 'WS 2016/17', 'examination_regulation': 'unknown', 'module_title': 'Empirische Methoden ', 'source': 'module_handbooks_economics/2016-07-06_msc_ec_modulhandbuch.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: WS 2016/17
+Module Title: Empirische Methoden 
+
+modultitel deutsch : empirische methoden modultitel englisch : empirical methods studiengang : master volkswirtschaftslehre po 2012 1 modulnummer : vwl mp3 status : pflicht unterrichtssprache : englisch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 1 oder 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung lp prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung empirical methods 3 30 h ( 2 sws ) 60 2 ubung tutorial on empirical methods 3 30 h ( 2 sws ) 60 4 modulinhalte : hintergrund und verhaltnis zu anderen modulen : vertiefung von empirischen methoden, die bereits im bachelorstudium behandelt wurden ; inhalte und lernziele : themen : multiple lineare regression ( schatzen und testen ) sowie weitere okonometrische methoden und modelle. die studenten lernen die okonometrischen techniken zu verstehen und anzuwenden. die studentinnen lernen die okonometrischen techniken zu verstehen und anzuwenden. themen lernziele multiple lineare regression ; hypothesen tests und zufallsfehlerbereich ; nonlineare regression ; paneldaten - modelle ; bin
+---------- Chunk 9 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Vertiefungsmodul Quantitative Methoden ', 'source': 'module_handbooks_economics/2019-07-03_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Vertiefungsmodul Quantitative Methoden 
+
+variieren demgemaß von der aktuellen thematik, in jedem fall sollen sich die studierenden aber mit den jeweiligen verwendeten mathematisch - statistischen modellen und methoden / algorithmen vertraut machen. zum schluss sollen sie jeweils auch die inhaltliche anwendung in den wirtschaftswissenschaften verstanden haben. 77 5 lernergebnisse des moduls : fachliche kompetenzen : zum abschluss des vertiefungsmoduls haben die studierenden vertiefte kenntnisse in dem jeweiligen themengebiet erworben. schlusselqualifikationen : durch das seminar schulen die studierenden ihre prasentations - kompetenz. sie uben gleichzeitig die eigenstandige einarbeitung in ein komplexeres themengebiet der quantitativen methoden. 6 beschreibung von wahlmoglichkeiten innerhalb des moduls : keine 7 leistungsuberprufung : modulteilprufungen ( mtp ) 8 prufungsleistungen : nr. anzahl und art ; anbindung an lehrveranstaltung dauer gewichtung fur die modulnote in % 1 klausur ( nr. 1 ) 60 min. 33. 3 % 2 prasentation und verteidigung. schri
+
+
+===== Answer =====
+
+Answer: Laut meiner Informationen gibt es im Bachelor Wirtschaftsinformatik in der Prüfungsordnung 2018 ein Modul namens "Vertiefungsmodul Quantitative Methoden".
+Expected answer: Wirtschaftsmathematik, Operations Research, Daten und Wahrscheinlichkeiten, Datenanalyse und Simulation

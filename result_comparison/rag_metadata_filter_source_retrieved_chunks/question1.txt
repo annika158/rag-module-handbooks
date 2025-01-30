@@ -1,0 +1,142 @@
+Metadata filter (only source): 
+
+Filter:
+ {'source': {'$eq': 'module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf'}}
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Einführung in die Betriebswirtschaftslehre, Investition und 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Einführung in die Wirtschaftsinformatik 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Bachelorarbeit  
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Ausgewählte Kapitel der Betriebswirtschaftslehre 1 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Ausgewählte Kapitel der Betriebswirtschaftslehre 2 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: General Information or Unknown Module
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Einführung in die Volkswirtschaftslehre 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Bilanzen und Steuern 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: General Information or Unknown Module
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Seminar Wirtschaftsinformatik 1 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Einführung in die Betriebswirtschaftslehre, Investition und ', 'source': 'module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : einfuhrung in die betriebswirtschaftslehre, investition und finanzierung modultitel englisch : introduction to business administration, fundamentals of finance studiengang : bachelor wirtschaftsinformatik 1 modulnummer : bwl1 status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 lp : 9 workload ( h ) : 270 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung einfuhrung in die betriebswirtschaftslehre pflicht 15 h ( 1 sws ) 60 2 ubung tutorium einfuhrung in die betriebswirtschaftslehre pflicht 15 h ( 1 sws ) 30 3 vorlesung finanzierung pflicht 15 h ( 1 sws ) 30 4 vorlesung investition pflicht 15 h ( 1 sws ) 30 6 ubung tutorium zu investition und finanzierung pflicht 30 h ( 2 sws ) 30 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul besteht aus zwei teilen, namlich einer einfuhrung in die betriebswirtschaftslehre und dem teil finanzierung und investition. es bildet die grundlage fur die weiteren betriebs - und volkswirtschaftlichen module. im be
+---------- Chunk 1 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Einführung in die Wirtschaftsinformatik ', 'source': 'module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : einfuhrung in die wirtschaftsinformatik modultitel englisch : introduction to information systems studiengang : bachelor wirtschaftsinformatik 1 modulnummer : wi1 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes wintersemester dauer : 2 semester fachsemester : 1 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung einfuhrung in die wirtschaftsinformatik pflicht 30 h ( 2 sws ) 60 2 vorlesung wissenschaftliches arbeiten pflicht 15 h ( 1 sws ) 30 3 vorlesung ethik in der wirtschaftsinformatik pflicht 15 h ( 1 sws ) 30 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul dient der einfuhrung in die wirtschaftsinformatik als interdisziplinare wissenschaftliche disziplin und bildet die grundlage aller weiteren module innerhalb des bachelorstudiums. lehrinhalte des moduls : im ersten teil des moduls wird eine ringvorlesung durchgefuhrt, in der die fachvertreter des instituts fur wirtschaftsinformatik ihre spezifischen sichtweisen auf informationssysteme sowie die verwendeten methoden darlegen und
+---------- Chunk 2 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Bachelorarbeit  ', 'source': 'module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : bachelorarbeit modultitel englisch : bachelor thesis studiengang : bachelor wirtschaftsinformatik 1 modulnummer : ba status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 6 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 bachelorarbeit pflicht 0 h ( 0 sws ) 360 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : in die bachelorarbeit fließen die inhalte aus den vorangegangenen modulen ein. lehrinhalte des moduls : die bachelorarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu bearbeiten und die ergebnisse sachgerecht darzustellen. sie soll einen umfang von etwa 40 seiten haben. thema lernziele bachelorarbeit eigenstandige einarbeitung in ein komplexes thema und die zugehorige literatur. erstellen einer wissenschaftlichen arbeit. abhangig vom thema werden hierbei ethische aspekte berucksichtigt. 5 erworbene kompetenzen : fachliche
+---------- Chunk 3 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Ausgewählte Kapitel der Betriebswirtschaftslehre 1 ', 'source': 'module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : ausgewahlte kapitel der betriebswirtschaftslehre 1 modultitel englisch : special topics in business 1 studiengang : bachelor wirtschaftsinformatik 1 modulnummer : bwl 14 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : unregelmaßig dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung ausgewahlte kapitel der betriebswirtschaftslehre pflicht 30 h ( 2 sws ) 60 2 ubung ubung zu ausgewahlte kapitel der betriebswirtschaftslehre pflicht 30 h ( 2 sws ) 60 4 profil des moduls zielsetzung des moduls / einbindung in das curriculum : das modul erganzt und vertieft die kernveranstaltungen in der betriebswirtschaftslehre, u. a. mit aktuellen themen. lehrinhalte des moduls : in diesem modul werden aktuelle fragestellungen aus dem bereich der betriebswirtschaftslehre vorgestellt. die veranstaltungen haben abhangig von den aktuellen entwicklungen wechselnde inhalte und werden von verschiedenen dozierenden durchgefuhrt. in die
+---------- Chunk 4 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Ausgewählte Kapitel der Betriebswirtschaftslehre 2 ', 'source': 'module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : ausgewahlte kapitel der betriebswirtschaftslehre 2 modultitel englisch : special topics in business administration 2 studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : bwl 17 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : unregelmaßig dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung ausgewahlte kapitel der betriebswirtschaftslehre pflicht 30 h ( 2 sws ) 60 2 ubung ubung zu ausgewahlte kapitel der betriebswirtschaftslehre pflicht 30 h ( 2 sws ) 60 4 profil des moduls zielsetzung des moduls / einbindung in das curriculum : das modul erganzt und vertieft die kernveranstaltungen in der betriebswirtschaftslehre, u. a. mit aktuellen themen. lehrinhalte des moduls : in diesem modul werden aktuelle fragestellungen aus dem bereich der betriebswirtschaftslehre vorgestellt. die veranstaltungen haben abhangig von den aktuellen entwicklungen wechselnde inhalte und werden von verschiedenen dozierenden durchgefuhrt.
+---------- Chunk 5 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'General Information or Unknown Module', 'source': 'module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modulbeschreibungen zur ordnung fur die prufungen im studiengang wirtschaftsinformatik der westfalischen wilhelms - universitat munster mit dem abschluss bachelor of science fur studierende ab wintersemester 2022 / 23 in der po 2022 2 inhalt inhalt......................................................................................................................................................... 2 studienverlaufsplan.................................................................................................................................. 4 einfuhrung in die wirtschaftsinformatik...
+---------- Chunk 6 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Einführung in die Volkswirtschaftslehre ', 'source': 'module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : einfuhrung in die volkswirtschaftslehre modultitel englisch : introduction to economics for is studiengang : bachelor wirtschaftsinformatik 1 modulnummer : vwl1 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 5 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung einfuhrung vwl fur wirtschaftsinformatiker pflicht 30 h ( 2 sws ) 60 2 ubung ubung zu einfuhrung vwl fur wirtschaftsinformatiker pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : fur erfolgreiches unternehmerisches handeln auf komplexer gewordenen markten, nicht zuletzt in der digital vernetzten okonomie, gewinnt ein grundlegendes analytisches verstandnis der funktionsbedingungen von markten und ihrer normativen grundlagen in einer modernen demokratie zunehmende bedeutung. das modul fuhrt daher in problemstellungen und methoden der volkswirtschaftslehre ein, die fur die wirtschaftsinformatik von bedeutung sind. dazu gehoren neben den normativen grundlagen der
+---------- Chunk 7 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Bilanzen und Steuern ', 'source': 'module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : bilanzen und steuern modultitel englisch : financial accounting and taxation studiengang : bachelor wirtschaftsinformatik 1 modulnummer : bwl 8 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung bilanzen pflicht 22, 5h ( 1. 5 sws ) 45 2 vorlesung grundzuge der unternehmensbesteuerung pflicht 22, 5 h ( 1. 5 sws ) 45 3 ubung ubung zu bilanzen pflicht 7. 5 h ( 0. 5 sws ) 15 4 ubung ubung zu grundzuge der unternehmensbesteuerung pflicht 7. 5 h ( 0. 5 sws ) 15 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : die lehrveranstaltung bilanzen erweitert und vertieft die im rahmen der pflichtveranstaltung „ grundlagen des rechnungswesens “ vermittelten lehrinhalte im bereich des externen rechnungswesens. die veranstaltung " grundzuge der unternehmensbesteuerung " gibt einen ersten ein
+---------- Chunk 8 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'General Information or Unknown Module', 'source': 'module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+............................................................................... 117 bachelorarbeit....................................................................................................................................... 120 4 studienverlaufsplan 5 einfuhrung in die wirtschaftsinformatik
+---------- Chunk 9 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Seminar Wirtschaftsinformatik 1 ', 'source': 'module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : seminar wirtschaftsinformatik 1 modultitel englisch : seminar is 1 studiengang : bachelor wirtschaftsinformatik 1 modulnummer : sem1 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 4 oder 5 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar pflicht 30 h ( 2 sws ) 120 2 seminar prasentationstechnik pflicht 15 h ( 1 sws ) 15 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : es werden vertiefende kenntnisse in einem bereich der wirtschaftsinformatik, informatik oder quantitativen methoden vermittelt. die studierenden konnen aus einem angebot an aktuellen themen wahlen, in welchem bereich sie sich vertiefen wollen. kenntnisse aus den pflichtmodulen werden hierbei vorausgesetzt. die vertiefung kann im rahmen der bachelorarbeit fortgesetzt werden. lehrinhalte des moduls : das modul ermoglicht den studierenden, ihre kenntnisse aus den pflichtmodulen zu vertiefen. neben dem inhaltlichen aspekt lernen die stud
+
+
+===== Answer =====
+
+Question: Was sind Module im 1. Semester Bachelor Wirtschaftsinformatik in der PO 2022?
+Answer: Laut meiner Informationen sind im 1. Semester des Bachelorstudiums Wirtschaftsinformatik in der PO 2022 die folgenden Module vorgesehen:
+
+1. Einführung in die Betriebswirtschaftslehre, Investition und Finanzierung (BWL1)
+2. Einführung in die Wirtschaftsinformatik (WI1)
+
+Diese Module sind Pflichtmodule und werden jedes Wintersemester angeboten.
+Expected answer: Einführung in die Wirtschaftsinformatik, Programmierung, Wirtschaftsmathematik, Einführung in die BWL, Investition und Finanzierung

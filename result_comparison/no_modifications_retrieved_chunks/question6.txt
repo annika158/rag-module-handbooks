@@ -1,0 +1,134 @@
+No modifications - Question: In welchem Semester findet die Vorlesung 'Grundlagen der Regulierung' statt? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2014-10-29_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2018-10-04_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2020-01-22_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: Sommersemester 2020
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2019-07-03_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2019-07-03_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Grundlagen des Rechnungswesens 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2024-01-23_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+modultitel deutsch : grundlagen des rechnungswesens modultitel englisch : foundations of accounting studiengang : bachelor volkswirtschaftslehre 1 modulnummer : wpb 11 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 4 oder 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung rechnungswesens pflicht 45 h ( 3 sws ) 75 2 ubung ubung zum rechnungswesen pflicht 15 h ( 1 sws ) 45 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul „ grundlagen des rechnungswesens “ vermittelt grundkenntnisse des externen und internen rechnungswesens und zeigt zusammenhange zwischen beiden teilgebieten auf. es verdeutlicht, wie die geschaftstatigkeit von unternehmen im rechnungswesen abgebildet wird, wie unternehmen mit den zahlen des rechnungswesens ihr geschaft steuern und wie sie uber ihre geschaftstatigkeit mit hilfe des jahresabschlusses berichten. damit werden kenntnisse vermittelt,
+---------- Chunk 1 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : grundlagen des rechnungswesens modultitel englisch : foundations of accounting studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : bwl 2 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 1 oder 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung rechnungswesens pflicht 45 h ( 3 sws ) 75 2 ubung ubung zum rechnungswesen pflicht 15 h ( 1 sws ) 45 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul „ grundlagen des rechnungswesens “ vermittelt grundkenntnisse des externen und internen rechnungswesens und zeigt zusammenhange zwischen beiden teilgebieten auf. es verdeutlicht, wie die geschaftstatigkeit von unternehmen im rechnungswesen abgebildet wird, wie unternehmen mit den zahlen des rechnungswesens ihr geschaft steuern und wie sie uber ihre geschaftstatigkeit mit hilfe des jahresabschlusses berichten. damit werden kenntnisse vermittelt, die nicht
+---------- Chunk 2 ----------
+{'degree': 'Bachelor', 'effective_from': '14. Oktober 2010', 'examination_regulation': 'Prüfungsordnung 2010', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2014-10-29_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+##ig verwendeten ( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entscheidungsfindung und kontrolle darstellen. damit erlernen die studierenden, wie quantitative informationen erhoben werden, die haufig als gegeben angenommen werden. in der zweiten halfte des semesters steht die finanzielle rechnungslegung in deutschland im mittelpunkt. damit bildet das modul die grundlage fur weitere kurse in bezug auf fragestellungen der rechnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. es gibt keine voraussetzungen fur diesen kurs. inhalt und lernziele : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die doppelte buchfuhrung. ausgehend von den rechtlichen grundlagen werden aufbau und durchfuhrung der finan zbuchfuhrung am beispiel eines industriebetriebs vorgestellt. im fokus der veranstaltung „ grundlagen des betriebs
+---------- Chunk 3 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : grundlagen des rechnungswesens modultitel englisch : foundations of accounting studiengang : bachelor wirtschaftsinformatik 1 modulnummer : bwl2 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung rechnungswesens pflicht 45 h ( 3 sws ) 75 2 ubung ubung zum rechnungswesen pflicht 15 h ( 1 sws ) 45 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul „ grundlagen des rechnungswesens “ vermittelt grundkenntnisse des externen und internen rechnungswesens und zeigt zusammenhange zwischen beiden teilgebieten auf. es verdeutlicht, wie die geschaftstatigkeit von unternehmen im rechnungswesen abgebildet wird, wie unternehmen mit den zahlen des rechnungswesens ihr geschaft steuern und wie sie uber ihre geschaftstatigkeit mit hilfe des jahresabschlusses berichten. damit werden kenntnisse vermittelt, die nicht nur fur die
+---------- Chunk 4 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2018-10-04_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+##deten ( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entscheidungsfindung und kontrolle darstellen. damit erlernen die studierenden, wie quantitative informationen erhoben werden, die haufig als gegeben angenommen werden. in der zweiten halfte des semesters steht die finanzielle rechnungslegung in deutschland im mittelpunkt. damit bildet das modul die grundlage fur weitere kurse in bezug auf fragestellungen der rechnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. lehrinhalte des moduls : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die doppelte buchfuhrung. ausgehend von den rechtlichen grundlagen werden aufbau und durchfuhrung der finanzbuchfuhrung am beispiel eines industriebetriebs vorgestellt. im fokus der veranstaltung „ grundlagen des betriebswirtschaftlichen rechnungswesens “ steht die vermittlung
+---------- Chunk 5 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+##deten ( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entscheidungsfindung und kontrolle darstellen. damit erlernen die studierenden, wie quantitative informationen erhoben werden, die haufig als gegeben angenommen werden. in der zweiten halfte des semesters steht die finanzielle rechnungslegung in deutschland im mittelpunkt. damit bildet das modul die grundlage fur weitere kurse in bezug auf fragestellungen der rechnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. lehrinhalte des moduls : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die doppelte buchfuhrung. ausgehend von den rechtlichen grundlagen werden aufbau und durchfuhrung der finanzbuchfuhrung am beispiel eines industriebetriebs vorgestellt. im fokus der veranstaltung „ grundlagen des betriebswirtschaftlichen rechnungswesens “ steht die vermittlung
+---------- Chunk 6 ----------
+{'degree': 'Bachelor', 'effective_from': 'Sommersemester 2020', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2020-01-22_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+##deten ( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entscheidungsfindung und kontrolle darstellen. damit erlernen die studierenden, wie quantitative informationen erhoben werden, die haufig als gegeben angenommen werden. in der zweiten halfte des semesters steht die finanzielle rechnungslegung in deutschland im mittelpunkt. damit bildet das modul die grundlage fur weitere kurse in bezug auf fragestellungen der rechnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. lehrinhalte des moduls : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die doppelte buchfuhrung. ausgehend von den rechtlichen grundlagen werden aufbau und durchfuhrung der finanzbuchfuhrung am beispiel eines industriebetriebs vorgestellt. im fokus der veranstaltung „ grundlagen des betriebswirtschaftlichen rechnungswesens “ steht die vermittlung
+---------- Chunk 7 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2019-07-03_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+##deten ( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entscheidungsfindung und kontrolle darstellen. damit erlernen die studierenden, wie quantitative informationen erhoben werden, die haufig als gegeben angenommen werden. in der zweiten halfte des semesters steht die finanzielle rechnungslegung in deutschland im mittelpunkt. damit bildet das modul die grundlage fur weitere kurse in bezug auf fragestellungen der rechnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. lehrinhalte des moduls : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die doppelte buchfuhrung. ausgehend von den rechtlichen grundlagen werden aufbau und durchfuhrung der finanzbuchfuhrung am beispiel eines industriebetriebs vorgestellt. im fokus der veranstaltung „ grundlagen des betriebswirtschaftlichen rechnungswesens “ steht die vermittlung
+---------- Chunk 8 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entscheidungsfindung und kontrolle darstellen. damit erlernen die studierend en, wie quantitative informationen erhoben werden, die haufig als gegeben angenommen werden. in der zweiten halfte des semesters steht die finanzielle rechnungslegung in deutschland im mittelpunkt. damit bildet das modul die grundlage fur weitere kurse in bezug auf fragestellungen der rechnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. lehrinhalte des moduls : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die doppelte buchfuhrung. ausgehend von den rechtlichen grundlagen werden aufbau und durchfuhrung der finanzbuchf uhrung am beispiel eines industriebetriebs vorgestellt. im fokus der veranstaltung „ grundlagen des betriebswirtschaftlichen rechnungswesens “ steht die vermittlung
+---------- Chunk 9 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2019-07-03_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entscheidungsfindung und kontrolle darstellen. damit erlernen die studierenden, wie quantitative informationen erhoben werden, die haufig als gegeben angenommen werden. in der zweiten halfte des semesters steht die finanzielle rechnungslegung in deutschland im mittelpunkt. damit bildet das modul die grundlage fur weitere kurse in bezug auf fragestellungen der rechnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. lehrinhalte des moduls : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die doppelte buchfuhrung. ausgehend von den rechtlichen grundlagen werden aufbau und durchfuhrung der finanzbuchfuhrung am beispiel eines industriebetriebs vorgestellt. im fokus der veranstaltung „ grundlagen des betriebswirtschaftlichen rechnungswesens “ steht die vermittlung der z
+
+
+===== Answer =====
+
+Answer: Jedes Sommersemester
+Expected answer: Jedes Sommersemester -> Studiengang Bachelor VWL ab WS 2020/21

@@ -1,0 +1,138 @@
+Metadata filter (only source): 
+
+Filter:
+ {'source': {'$eq': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf'}}
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2020/21
+Module Title: Wirtschaftspolitik 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2020/21
+Module Title: Regulierungsökonomik 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2020/21
+Module Title: Masterarbeit  
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2020/21
+Module Title: Industrieökonomik 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2020/21
+Module Title: Umweltökonomik 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2020/21
+Module Title: Projektstudium 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2020/21
+Module Title: Aktuelle Fragen der Volkswirtschaftslehre 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2020/21
+Module Title: Forschungspraktikum 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2020/21
+Module Title: Ausgewählte Themen der Volkswirtschaftslehre 3 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre/Economics
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2020/21
+Module Title: Ausgewählte Themen der Volkswirtschaftslehre 4 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Wirtschaftspolitik ', 'source': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+modultitel deutsch : wirtschaftspolitik modultitel englisch : economic policy studiengang : master volkswirtschaftslehre 1 modulnummer : vwl mwp1 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 oder 2 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung wirtschaftspolitik pflicht 45 h ( 3 sws ) 75 2 ubung ubung wirtschaftspolitik pflicht 15 h ( 1 sws ) 45 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul " wirtschaftspolitik " baut auf den im bachelormodul " angewandte wirtschaftsforschung : wirtschaftspolitik und regulierung " gewonnenen erkenntnissen auf. außerdem bildet die thematik der staatlichen eingriffe in den markt eine schnittmenge mit dem modul " regulierungsokonomik ". lehrinhalte des moduls : im modul " wirtschaftspolitik " lernen die studierenden, wirtschaftspolitische entscheidungen, wie sie in einer demokratie getroffen werden, zu analysieren und mit b
+---------- Chunk 1 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Regulierungsökonomik ', 'source': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+modultitel deutsch : regulierungsokonomik modultitel englisch : regulatory economics studiengang : master volkswirtschaftslehre 1 modulnummer : vwl mp4 status : pflicht unterrichtssprache : englisch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 1 oder 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung regulierungsokonomik pflicht 30 h ( 2 sws ) 90 2 ubung ubung / fallstudien / diskussion aktueller entwicklungen pflicht 15 h ( 1 sws ) 45 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul " regulierungsokonomik " baut auf dem bachelormodul " angewandte wirtschaftsforschung : wirtschaftspolitik und regulierung " auf. die weiteren module der mikrookonomik bilden das theoretische fundament. das modul " volkswirtschaftspolitik " ist uber die thematik der staatlichen eingriffe in den markt eng mit der regulierungsokonomik verwandt. uber die regulierung von netzsektoren, die ein kernthema der vorlesung darstellt, gibt es verbindungen zu den modulen der en
+---------- Chunk 2 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Masterarbeit  ', 'source': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+modultitel deutsch : masterarbeit modultitel englisch : master ' s thesis studiengang : master volkswirtschaftslehre 1 modulnummer : vwl mp6 status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 4 lp : 24 workload ( h ) : 720 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 masterarbeit pflicht 0 h ( 0 sws ) 720 4 profil des moduls : lehrinhalte des moduls : die masterarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu bearbeiten und die ergebnisse auf wissenschaftlichem anspruchsniveau darzustellen bzw. zu dokumentieren. im falle eines projektberichtes ist die wissenschaftliche konzipierung, beschreibung und auswertung des projektes und nicht der projekterfolg maßgeblich. es sind die regelungen in § 11 po zu beachten. 5 lernergebnisse des moduls : fachliche kompetenzen : die studierenden gewinnen erfahrung in der wissenschaftlichen umsetzung der gelernten inhalte. weiterhin lernen sie
+---------- Chunk 3 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Industrieökonomik ', 'source': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+modultitel deutsch : industrieokonomik modultitel englisch : industrial organization studiengang : master volkswirtschaftslehre 1 modulnummer : vwl mwp11 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 oder 2 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung industrieokonomik pflicht 45 h ( 3 sws ) 105 2 ubung ubung industrieokonomik pflicht 15 h ( 1 sws ) 15 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : im modul „ industrieokonomik “ werden verschiedene volkswirtschaftliche ansatze zur erklarung der ergebnisse wirtschaftlichen handelns von unternehmen auf unvollkom - menen markten behandelt. das modul bietet anknupfungspunkte zu verschiedenen mo - dulen. zum einen erweitert und vertieft es die inhalte der bachelormodule der mikrookonomik, insbesondere der veranstaltung „ markt - und preistheorie “. zum ande - ren knupft es im master an das pflichtmodul " regulierungsokonomik " an und er
+---------- Chunk 4 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Umweltökonomik ', 'source': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+modultitel deutsch : umweltokonomik modultitel englisch : environmental economics studiengang : master volkswirtschaftslehre 1 modulnummer : vwl mwp8 status : wahlpflicht unterrichtssprache : englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 oder 2 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung umweltokonomik pflicht 30 h ( 2 sws ) 90 2 ubung ubung zu umweltokonomik pflicht 15 h ( 1 sws ) 45 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul baut auf grundlagenveranstaltungen des bachelorstudiums auf und vertieft die dort erworbenen kenntnisse. das modul erganzt das mastermodul „ klimaokonomik “ und das mastermodul „ fortgeschrittene energie - und ressourcenokonomik “. masterstudierenden, die bisher keine grundlagenveranstaltung zur umweltokonomik absolviert haben, werden die wahlpflichtmodule „ ressourcenokonomik “, „ energieokonomik “ und „ grundlagen der umwelt - und klimaokonomik “ aus dem bachelorber
+---------- Chunk 5 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Projektstudium ', 'source': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+modultitel deutsch : projektstudium modultitel englisch : project studies studiengang : master volkswirtschaftslehre 1 modulnummer : vwl mp5 status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 4 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar / ubung projektstudium pflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : im projektstudium kann das thema fur eine wissenschaftliche arbeit selbststandig gewahlt werden und so auf bereits absolvierte veranstaltungen aufgebaut werden. insbesondere methodische kompetenzen aus dem verfassen wissenschaftlicher arbeiten und dem forschungspraktikum sollen hier angewendet werden. es baut damit auf allen modulen mit wirtschafts - und regulierungspolitischen inhalten oder inhalten zur unternehmenskooperation auf. das modul leistet die vorarbeit fur die masterarbeit. lehrinhalte des moduls : im rahmen des projektstudiums, das einen zugang zum wissenschaftlichen arbeiten ermoglichen sol
+---------- Chunk 6 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Aktuelle Fragen der Volkswirtschaftslehre ', 'source': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+modultitel deutsch : aktuelle fragen der volkswirtschaftslehre modultitel englisch : current issues in economics studiengang : master volkswirtschaftslehre 1 modulnummer : vwl mwp27 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 1 oder 2 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung / ubung ausgewahlte themen der volkswirtschaftslehre pflicht 60 h ( 4 sws ) 120 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : aufbauend auf grundlagenmodulen aus bachelor und master werden zu wechselnden themen der volkswirtschaftslehre veranstaltungen angeboten, die eine erganzende moglichkeit geben einen schwerpunkt zu legen. lehrinhalte des moduls : dieses modul bietet die moglichkeit, ausgewahlte okonomische theorien und problemstellungen zu behandeln, welche nicht zum standardlehrprogramm gehoren. dies konnen aktuelle wirtschaftspolitische oder wirtschaftstheoretische fragestellungen oder publikationen sein, ebenso wie themen anderer felder
+---------- Chunk 7 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Forschungspraktikum ', 'source': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+modultitel deutsch : forschungspraktikum modultitel englisch : practial courses in research studiengang : master volkswirtschaftslehre 1 modulnummer : vwl mwp20 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 1 oder 2 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar / ubung forschungspraktikum pflicht 45 h ( 3 sws ) 135 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das forschungspraktikum bietet uber den erwerb von methodischem wissen und querschnittsqualifikationen anknupfungspunkte fur viele andere module. insbesondere bereitet es die grundlage fur empirische wissenschaftliche arbeiten. lehrinhalte des moduls : im rahmen des forschungspraktikums soll ein zugang zum wissenschaftlichen empirischen arbeiten vermittelt werden. inhaltliche schwerpunkte sind das kennenlernen verschiedener quellen von ( umfrage ) daten, die zusammenstellung und aufbereitung von datensatzen und die einfuhrung in gangige statistikso
+---------- Chunk 8 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Ausgewählte Themen der Volkswirtschaftslehre 3 ', 'source': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+modultitel deutsch : ausgewahlte themen der volkswirtschaftslehre 3 modultitel englisch : selected issues in economics 3 studiengang : master volkswirtschaftslehre 1 modulnummer : vwl mwp25 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 1 oder 2 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung / ubung ausgewahlte themen der volkswirtschaftslehre pflicht 60 h ( 4 sws ) 120 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : aufbauend auf grundlagenmodulen aus bachelor und master werden zu wechselnden themen der volkswirtschaftslehre veranstaltungen angeboten, die eine erganzende moglichkeit geben einen schwerpunkt zu legen. lehrinhalte des moduls : dieses modul bietet die moglichkeit, ausgewahlte okonomische theorien und problemstellungen zu behandeln, welche nicht zum standardlehrprogramm gehoren. dies konnen aktuelle wirtschaftspolitische oder wirtschaftstheoretische fragestellungen oder publikationen sein, ebenso wie themen and
+---------- Chunk 9 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Ausgewählte Themen der Volkswirtschaftslehre 4 ', 'source': 'module_handbooks_economics/2020-04-27_msc_ec_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre/Economics'}
+modultitel deutsch : ausgewahlte themen der volkswirtschaftslehre 4 modultitel englisch : selected issues in economics 4 studiengang : master volkswirtschaftslehre 1 modulnummer : vwl mwp26 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 1 oder 2 oder 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung / ubung ausgewahlte themen der volkswirtschaftslehre pflicht 60 h ( 4 sws ) 120 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : aufbauend auf grundlagenmodulen aus bachelor und master werden zu wechselnden themen der volkswirtschaftslehre veranstaltungen angeboten, die eine erganzende moglichkeit geben einen schwerpunkt zu legen. lehrinhalte des moduls : dieses modul bietet die moglichkeit, ausgewahlte okonomische theorien und problemstellungen zu behandeln, welche nicht zum standardlehrprogramm gehoren. dies konnen aktuelle wirtschaftspolitische oder wirtschaftstheoretische fragestellungen oder publikationen sein, ebenso wie themen and
+
+
+===== Answer =====
+
+Question: Worum geht es in dem Modul 'Regulierungsökonomik' des Studiengangs Master VWL? Ich habe im WS 2020/21 angefangen.
+Answer: Das Modul "Regulierungsökonomik" im Studiengang Master VWL befasst sich mit der Analyse staatlicher Eingriffe in den Markt und der Regulierung von Netzsektoren. Es baut auf dem Bachelor-Modul "Angewandte Wirtschaftsforschung: Wirtschaftspolitik und Regulierung" auf und ergänzt das Modul "Volkswirtschaftspolitik".
+Expected answer: In diesem Modul wird die Ursachenanalyse für Marktversagen vertieft und das ökonomische Instrumentarium zu deren Korrektur und Regulierung untersucht, …

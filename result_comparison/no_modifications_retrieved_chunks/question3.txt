@@ -1,0 +1,134 @@
+No modifications - Question: Was für Pflichtmodule muss ich im Bereich VWL und Recht im Studiengang Bachelor BWL belegen? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Bilanzen und Steuern 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Bilanzen und Steuern 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2019-07-03_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Bachelorarbeit  
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Bachelorarbeit  
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2014-10_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Bachelorarbeit 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Bachelorarbeit  
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Bilanzen und Steuern 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Grundlagen des Rechnungswesens 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : grundlagen des rechnungswesens 12 modultitel englisch : foundations of accounting studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : bwl 2 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 1 oder 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung rechnungswesen pflicht 45 h ( 3 sws ) 75 2 ubung ubung zum rechnungswesen pflicht 15 h ( 1 sws ) 45 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul „ grundlagen des rechnungswesens “ vermittelt grundkenntnisse des externen und internen rechnungswesens und zeigt zusammenhange zwischen beiden teilgebieten auf. es verdeutlicht, wie die geschaftstatigkeit von unternehmen im rechnungswesen abgebildet wird, wie unternehmen mit den zahlen des rechnungswesens ihr geschaft steuern und wie sie uber ihre geschaftstatigkeit mit hilfe des jahresabschlusses berichten. damit werden kenntnisse vermittelt, die nic
+---------- Chunk 1 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : grundlagen des rechnungswesens modultitel englisch : foundations of accounting studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : bwl 2 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 1 oder 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung rechnungswesens pflicht 45 h ( 3 sws ) 75 2 ubung ubung zum rechnungswesen pflicht 15 h ( 1 sws ) 45 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul „ grundlagen des rechnungswesens “ vermittelt grundkenntnisse des externen und internen rechnungswesens und zeigt zusammenhange zwischen beiden teilgebieten auf. es verdeutlicht, wie die geschaftstatigkeit von unternehmen im rechnungswesen abgebildet wird, wie unternehmen mit den zahlen des rechnungswesens ihr geschaft steuern und wie sie uber ihre geschaftstatigkeit mit hilfe des jahresabschlusses berichten. damit werden kenntnisse vermittelt, die nicht
+---------- Chunk 2 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Bilanzen und Steuern ', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : bilanzen und steuern modultitel englisch : financial accounting and taxation studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : bwl 8 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 3 oder 4 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung bilanzen pflicht 22, 5h ( 1. 5 sws ) 45 2 vorlesung grundzuge der unternehmensbesteuerung pflicht 22, 5 h ( 1. 5 sws ) 45 3 ubung ubung zu bilanzen pflicht 7. 5 h ( 0. 5 sws ) 15 4 ubung ubung zu grundzuge der unternehmensbesteuerung pflicht 7. 5 h ( 0. 5 sws ) 15 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : die lehrveranstaltung bilanzen erweitert und vertieft die im rahmen der pflichtveranstaltung „ grundlagen des rechnungswesens “ vermittelten lehrinhalte im bereich des externen rechnungswesens. die veranstaltung " grundzuge der unternehmensbesteuerung " gibt einen ersten ein
+---------- Chunk 3 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Bilanzen und Steuern ', 'source': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : bilanzen und steuern modultitel englisch : financial accounting and taxation studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : bwl 8 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 3 oder 4 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung bilanzen pflicht 37. 5 h ( 1, 5 sws ) 45 2 vorlesung grundzuge der unternehmensbesteuerung pflicht 37. 5 h ( 1, 5 sws ) 45 3 ubung ubung zu bilanzen pflicht 7. 5 h ( 0 sws ) 15 4 ubung ubung zu grundzuge der unternehmensbesteuerung pflicht 7. 5 h ( 0 sws ) 15 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : die lehrveranstaltung „ bilanzen “ erweitert und vertieft die im rahmen der pflichtveranstaltung „ grundlagen des rechnungswesens “ ( bwl 2 ) vermittelten lehrinhalte im bereich des externen rechnungswesens. die veranstaltung „ grundzuge der unternehmensbesteuerung “ gibt einen
+---------- Chunk 4 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Bachelorarbeit  ', 'source': 'module_handbooks_economics/2019-07-03_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : bachelorarbeit modultitel englisch : bachelor thesis studiengang : bachelor wirtschaftsinformatik 1 modulnummer : ba status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 bachelorarbeit pflicht 0 h ( 0 sws ) 360 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : in die bachelorarbeit fließen die inhalte aus den vorangegangenen modulen ein. lehrinhalte des moduls : die bachelorarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu bearbeiten und die ergebnisse sachgerecht darzustellen. sie soll einen umfang von etwa 40 seiten haben. themen lernziele bachelorarbeit eigenstandige einarbeitung in ein komplexes thema und die zugehorige literatur. erstellen einer wissenschaftlichen arbeit. abhangig vom thema werden hierbei ethische aspekte berucksichtigt. 5 lernergebnisse des moduls : fach
+---------- Chunk 5 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Bachelorarbeit  ', 'source': 'module_handbooks_economics/2018-10-05_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : bachelorarbeit modultitel englisch : bachelor thesis studiengang : bachelor wirtschaftsinformatik 1 modulnummer : ba status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 bachelorarbeit pflicht 0 h ( 0 sws ) 360 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : in die bachelorarbeit fließen die inhalte aus den vorangegangenen modulen ein. lehrinhalte des moduls : die bachelorarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu be arbeiten und die ergebnisse sachgerecht darzustellen. sie soll einen umfang von etwa 40 seiten haben. themen lernziele bachelorarbeit eigenstandige einarbeitung in ein komplexes thema und die zugehorige literatur. erstellen einer wissenschaftlichen arbeit. abhangig vom thema werden hierbei ethische aspekte berucksichtigt. 5 lernergebnisse des moduls : fa
+---------- Chunk 6 ----------
+{'degree': 'Bachelor', 'effective_from': '14. Oktober 2010', 'examination_regulation': 'Prüfungsordnung 2010', 'module_title': 'Bachelorarbeit ', 'source': 'module_handbooks_economics/2014-10_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+modultitel deutsch : bachelorarbeit modultitel englisch : bachelor thesis studiengang : bachelorstudiengang volkswirtschaftslehre 1 modulnummer : ba status : [ x ] pflicht - modul [ ] wahlpflicht - modul sprache : deutsch 2 turnus : [ x ] jedes sem. [ ] jedes ws [ ] jedes ss dauer : [ x ] 1 sem. [ ] 2 sem. fachsem. : 6. lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ lehrveranstaltung status lp prasenz ( h + sws ) selbst - studium ( h ) 1. bachelorarbeit [ ] p [ ] wp 12 360 h 2. [ ] p [ ] wp 3. [ ] p [ ] wp 4. [ ] p [ ] wp 4 lehrinhalte : die bachelorarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu bearbeiten und die ergebnisse sachgerecht darzustellen. sie soll einen umfang von etwa 40 seiten haben. im falle eines prakti - kumberichtes sind die regelungen in § 11 po zu beachten. 5 erworbene kompetenzen : die studierenden gewinnen erfahrung in der wissenschaftlichen umsetzung der gelernten inhalte. weiterhin lernen si
+---------- Chunk 7 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Bachelorarbeit  ', 'source': 'module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : bachelorarbeit modultitel englisch : bachelor thesis studiengang : bachelor wirtschaftsinformatik 1 modulnummer : ba status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 6 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 bachelorarbeit pflicht 0 h ( 0 sws ) 360 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : in die bachelorarbeit fließen die inhalte aus den vorangegangenen modulen ein. lehrinhalte des moduls : die bachelorarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu bearbeiten und die ergebnisse sachgerecht darzustellen. sie soll einen umfang von etwa 40 seiten haben. thema lernziele bachelorarbeit eigenstandige einarbeitung in ein komplexes thema und die zugehorige literatur. erstellen einer wissenschaftlichen arbeit. abhangig vom thema werden hierbei ethische aspekte berucksichtigt. 5 erworbene kompetenzen : fachliche
+---------- Chunk 8 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Bilanzen und Steuern ', 'source': 'module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : bilanzen und steuern modultitel englisch : financial accounting and taxation studiengang : bachelor wirtschaftsinformatik 1 modulnummer : bwl 8 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung bilanzen pflicht 22, 5h ( 1. 5 sws ) 45 2 vorlesung grundzuge der unternehmensbesteuerung pflicht 22, 5 h ( 1. 5 sws ) 45 3 ubung ubung zu bilanzen pflicht 7. 5 h ( 0. 5 sws ) 15 4 ubung ubung zu grundzuge der unternehmensbesteuerung pflicht 7. 5 h ( 0. 5 sws ) 15 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : die lehrveranstaltung bilanzen erweitert und vertieft die im rahmen der pflichtveranstaltung „ grundlagen des rechnungswesens “ vermittelten lehrinhalte im bereich des externen rechnungswesens. die veranstaltung " grundzuge der unternehmensbesteuerung " gibt einen ersten ein
+---------- Chunk 9 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2024-01-11_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+modultitel deutsch : grundlagen des rechnungswesens modultitel englisch : foundations of accounting studiengang : bachelor wirtschaftsinformatik 1 modulnummer : bwl2 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 2 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung rechnungswesens pflicht 45 h ( 3 sws ) 75 2 ubung ubung zum rechnungswesen pflicht 15 h ( 1 sws ) 45 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul „ grundlagen des rechnungswesens “ vermittelt grundkenntnisse des externen und internen rechnungswesens und zeigt zusammenhange zwischen beiden teilgebieten auf. es verdeutlicht, wie die geschaftstatigkeit von unternehmen im rechnungswesen abgebildet wird, wie unternehmen mit den zahlen des rechnungswesens ihr geschaft steuern und wie sie uber ihre geschaftstatigkeit mit hilfe des jahresabschlusses berichten. damit werden kenntnisse vermittelt, die nicht nur fur die
+
+
+===== Answer =====
+
+Answer: Im Bereich VWL und Recht sind keine Pflichtmodule vorgesehen.
+Expected answer: Einführung in die VWL & Mikroökonomik, Grundlagen der Makroökonomik, Recht für Ökonomen

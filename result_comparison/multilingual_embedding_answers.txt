@@ -1,0 +1,92 @@
+rag_metadata_filter_source.py mit den Einstellungen:
+huggingface_model = "intfloat/multilingual-e5-small" 
+persist_directory = "vectorstore_multilingual"
+collection_name = "module_handbooks_economics_multilingual"
+================
+Was sind Module im 1. Semester Bachelor Wirtschaftsinformatik in der PO 2022? 
+
+Laut meiner Informationen sind im 1. Semester des Bachelor-Studiengangs Wirtschaftsinformatik in der PO 2022 folgende Module vorgesehen:
+
+1. Einführung in die Wirtschaftsinformatik (WI1)
+2. Mathematik für WI (QM1)
+
+Diese Module sind Pflichtmodule und bilden die Grundlage für das weitere Studium. 
+
+Expected answer: Einführung in die Wirtschaftsinformatik, Programmierung, Wirtschaftsmathematik, Einführung in die BWL, Investition und Finanzierung
+
+----------------------------------------------------------------------------------------------------
+
+Was für Module sind im Bereich Quantitative Methoden im Bachelor Wirtschaftsinformatik in der PO 2018? 
+
+Basierend auf meiner Information gibt es im Bereich Quantitative Methoden im Bachelor Wirtschaftsinformatik in der PO 2018 folgende Module:
+
+1. Vertiefungsmodul Quantitative Methoden (VM QM)
+2. Datenanalyse und Simulation (QM 4)
+
+Diese Module befassen sich mit quantitativen Fragestellungen, Datenanalyse, statistischen Methoden und Simulationsverfahren, die für die Wirtschaftsinformatik von Bedeutung sind. 
+
+Expected answer: Wirtschaftsmathematik, Operations Research, Daten und Wahrscheinlichkeiten, Datenanalyse und Simulation
+
+----------------------------------------------------------------------------------------------------
+
+Was für Pflichtmodule muss ich im Bereich VWL und Recht im Studiengang Bachelor BWL belegen? Ich habe im Wintersemester 2023/24 angefangen. 
+
+Laut meiner Informationen musst du im Bereich VWL und Recht die folgenden Pflichtmodule belegen:
+
+* Einführung in die VWL (3 LP)
+* Mikroökonomik (6 LP)
+* Grundlagen der Makroökonomik (6 LP)
+
+Diese Module sind im ersten und zweiten Semester vorgesehen, wenn du im Wintersemester 2023/24 angefangen hast. 
+
+Expected answer: Einführung in die VWL & Mikroökonomik, Grundlagen der Makroökonomik, Recht für Ökonomen
+
+----------------------------------------------------------------------------------------------------
+
+What are the prerequisites to write the master's thesis in Information Systems? I started in Wintersemester 2019/20. 
+
+According to my information, the prerequisites to write the master's thesis in Information Systems, as per the module description valid from Wintersemester 2019/20, are basic database knowledge. 
+
+Expected answer: 60 credit points
+
+----------------------------------------------------------------------------------------------------
+
+Worum geht es in dem Modul 'Regulierungsökonomik' des Studiengangs Master VWL? Ich habe im WS 2020/21 angefangen. 
+
+Das Modul "Regulierungsökonomik" baut auf dem Bachelor-Modul "Angewandte Wirtschaftsforschung: Wirtschaftspolitik und Regulierung" auf und behandelt die Themen der staatlichen Eingriffe in den Markt. Es gibt auch Verbindungen zu anderen Modulen wie "Volkswirtschaftspolitik" und "Netzsektoren". 
+
+Expected answer: In diesem Modul wird die Ursachenanalyse für Marktversagen vertieft und das ökonomische Instrumentarium zu deren Korrektur und Regulierung untersucht, …
+
+----------------------------------------------------------------------------------------------------
+
+In welchem Semester findet die Vorlesung 'Grundlagen der Regulierung' statt? Ich studiere VWL im Bachelor seit dem WS 2020/21. 
+
+Laut meinem Information findet die Vorlesung "Grundlagen der Regulierung" jedes Sommersemester statt. 
+
+Expected answer: Jedes Sommersemester -> Studiengang Bachelor VWL ab WS 2020/21
+
+----------------------------------------------------------------------------------------------------
+
+Welchen Umfang muss die Bachelorarbeit im Studiengang BWL mit der PO 2022 haben? 
+
+Die Bachelorarbeit soll einen Umfang von 7.000 Wörtern im Haupttext nicht überschreiten. 
+
+Expected answer: Nicht mehr als 7000 Wörter
+
+----------------------------------------------------------------------------------------------------
+
+Wie setzt sich die Note aus dem Modul 'Performance Management & Strategy Execution' des Masters BWL ab WiSe 2023/24 zusammen? 
+
+Die Note setzt sich aus der Teilnahme/Präsenz (1 LP) und der Prüfungsleistung (3 LP) zusammen, wobei die Prüfungsleistung 50% und die Teilnahme/Präsenz 16,67% der Gesamtnote ausmacht. 
+
+Expected answer: Klausur 75%, Schriftliche Ausarbeitung 25%
+
+----------------------------------------------------------------------------------------------------
+
+In welchem Semester ist der Praxisworkshop im Master BWL vorgesehen? Ich fange im Wintersemester 2024/25 an. 
+
+Laut meiner Informationen ist der Praxisworkshop im dritten Fachsemester vorgesehen. Wenn Sie im Wintersemester 2024/25 anfangen, würde das bedeuten, dass der Praxisworkshop im Wintersemester 2026/27 stattfinden würde. 
+
+Expected answer: Im 3. Fachsemester
+
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,134 @@
+No modifications - Question: What are the prerequisites to write the master's thesis in Information Systems? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2015_msc_is_modulbeschreibungen.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: PO 2010
+Effective From: unknown
+Module Title: Master’s Thesis (Master of Science Information Systems) 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2019-04-12_msc_is_modulbeschreibungen.pdf
+Study Program: Information Systems
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2018/19
+Module Title: Master’s Thesis  
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: unknown
+Effective From: wintersemester 2019/20
+Module Title: Master’s Thesis  
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2015_msc_is_modulbeschreibungen.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: PO 2010
+Effective From: unknown
+Module Title: Elective Module: Seminar VI 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2019-04-12_msc_is_modulbeschreibungen.pdf
+Study Program: Information Systems
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2018/19
+Module Title: Elective Modules (Seminar) 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2015_msc_is_modulbeschreibungen.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: PO 2010
+Effective From: unknown
+Module Title: Elective Module: Seminar V 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2015_msc_is_modulbeschreibungen.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: PO 2010
+Effective From: unknown
+Module Title: Elective Module: Seminar III 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2015_msc_is_modulbeschreibungen.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: PO 2010
+Effective From: unknown
+Module Title: Elective Module: Seminar I 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2015_msc_is_modulbeschreibungen.pdf
+Study Program: Master of Science in Information Systems
+Degree: Master
+Examination Regulation: PO 2010
+Effective From: unknown
+Module Title: Elective Module: Seminar II 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2019-04-12_msc_is_modulbeschreibungen.pdf
+Study Program: Information Systems
+Degree: Master
+Examination Regulation: unknown
+Effective From: Wintersemester 2018/19
+Module Title: Master’s Thesis  
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Master', 'effective_from': 'unknown', 'examination_regulation': 'PO 2010', 'module_title': 'Master’s Thesis (Master of Science Information Systems) ', 'source': 'module_handbooks_economics/2015_msc_is_modulbeschreibungen.pdf', 'study_program': 'Master of Science in Information Systems'}
+module title english : master ’ s thesis ( master of science information systems ) course program : master information systems po 2010 / 2014 1 module no : mt state : compulsory language of instruction : english 2 turn : each term duration : 1 term semester : 4 cp : 30 workload ( h ) : 900 3 module structure : no type course cp presence ( h + ch ) self - study ( h ) 1 writing the thesis 25 0 h ( 0 ch ) 750 2 thesis defense 2 0 h ( 0 ch ) 60 3 exercise research methods 3 30 h ( 2 ch ) 60 4 module contents : background and relations to other courses : the master thesis is written in the research context of one of the method tracks im, pm, bn, bi and / or isd. main topics and learning objectives : those are subject to the topic and area where the thesis is intended. the thesis defense covers the thesis ’ topic. with his / her master ’ s thesis, a student is supposed to prove his / her ability to take part in the scientific process by doing a small piece of research and write an appropriate paper on it. the thesis should have a length of approximately 80 pages. the thesis defense contains a presentation of the thesis ’ contents as well as a discussion. 5 learning outcomes : academic : the student can handle a research topic in a scientific way and apply the results to practical problems. he or she can present and defend approaches, underlying theory and results. soft skills : the student can handle the formal requirements associated to a research paper : investigating the research context, collecting material from the scientific literature, performing and processing bibliographical inquiries, presenting own ideas in the scientific environment of the given topic. 6 description of possible electives within the modules : none 7 examination : final module exam 8 relevant work : number and type ; connection to course duration part of final mark in % master´s thesis 100 % 9
+---------- Chunk 1 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2018/19', 'examination_regulation': 'unknown', 'module_title': 'Master’s Thesis  ', 'source': 'module_handbooks_economics/2019-04-12_msc_is_modulbeschreibungen.pdf', 'study_program': 'Information Systems'}
+module title english : master ’ s thesis course program : master information systems 1 module no : mt state : compulsory language of instruction : english 2 turn : each semester duration : 1 semester semester : 3 or 4 cp : 30 workload ( h ) : 900 3 module structure : no type course state workload ( h ) presence ( h + ch ) self - study ( h ) 1 writing the thesis compulsory 0 h ( 0 ch ) 750 2 thesis defense compulsory 0 h ( 0 ch ) 60 3 exercise research methods compulsory 30 h ( 2 ch ) 60 4 module contents : purpose of the module / integration into curriculum : the master thesis is written in the research context of one of the method tracks im, pm, bn, bi and / or isd. course content : those are subject to the topic and area where the thesis is intended. the thesis defense covers the thesis ’ topic. with his / her master ’ s thesis, a student is supposed to prove his / her ability to take part in the scientific process by doing a small piece of research and write an appropriate paper on it. the thesis should have a length of approximately 80 pages. the thesis defense contains a presentation of the thesis ’ contents as well as a discussion. 5 learning outcomes : academic : the student can handle a research topic in a scientific way and apply the results to practical problems. he or she can present and defend approaches, underlying theory and results. soft skills : the student can handle the formal requirements associated to a research paper : investigating the research context, collecting material from the scientific literature, performing and processing bibliographical inquiries, presenting own ideas in the scientific environment of the given topic. 6 description of possible electives within the modules : none 7 examination : final module exam 8 relevant work : no number and type ; connection to course duration part of final mark in % 1 master´s thesis 100 % 9 study work :
+---------- Chunk 2 ----------
+{'degree': 'Master', 'effective_from': 'wintersemester 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Master’s Thesis  ', 'source': 'module_handbooks_economics/2022-09-23_msc_is_module_compendium.pdf', 'study_program': 'Master of Science in Information Systems'}
+module title english : master ’ s thesis course program : master information systems 1 module no : mt state : compulsory language of instruction : english 2 turn : each semester duration : 1 semester semester : 3 or 4 cp : 30 workload ( h ) : 900 3 module structure : no type course state workload ( h ) presence ( h + ch ) self - study ( h ) 1 writing the thesis compulsory 0 h ( 0 ch ) 750 2 thesis defense compulsory 0 h ( 0 ch ) 60 3 exercise research methods compulsory 30 h ( 2 ch ) 60 4 module profile : purpose of the module / integration into curriculum : the master thesis is written in the research context of one of the method tracks im, pm, bn, bi and / or isd. course content : those are subject to the topic and area where the thesis is intended. the thesis defense covers the thesis ’ topic. with his / her master ’ s thesis, a student is supposed to prove his / her ability to take part in the scientific process by doing a small piece of research and write an appropriate paper on it. the thesis should have a length of approximately 80 pages. the thesis defense contains a presentation of the thesis ’ profile as well as a discussion. 5 learning outcomes : academic : the student can handle a research topic in a scientific way and apply the results to practical problems. he or she can present and defend approaches, underlying theory and results. soft skills : the student can handle the formal requirements associated to a research paper : investigating the research context, collecting material from the scientific literature, performing and processing bibliographical inquiries, presenting own ideas in the scientific environment of the given topic. 6 description of possible electives within the modules : none 7 examination : final module exam 8 relevant work : 77 no number and type ; connection to course duration part of final mark in % 1 master´s thesis 100 % 9 study work
+---------- Chunk 3 ----------
+{'degree': 'Master', 'effective_from': 'unknown', 'examination_regulation': 'PO 2010', 'module_title': 'Elective Module: Seminar VI ', 'source': 'module_handbooks_economics/2015_msc_is_modulbeschreibungen.pdf', 'study_program': 'Master of Science in Information Systems'}
+modules : within the electives a minimum of 2 seminars has to be taken. 7 examination : examinations for every part of the module 8 relevant work : number and type ; connection to course duration part of final mark in % seminar elaboration and talk ca 20 pages, ca 60 minutes 100 % 9 study work : number and type ; connection to course duration 58 none 10 prerequisites for credit points : the credit points will be granted after all relevant work and study work have been successfully completed. 11 weight of the module grade for the overall grade : 5 % ( 6 of 120 cp ) 12 module prerequisites : none 13 presence : presence is required during presentations. authorized absence in less than 20 % of all presentations is possible. 14 use of the module for other course programs : master information systems 15 responsible lecturer : prof. dr. heike trautmann department : school of business and economics 16 misc. : 59 selected chapters in information systems i
+---------- Chunk 4 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2018/19', 'examination_regulation': 'unknown', 'module_title': 'Elective Modules (Seminar) ', 'source': 'module_handbooks_economics/2019-04-12_msc_is_modulbeschreibungen.pdf', 'study_program': 'Information Systems'}
+electives within the modules : within the electives a minimum of 2 seminars has to be taken. 7 examination : examinations for every part of the module 8 relevant work : no number and type ; connection to course duration part of final mark in % 1 seminar elaboration ( academic paper ) and presentation ca 20 pages, ca 60 minutes 100 % 9 study work : none 10 prerequisites for credit points : the credit points will be granted after all relevant work and study work have been successfully completed. 11 cp assignment : presence no 1 2. 00 cp relevant work no 1 4. 00 cp total 6 cp 12 weight of the module grade for the overall grade : 6 / 120 ( 5 % ) 13 module prerequisites : none 14 presence : presence is strongly recommended to warrant learning success 15 mobility / acknowledgement : use of the module for other course programs master information systems english translation of module components from section 3 no 1 : elective modules 16 responsible lecturer : prof. dr. stefan klein department : school of business and economics 17 misc. : selected chapters in information systems
+---------- Chunk 5 ----------
+{'degree': 'Master', 'effective_from': 'unknown', 'examination_regulation': 'PO 2010', 'module_title': 'Elective Module: Seminar V ', 'source': 'module_handbooks_economics/2015_msc_is_modulbeschreibungen.pdf', 'study_program': 'Master of Science in Information Systems'}
+modules : within the electives a minimum of 2 seminars has to be taken. 7 examination : examinations for every part of the module 8 relevant work : number and type ; connection to course duration part of final mark in % seminar elaboration and talk ca 20 pages, ca 60 minutes 100 % 9 study work : number and type ; connection to course duration 56 none 10 prerequisites for credit points : the credit points will be granted after all relevant work and study work have been successfully completed. 11 weight of the module grade for the overall grade : 5 % ( 6 of 120 cp ) 12 module prerequisites : none 13 presence : presence is required during presentations. authorized absence in less than 20 % of all presentations is possible. 14 use of the module for other course programs : master information systems 15 responsible lecturer : prof. dr. heike trautmann department : school of business and economics 16 misc. : 57 elective module : seminar vi
+---------- Chunk 6 ----------
+{'degree': 'Master', 'effective_from': 'unknown', 'examination_regulation': 'PO 2010', 'module_title': 'Elective Module: Seminar III ', 'source': 'module_handbooks_economics/2015_msc_is_modulbeschreibungen.pdf', 'study_program': 'Master of Science in Information Systems'}
+modules : within the electives a minimum of 2 seminars has to be taken. 7 examination : examinations for every part of the module 8 relevant work : number and type ; connection to course duration part of final mark in % seminar elaboration and talk ca 20 pages, ca 60 minutes 100 % 9 study work : number and type ; connection to course duration 52 none 10 prerequisites for credit points : the credit points will be granted after all relevant work and study work have been successfully completed. 11 weight of the module grade for the overall grade : 5 % ( 6 of 120 cp ) 12 module prerequisites : none 13 presence : presence is required during presentations. authorized absence in less than 20 % of all presentations is possible. 14 use of the module for other course programs : master information systems 15 responsible lecturer : prof. dr. heike trautmann department : school of business and economics 16 misc. : 53 elective module : seminar iv
+---------- Chunk 7 ----------
+{'degree': 'Master', 'effective_from': 'unknown', 'examination_regulation': 'PO 2010', 'module_title': 'Elective Module: Seminar I ', 'source': 'module_handbooks_economics/2015_msc_is_modulbeschreibungen.pdf', 'study_program': 'Master of Science in Information Systems'}
+modules : within the electives a minimum of 2 seminars has to be taken. 7 examination : examinations for every part of the module 8 relevant work : number and type ; connection to course duration part of final mark in % seminar elaboration and talk ca 20 pages, ca 60 minutes 100 % 9 study work : number and type ; connection to course duration 48 none 10 prerequisites for credit points : the credit points will be granted after all relevant work and study work have been successfully completed. 11 weight of the module grade for the overall grade : 5 % ( 6 of 120 cp ) 12 module prerequisites : none 13 presence : presence is required during presentations. authorized absence in less than 20 % of all presentations is possible. 14 use of the module for other course programs : master information systems 15 responsible lecturer : prof. dr. heike trautmann department : school of business and economics 16 misc. : 49 elective module : seminar ii
+---------- Chunk 8 ----------
+{'degree': 'Master', 'effective_from': 'unknown', 'examination_regulation': 'PO 2010', 'module_title': 'Elective Module: Seminar II ', 'source': 'module_handbooks_economics/2015_msc_is_modulbeschreibungen.pdf', 'study_program': 'Master of Science in Information Systems'}
+modules : within the electives a minimum of 2 seminars has to be taken. 7 examination : examinations for every part of the module 8 relevant work : number and type ; connection to course duration part of final mark in % seminar elaboration and talk ca 20 pages, ca 60 minutes 100 % 9 study work : number and type ; connection to course duration 50 none 10 prerequisites for credit points : the credit points will be granted after all relevant work and study work have been successfully completed. 11 weight of the module grade for the overall grade : 5 % ( 6 of 120 cp ) 12 module prerequisites : none 13 presence : presence is required during presentations. authorized absence in less than 20 % of all presentations is possible. 14 use of the module for other course programs : master information systems 15 responsible lecturer : prof. dr. heike trautmann department : school of business and economics 16 misc. : 51 elective module : seminar iii
+---------- Chunk 9 ----------
+{'degree': 'Master', 'effective_from': 'Wintersemester 2018/19', 'examination_regulation': 'unknown', 'module_title': 'Master’s Thesis  ', 'source': 'module_handbooks_economics/2019-04-12_msc_is_modulbeschreibungen.pdf', 'study_program': 'Information Systems'}
+the given topic. 6 description of possible electives within the modules : none 7 examination : final module exam 8 relevant work : no number and type ; connection to course duration part of final mark in % 1 master´s thesis 100 % 9 study work : no number and type ; connection to course duration 1 thesis defense ( oral ) max. 1h 10 prerequisites for credit points : the credit points will be granted after all relevant work and study work have been successfully completed. 11 cp assignment : presence no 1 0. 00 cp no 2 0. 00 cp no 3 1. 00 cp relevant work no 1 27. 00 cp study work no 1 2. 00 cp total 30 cp 12 weight of the module grade for the overall grade : 30 / 120 ( 25 % ) 13 module prerequisites : 60 credit points. 14 presence : presence is strongly recommended to warrant learning success 15 mobility / acknowledgement : use of the module for other course programs master information systems english translation of module components from section 3 no 1 : writing the thesis no 2 : thesis defense no 3 : research methods 16 responsible lecturer : prof. dr. heike trautmann department : school of business and economics 17 misc. :
+
+
+===== Answer =====
+
+Answer: According to my information, the prerequisites to write the master's thesis in Information Systems are 60 credit points.
+Expected answer: 60 credit points

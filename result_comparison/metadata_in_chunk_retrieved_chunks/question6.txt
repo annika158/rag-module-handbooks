@@ -1,0 +1,194 @@
+Metadata in chunk - Question: In welchem Semester findet die Vorlesung 'Grundlagen der Regulierung' statt? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2014-10_bsc_bwl_modulbeschreibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2014-10_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2020-01-22_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: Sommersemester 2020
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2019-07-03_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2018-10-04_bsc_bwl_modulbeschreibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2017
+Effective From: WS 2018/19
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2017_02_07_bsc_bwl_modulbescheibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2016
+Effective From: WS 2017/18
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2019-07-03_bsc_bwl_modulbeschreibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2018-10-04_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Grundlagen des Rechnungswesens 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2014-10-29_bsc_wi_modulbeschreibungen.pdf
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Grundlagen des Rechnungswesens 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Bachelor', 'effective_from': '14. Oktober 2010', 'examination_regulation': 'Prüfungsordnung 2010', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2014-10_bsc_bwl_modulbeschreibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Grundlagen des Rechnungswesens 
+
+##hnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. es gibt keine voraussetzungen fur diesen kurs. inhalt und lernziele : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die doppelte buchfuhrung. ausgehend von den rechtlichen grundlagen werden aufbau und durchfuhrung der finanzbuchfuhrung am beispiel eines industriebetriebs vorgestellt. im fokus der veranstaltung „ grundlagen des betriebswirtschaftlichen rechnungswesens “ steht die vermittlung der zweckorientierung des externen wie auch des internen rechnungswesens und die schaffung eines basiswissens, das es ermoglicht, praktische wie theoretische fragestellungen des rechnungswesens zu bearbeiten. dieses basiswissen umfasst sowohl maßnahmen und instrumente der kostenrechnung als auch gr
+---------- Chunk 1 ----------
+{'degree': 'Bachelor', 'effective_from': '14. Oktober 2010', 'examination_regulation': 'Prüfungsordnung 2010', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2014-10_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Grundlagen des Rechnungswesens 
+
+ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. es gibt keine voraussetzungen fur diesen kurs. inhalt und lernziele : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die doppelte buchfuhrung. ausgehend von den rechtlichen grundlagen werden aufbau und durchfuhrung der finanzbuchfuhrung am beispiel eines industriebetriebs vorgestellt. im fokus der veranstaltung „ grundlagen des betriebswirtschaftlichen rechnungswesens “ steht die vermittlung der zweckorientierung des externen wie auch des internen rechnungswesens und die schaffung eines basiswissens, das es ermoglicht, praktische wie theoretische 82 fragestellungen des rechnungswesens zu bearbeiten. dieses basiswissen umfasst sowohl maßnahmen und instrumente der kostenrechnung als auch grundlagen der bilanzierung. die „
+---------- Chunk 2 ----------
+{'degree': 'Bachelor', 'effective_from': 'Sommersemester 2020', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2020-01-22_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: Sommersemester 2020
+Module Title: Grundlagen des Rechnungswesens 
+
+rechnungswesens. in diesem modul lernen die studierenden die rollen, verfahren und schwachen der regelmaßig verwendeten ( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entscheidungsfindung und kontrolle darstellen. damit erlernen die studierenden, wie quantitative informationen erhoben werden, die haufig als gegeben angenommen werden. in der zweiten halfte des semesters steht die finanzielle rechnungslegung in deutschland im mittelpunkt. damit bildet das modul die grundlage fur weitere kurse in bezug auf fragestellungen der rechnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. lehrinhalte des moduls : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die doppelte buchfuhrung. ausgehend von den recht
+---------- Chunk 3 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2019-07-03_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Grundlagen des Rechnungswesens 
+
+##hnungswesens. in diesem modul lernen die studierenden die rollen, verfahren und schwachen der regelmaßig verwendeten ( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entscheidungsfindung und kontrolle darstellen. damit erlernen die studierenden, wie quantitative informationen erhoben werden, die haufig als gegeben angenommen werden. in der zweiten halfte des semesters steht die finanzielle rechnungslegung in deutschland im mittelpunkt. damit bildet das modul die grundlage fur weitere kurse in bezug auf fragestellungen der rechnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. lehrinhalte des moduls : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die doppelte buchfuhrung. ausgehend von den rechtlichen
+---------- Chunk 4 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2017', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2018-10-04_bsc_bwl_modulbeschreibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2017
+Effective From: WS 2018/19
+Module Title: Grundlagen des Rechnungswesens 
+
+##en des internen und externen rechnungswesens. in diesem modul lernen die studierenden die rollen, verfahren und schwachen der regelmaßig verwendeten ( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entscheidungsfindung und kontrolle darstellen. damit erlernen die studierenden, wie quantitative informationen erhoben werden, die haufig als gegeben angenommen werden. in der zweiten halfte des semesters steht die finanzielle rechnungslegung in deutschland im mittelpunkt. damit bildet das modul die grundlage fur weitere kurse in bezug auf fragestellungen der rechnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. lehrinhalte des moduls : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die do
+---------- Chunk 5 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2017/18', 'examination_regulation': 'Prüfungsordnung 2016', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2017_02_07_bsc_bwl_modulbescheibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2016
+Effective From: WS 2017/18
+Module Title: Grundlagen des Rechnungswesens 
+
+##en des internen und externen rechnungswesens. in diesem modul lernen die studierenden die rollen, verfahren und schwachen der regelmaßig verwendeten ( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entscheidungsfindung und kontrolle darstellen. damit erlernen die studierenden, wie quantitative informationen erhoben werden, die haufig als gegeben angenommen werden. in der zweiten halfte des semesters steht die finanzielle rechnungslegung in deutschland im mittelpunkt. damit bildet das modul die grundlage fur weitere kurse in bezug auf fragestellungen der rechnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. inhalte und lernziele : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die do
+---------- Chunk 6 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Grundlagen des Rechnungswesens 
+
+##hnungswesens. in diesem modul lernen die studierenden die rollen, verfahren und schwachen der regelmaßig verwendeten ( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entscheidungsfindung und kontrolle darstellen. damit erlernen die studierenden, wie quantitative informationen erhoben werden, die haufig als gegeben angenommen werden. in der zweiten halfte des semesters steht die finanzielle rechnungslegung in deutschland im mittelpunkt. damit bildet das modul die grundlage fur weitere kurse in bezug auf fragestellungen der rechnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. lehrinhalte des moduls : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die doppelte buchfuhrung. ausgehend von den rechtlichen
+---------- Chunk 7 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2019-07-03_bsc_bwl_modulbeschreibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Grundlagen des Rechnungswesens 
+
+##en rechnungswesens. in diesem modul lernen die studierenden die rollen, verfahren und schwachen der regelmaßig verwendeten ( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entscheidungsfindung und kontrolle darstellen. damit erlernen die studierenden, wie quantitative informationen erhoben werden, die haufig als gegeben angenommen werden. in der zweiten halfte des semesters steht die finanzielle rechnungslegung in deutschland im mittelpunkt. damit bildet das modul die grundlage fur weitere kurse in bezug auf fragestellungen der rechnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. lehrinhalte des moduls : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die doppelte buchfuhrung. ausgehend von den rec
+---------- Chunk 8 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2018-10-04_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Grundlagen des Rechnungswesens 
+
+internen und externen rechnungswesens. in diesem modul lernen die studierenden die rollen, verfahren und schwachen der regelmaßig verwendeten ( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entscheidungsfindung und kontrolle darstellen. damit erlernen die studierenden, wie quantitative informationen erhoben werden, die haufig als gegeben angenommen werden. in der zweiten halfte des semesters steht die finanzielle rechnungslegung in deutschland im mittelpunkt. damit bildet das modul die grundlage fur weitere kurse in bezug auf fragestellungen der rechnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. lehrinhalte des moduls : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ buchfuhrung und abschluss “ ist eine einfuhrung in die doppelte bu
+---------- Chunk 9 ----------
+{'degree': 'Bachelor', 'effective_from': '14. Oktober 2010', 'examination_regulation': 'Prüfungsordnung 2010', 'module_title': 'Grundlagen des Rechnungswesens ', 'source': 'module_handbooks_economics/2014-10-29_bsc_wi_modulbeschreibungen.pdf', 'study_program': 'Wirtschaftsinformatik'}
+Study Program: Wirtschaftsinformatik
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2010
+Effective From: 14. Oktober 2010
+Module Title: Grundlagen des Rechnungswesens 
+
+##idungen informationen des internen und externen rechnungswesens. in diesem modul lernen die studierenden die rollen, verfahren und schwachen der regelmaßig verwendeten ( mathematischen ) modelle kennen. in der ersten halfte des semesters werden kostenrechnungssysteme und kosteninformationen behandelt, welche die basis fur entscheidungsfindung und kontrolle darstellen. damit erlernen die studierenden, wie quantitative informationen erhoben werden, die haufig als gegeben angenommen werden. in der zweiten halfte des semesters steht die finanzielle rechnungslegung in deutschland im mittelpunkt. damit bildet das modul die grundlage fur weitere kurse in bezug auf fragestellungen der rechnungslegung. daruber hinaus ermoglicht das modul den studierenden, unterschiede zwischen deutschem handelsrecht und internationalen rechnungslegungsvorschriften in fortgeschrittenen kursen zu bewerten. es gibt keine voraussetzungen fur diesen kurs. inhalt und lernziele : das modul erschließt die grundlagen des rechnungswesens. gegenstand der veranstaltung „ bu
+
+
+===== Answer =====
+
+Answer: Die Frage kann mit den gegebenen Informationen nicht beantwortet werden.
+Expected answer: Jedes Sommersemester -> Studiengang Bachelor VWL ab WS 2020/21

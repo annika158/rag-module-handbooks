@@ -1,0 +1,52 @@
+Metadata filter - Question: Welchen Umfang muss die Bachelorarbeit im Studiengang BWL haben? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Bachelorarbeit  
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Bachelorarbeit  
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Bachelorarbeit  
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Bachelorarbeit  ', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : bachelorarbeit modultitel englisch : bachelor thesis studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : ba status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 6 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 bachelorarbeit pflicht 0 h ( 0 sws ) 360 4 profil des moduls : lehrinhalte des moduls : die bachelorarbeit soll zeigen, dass die / der studierende in der lage ist, innerhalb einer vorgegebenen zeit ein problem mit wissenschaftlichen methoden selbststandig zu bearbeiten und die ergebnisse sachgerecht darzustellen. sie soll einen umfang von 7. 000 worten im haupttext nicht uberschreiten. 5 erworbene kompetenzen : fachliche kompetenzen : die studierenden gewinnen erfahrung in der wissenschaftlichen umsetzung der gelernten inhalte. weiterhin lernen sie, sich eigenstandig in die wissenschaftliche literatur einzuarbeiten und wissenschaftliche texte zu formulieren. schlusselqualifikationen : schreiben eines wissenschaftlichen textes, zeit - und se
+---------- Chunk 1 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Bachelorarbeit  ', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+literatur einzuarbeiten und wissenschaftliche texte zu formulieren. schlusselqualifikationen : schreiben eines wissenschaftlichen textes, zeit - und selbstmanagement 6 beschreibung von wahlmoglichkeiten innerhalb des moduls : keine 7 leistungsuberprufung : modulabschlussprufung ( map ) 8 prufungsleistungen : nr. anzahl und art ; anbindung an lehrveranstaltung dauer gewichtung fur die modulnote in % 1 bachelorarbeit 7000 worter 100 % 9 studienleistungen : keine 287 10 voraussetzungen fur die vergabe von leistungspunkten : die leistungspunkte fur das modul werden angerechnet, wenn das modul insgesamt erfolgreich abgeschlossen wurde, d. h. alle prufungsleistungen und studienleistungen bestanden wurden. 11 lp - zuordnung : teilnahme / prasenz ( siehe teil 3 ) lv nr. 1 0. 00 lp prufungsleistungen ( siehe teil 8 ) nr. 1 12. 00 lp summe 12 lp 12 gewichtung der modulnote fur die bildung der gesamtnote : 11, 7 % 13 modulbezogene teilnahmevoraussetzungen : keine 14 anwesenheit : keine 15 mobilitat / anerkennung : verwendbarkeit in anderen studiengangen keine englische ubersetzung
+---------- Chunk 2 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Bachelorarbeit  ', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+##aussetzungen : keine 14 anwesenheit : keine 15 mobilitat / anerkennung : verwendbarkeit in anderen studiengangen keine englische ubersetzung der modulkomponenten aus teil 3 lv nr. 1 : bachelor thesis 16 modulbeauftragte / r : professor dr. peter kajuter einrichtung : fb 04 - wirtschaftswissenschaften 17 sonstiges :
+
+
+===== Answer =====
+
+Answer: Die Bachelorarbeit soll einen Umfang von 7.000 Wörtern im Haupttext nicht überschreiten.
+Expected answer: Nicht mehr als 7000 Wörter
+
+Filter: {'$and': [{'source': {'$eq': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf'}}, {'module_title': {'$eq': 'Bachelorarbeit  '}}]}

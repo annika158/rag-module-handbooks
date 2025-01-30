@@ -1,0 +1,194 @@
+Metadata in chunk - Question: In welchem Semester ist der Praxisworkshop im Master BWL mit Major Finance vorgesehen? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Praxisworkshop 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2014-10_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2010
+Effective From: 07. Juli 2010
+Module Title: FCM10: Praxisworkshop (evtl. englischsprachig) 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2022-10-18_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2022/23
+Module Title: Praxisworkshop 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2020-05-06_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2019
+Effective From: WS 2020/21
+Module Title: Praxisworkshop 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2019-10-29_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2019
+Effective From: WS 2019/20
+Module Title: Praxisworkshop 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2020-05-06_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2019
+Effective From: WS 2020/21
+Module Title: Einführung in die fortgeschrittene Finanzwirtschaft 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2019-10-29_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2019
+Effective From: WS 2019/20
+Module Title: Einführung in die fortgeschrittene Finanzwirtschaft 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Introduction to Advanced Finance 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2022-10-18_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2022/23
+Module Title: Introduction to Advanced Finance 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2018-10-04_bsc_bwl_modulbeschreibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2017
+Effective From: WS 2018/19
+Module Title: Vertiefung Finance 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Praxisworkshop ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Praxisworkshop 
+
+modultitel deutsch : praxisworkshop modultitel englisch : case studies in finance studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm10 status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar praxisworkshop pflicht 30 h ( 2 sws ) 150 4 profil des moduls : lehrinhalte des moduls : im „ praxisworkshop “ sollen die studierenden in kleingruppen das in den vorlesungen erworbene wissen in fallstudien anwenden. hierbei konnen die studierenden zwischen mehreren fallstudien wahlen, die in der regel in kooperation mit partnern aus der praxis durchgefuhrt werden und die in einer prasenzveranstaltung zu bearbeiten sind. die ergebnisse der kleingruppen sind anschließend vor allen teilnehmern zu prasentieren. die liste der themen wird dabei von jahr zu jahr neu festgelegt. im vorfeld der fallstudie arbeiten sich
+---------- Chunk 1 ----------
+{'degree': 'Master', 'effective_from': '07. Juli 2010', 'examination_regulation': 'PO 2010', 'module_title': 'FCM10: Praxisworkshop (evtl. englischsprachig) ', 'source': 'module_handbooks_economics/2014-10_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2010
+Effective From: 07. Juli 2010
+Module Title: FCM10: Praxisworkshop (evtl. englischsprachig) 
+
+modultitel deutsch : fcm10 : praxisworkshop ( evtl. englischsprachig ) modultitel englisch : case studies in finance studiengang : masterstudiengang betriebswirtschaftslehre turnus : jedes wise dauer : 1 semester fachsemester : 3. fs lp : 6 workload : 180 h 1 modulstruktur : nr. lehrveranstaltung typ + status lp prasenz selbststudium 1 seminar praxisworkshop s ( p ) 6 30 h ( 2 sws ) 150 h 2 lehrinhalte : im „ praxisworkshop “ sollen die studierenden in kleingruppen das in den vorlesungen erworbene wissen in fallstudien anwenden. hierbei konnen die studierenden zwischen mehreren fallstudien wahlen, die in der regel in kooperation mit partnern aus der praxis durchgefuhrt werden und die in einer prasenzveranstaltung zu bearbeiten sind. die ergebnisse der kleingruppen sind anschließen d vor allen teilnehmern zu prasentieren. die liste der themen wird dabei von jahr zu jahr neu festgelegt. im vorfeld der fallstudie arbeiten sich die studierenden eigenstandig in das zu bearbeiten
+---------- Chunk 2 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2022/23', 'examination_regulation': 'unknown', 'module_title': 'Praxisworkshop ', 'source': 'module_handbooks_economics/2022-10-18_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2022/23
+Module Title: Praxisworkshop 
+
+modultitel deutsch : praxisworkshop modultitel englisch : case studies in finance studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm10 status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar praxisworkshop pflicht 30 h ( 2 sws ) 150 4 profil des moduls : lehrinhalte des moduls : im „ praxisworkshop “ sollen die studierenden in kleingruppen das in den vorlesungen erworbene wissen in fallstudien anwenden. hierbei konnen die studierenden zwischen mehreren fallstudien wahlen, die in der regel in kooperation mit partnern aus der praxis durchgefuhrt werden und die in einer prasenzveranstaltung zu bearbeiten sind. die ergebnisse der kleingruppen sind anschließend vor allen teilnehmern zu prasentieren. die liste der themen wird dabei von jahr zu jahr neu festgelegt. im vorfeld der fallstudie arbeiten sich
+---------- Chunk 3 ----------
+{'degree': 'Master', 'effective_from': 'WS 2020/21', 'examination_regulation': 'PO 2019', 'module_title': 'Praxisworkshop ', 'source': 'module_handbooks_economics/2020-05-06_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2019
+Effective From: WS 2020/21
+Module Title: Praxisworkshop 
+
+modultitel deutsch : praxisworkshop modultitel englisch : case studies in finance studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm10 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar praxisworkshop pflicht 30 h ( 2 sws ) 150 4 profil des moduls : lehrinhalte des moduls : im „ praxisworkshop “ sollen die studierenden in kleingruppen das in den vorlesungen erworbene wissen in fallstudien anwenden. hierbei konnen die studierenden zwischen mehreren fallstudien wahlen, die in der regel in kooperation mit partnern aus der praxis durchgefuhrt werden und die in einer prasenzveranstaltung zu bearbeiten sind. die ergebnisse der kleingruppen sind anschließend vor allen teilnehmern zu prasentieren. die liste der themen wird dabei von jahr zu jahr neu festgelegt. im vorfeld der fallstudie arbeiten sich die studiere
+---------- Chunk 4 ----------
+{'degree': 'Master', 'effective_from': 'WS 2019/20', 'examination_regulation': 'PO 2019', 'module_title': 'Praxisworkshop ', 'source': 'module_handbooks_economics/2019-10-29_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2019
+Effective From: WS 2019/20
+Module Title: Praxisworkshop 
+
+modultitel deutsch : praxisworkshop modultitel englisch : case studies in finance studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm10 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar praxisworkshop pflicht 30 h ( 2 sws ) 150 4 profil des moduls : lehrinhalte des moduls : im „ praxisworkshop “ sollen die studierenden in kleingruppen das in den vorlesungen erworbene wissen in fallstudien anwenden. hierbei konnen die studierenden zwischen mehreren fallstudien wahlen, die in der regel in kooperation mit partnern aus der praxis durchgefuhrt werden und die in einer prasenzveranstaltung zu bearbeiten sind. die ergebnisse der kleingruppen sind anschließend vor allen teilnehmern zu prasentieren. die liste der themen wird dabei von jahr zu jahr neu festgelegt. im vorfeld der fallstudie arbeiten sich die studiere
+---------- Chunk 5 ----------
+{'degree': 'Master', 'effective_from': 'WS 2020/21', 'examination_regulation': 'PO 2019', 'module_title': 'Einführung in die fortgeschrittene Finanzwirtschaft ', 'source': 'module_handbooks_economics/2020-05-06_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2019
+Effective From: WS 2020/21
+Module Title: Einführung in die fortgeschrittene Finanzwirtschaft 
+
+modultitel deutsch : einfuhrung in die fortgeschrittene finanzwirtschaft modultitel englisch : introduction to advanced finance studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm01 status : pflicht unterrichtssprache : englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung introduction to advanced finance pflicht 30 h ( 2 sws ) 60 2 ubung vertiefungsseminar introduction to advanced finance pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul bildet die inhaltliche grundlage fur die fortgeschrittenen kurse in finance. es werden inhalte aus dem bachelorstudium aufgefrischt und vertieft, sodass alle studierenden einen ahnlichen wissensstand fur das weitere studium besitzen. lehrinhalte des moduls : das modul vermittelt den studierenden die zentralen konzepte des finance. der kurs behandelt vor
+---------- Chunk 6 ----------
+{'degree': 'Master', 'effective_from': 'WS 2019/20', 'examination_regulation': 'PO 2019', 'module_title': 'Einführung in die fortgeschrittene Finanzwirtschaft ', 'source': 'module_handbooks_economics/2019-10-29_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2019
+Effective From: WS 2019/20
+Module Title: Einführung in die fortgeschrittene Finanzwirtschaft 
+
+modultitel deutsch : einfuhrung in die fortgeschrittene finanzwirtschaft modultitel englisch : introduction to advanced finance studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm01 status : pflicht unterrichtssprache : englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung introduction to advanced finance pflicht 30 h ( 2 sws ) 60 2 ubung vertiefungsseminar introduction to advanced finance pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul bildet die inhaltliche grundlage fur die fortgeschrittenen kurse in finance. es werden inhalte aus dem bachelorstudium aufgefrischt und vertieft, sodass alle studierenden einen ahnlichen wissensstand fur das weitere studium besitzen. lehrinhalte des moduls : das modul vermittelt den studierenden die zentralen konzepte des finance. der kurs behandelt vor
+---------- Chunk 7 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Introduction to Advanced Finance ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Introduction to Advanced Finance 
+
+modultitel deutsch : introduction to advanced finance modultitel englisch : introduction to advanced finance studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm01 status : pflicht unterrichtssprache : englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung introduction to advanced finance pflicht 30 h ( 2 sws ) 60 2 ubung vertiefungsseminar introduction to advanced finance pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul bildet die inhaltliche grundlage fur die fortgeschrittenen kurse in finance. es werden inhalte aus dem bachelorstudium aufgefrischt und vertieft, sodass alle studierenden einen ahnlichen wissensstand fur das weitere studium besitzen. lehrinhalte des moduls : das modul vermittelt den studierenden die zentralen konzepte des finance. der kurs behandelt vorwiegend investmentthemen, enthalt aber auch die grundlagen des corporate finance. in rahmen des investment
+---------- Chunk 8 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2022/23', 'examination_regulation': 'unknown', 'module_title': 'Introduction to Advanced Finance ', 'source': 'module_handbooks_economics/2022-10-18_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2022/23
+Module Title: Introduction to Advanced Finance 
+
+modultitel deutsch : introduction to advanced finance modultitel englisch : introduction to advanced finance studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm01 status : pflicht unterrichtssprache : englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 1 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung introduction to advanced finance pflicht 30 h ( 2 sws ) 60 2 ubung vertiefungsseminar introduction to advanced finance pflicht 30 h ( 2 sws ) 60 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul bildet die inhaltliche grundlage fur die fortgeschrittenen kurse in finance. es werden inhalte aus dem bachelorstudium aufgefrischt und vertieft, sodass alle studierenden einen ahnlichen wissensstand fur das weitere studium besitzen. lehrinhalte des moduls : das modul vermittelt den studierenden die zentralen konzepte des finance. der kurs behandelt vorwiegend investmentthemen, enthalt aber auch die grundlagen des corporate finance. in rahmen des investment
+---------- Chunk 9 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2017', 'module_title': 'Vertiefung Finance ', 'source': 'module_handbooks_economics/2018-10-04_bsc_bwl_modulbeschreibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2017
+Effective From: WS 2018/19
+Module Title: Vertiefung Finance 
+
+modultitel deutsch : vertiefung finance modultitel englisch : specialization in finance studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : bwl 13 status : wahlpflicht unterrichtssprache : englisch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 vorlesung specialization in finance pflicht 30 h ( 2 sws ) 90 2 ubung tutorial specialization in finance pflicht 15 h ( 1 sws ) 45 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : im zentrum dieses moduls steht das verstandnis der potentiellen risiken von investitionsstrategien und – produkten und die frage, wie sich ein portfolio gegen diese risiken absichern lasst. das verstehen der bewertungsmechanismen von ( staats - ) anleihen und derivaten ermoglicht es den studierenden, die stabilitat und risiken von finanzmarkten zu beurteilen und in diskussionen eine fundierte position zu beziehen. da die meisten themen dieses moduls
+
+
+===== Answer =====
+
+Answer: Laut meiner Informationen ist der Praxisworkshop im Masterstudiengang Betriebswirtschaftslehre (BWL) im dritten Fachsemester vorgesehen.
+Expected answer: Im 3. Fachsemester

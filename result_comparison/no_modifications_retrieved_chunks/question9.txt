@@ -1,0 +1,134 @@
+No modifications - Question: In welchem Semester ist der Praxisworkshop im Master BWL mit Major Finance vorgesehen? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2022-10-18_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2022/23
+Module Title: Praxisworkshop 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: unknown
+Effective From: WiSe 2023/24
+Module Title: Praxisworkshop 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2020-05-06_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2019
+Effective From: WS 2020/21
+Module Title: Praxisworkshop 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2019-10-29_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2019
+Effective From: WS 2019/20
+Module Title: Praxisworkshop 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2014-10_msc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Master
+Examination Regulation: PO 2010
+Effective From: 07. Juli 2010
+Module Title: FCM10: Praxisworkshop (evtl. englischsprachig) 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2018-10-04_bsc_bwl_modulbeschreibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2017
+Effective From: WS 2018/19
+Module Title: Finance & Accounting Seminar 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2019-07-03_bsc_bwl_modulbeschreibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Finance & Accounting Seminar 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2018-10-04_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Finance & Accounting Seminar 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2020/21
+Module Title: Finance & Accounting Seminar 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2019-07-03_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Finance & Accounting Seminar 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2022/23', 'examination_regulation': 'unknown', 'module_title': 'Praxisworkshop ', 'source': 'module_handbooks_economics/2022-10-18_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : praxisworkshop modultitel englisch : case studies in finance studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm10 status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar praxisworkshop pflicht 30 h ( 2 sws ) 150 4 profil des moduls : lehrinhalte des moduls : im „ praxisworkshop “ sollen die studierenden in kleingruppen das in den vorlesungen erworbene wissen in fallstudien anwenden. hierbei konnen die studierenden zwischen mehreren fallstudien wahlen, die in der regel in kooperation mit partnern aus der praxis durchgefuhrt werden und die in einer prasenzveranstaltung zu bearbeiten sind. die ergebnisse der kleingruppen sind anschließend vor allen teilnehmern zu prasentieren. die liste der themen wird dabei von jahr zu jahr neu festgelegt. im vorfeld der fallstudie arbeiten sich die studierenden eigenstandig in das zu bearbeitende thema ein und fuhren eine eigene literaturrecherche durch
+---------- Chunk 1 ----------
+{'degree': 'Master', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'unknown', 'module_title': 'Praxisworkshop ', 'source': 'module_handbooks_economics/2024-03-05_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : praxisworkshop modultitel englisch : case studies in finance studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm10 status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar praxisworkshop pflicht 30 h ( 2 sws ) 150 4 profil des moduls : lehrinhalte des moduls : im „ praxisworkshop “ sollen die studierenden in kleingruppen das in den vorlesungen erworbene wissen in fallstudien anwenden. hierbei konnen die studierenden zwischen mehreren fallstudien wahlen, die in der regel in kooperation mit partnern aus der praxis durchgefuhrt werden und die in einer prasenzveranstaltung zu bearbeiten sind. die ergebnisse der kleingruppen sind anschließend vor allen teilnehmern zu prasentieren. die liste der themen wird dabei von jahr zu jahr neu festgelegt. im vorfeld der fallstudie arbeiten sich die studierenden eigenstandig in das zu bearbeitende thema ein und fuhren eine eigene literaturrecherche durch
+---------- Chunk 2 ----------
+{'degree': 'Master', 'effective_from': 'WS 2020/21', 'examination_regulation': 'PO 2019', 'module_title': 'Praxisworkshop ', 'source': 'module_handbooks_economics/2020-05-06_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : praxisworkshop modultitel englisch : case studies in finance studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm10 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar praxisworkshop pflicht 30 h ( 2 sws ) 150 4 profil des moduls : lehrinhalte des moduls : im „ praxisworkshop “ sollen die studierenden in kleingruppen das in den vorlesungen erworbene wissen in fallstudien anwenden. hierbei konnen die studierenden zwischen mehreren fallstudien wahlen, die in der regel in kooperation mit partnern aus der praxis durchgefuhrt werden und die in einer prasenzveranstaltung zu bearbeiten sind. die ergebnisse der kleingruppen sind anschließend vor allen teilnehmern zu prasentieren. die liste der themen wird dabei von jahr zu jahr neu festgelegt. im vorfeld der fallstudie arbeiten sich die studierenden eigenstandig in das zu bearbeitende thema ein und fuhren eine eigene literaturrecherche durch. 5 erwo
+---------- Chunk 3 ----------
+{'degree': 'Master', 'effective_from': 'WS 2019/20', 'examination_regulation': 'PO 2019', 'module_title': 'Praxisworkshop ', 'source': 'module_handbooks_economics/2019-10-29_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : praxisworkshop modultitel englisch : case studies in finance studiengang : master betriebswirtschaftslehre 1 modulnummer : fcm10 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 3 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar praxisworkshop pflicht 30 h ( 2 sws ) 150 4 profil des moduls : lehrinhalte des moduls : im „ praxisworkshop “ sollen die studierenden in kleingruppen das in den vorlesungen erworbene wissen in fallstudien anwenden. hierbei konnen die studierenden zwischen mehreren fallstudien wahlen, die in der regel in kooperation mit partnern aus der praxis durchgefuhrt werden und die in einer prasenzveranstaltung zu bearbeiten sind. die ergebnisse der kleingruppen sind anschließend vor allen teilnehmern zu prasentieren. die liste der themen wird dabei von jahr zu jahr neu festgelegt. im vorfeld der fallstudie arbeiten sich die studierenden eigenstandig in das zu bearbeitende thema ein und fuhren eine eigene literaturrecherche durch. 5 erwo
+---------- Chunk 4 ----------
+{'degree': 'Master', 'effective_from': '07. Juli 2010', 'examination_regulation': 'PO 2010', 'module_title': 'FCM10: Praxisworkshop (evtl. englischsprachig) ', 'source': 'module_handbooks_economics/2014-10_msc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : fcm10 : praxisworkshop ( evtl. englischsprachig ) modultitel englisch : case studies in finance studiengang : masterstudiengang betriebswirtschaftslehre turnus : jedes wise dauer : 1 semester fachsemester : 3. fs lp : 6 workload : 180 h 1 modulstruktur : nr. lehrveranstaltung typ + status lp prasenz selbststudium 1 seminar praxisworkshop s ( p ) 6 30 h ( 2 sws ) 150 h 2 lehrinhalte : im „ praxisworkshop “ sollen die studierenden in kleingruppen das in den vorlesungen erworbene wissen in fallstudien anwenden. hierbei konnen die studierenden zwischen mehreren fallstudien wahlen, die in der regel in kooperation mit partnern aus der praxis durchgefuhrt werden und die in einer prasenzveranstaltung zu bearbeiten sind. die ergebnisse der kleingruppen sind anschließen d vor allen teilnehmern zu prasentieren. die liste der themen wird dabei von jahr zu jahr neu festgelegt. im vorfeld der fallstudie arbeiten sich die studierenden eigenstandig in das zu bearbeitende thema ein und fuhren eine eigene literaturrecherche durch. 3 erworbene kompetenzen : die studierenden sind in der lage, eine aus der praxis st
+---------- Chunk 5 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2017', 'module_title': 'Finance & Accounting Seminar ', 'source': 'module_handbooks_economics/2018-10-04_bsc_bwl_modulbeschreibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : finance & accounting seminar modultitel englisch : finance & accounting seminar studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : bwl - s1 status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar finance & accounting fallstudienseminar wahlpflicht 30 h ( 2 sws ) 150 2 seminar intop unternehmenssimulation ( englisch ) wahlpflicht 60 h ( 4 sws ) 120 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : studierende sollen in dem modul integrative kenntnisse erwerben. insbesondere sollen sie den zusammenhang zwischen finanzierung und rechnungslegung anhand von fallstudien oder unternehmenssimulationen verstehen lernen. dabei werden die bisher in diesen bereichen erworbenen kenntnisse vorausgesetzt. lehrinhalte des moduls : finance und accounting fallstudienseminar : in der veranstaltung „ finance und accounting fallstudienseminar “ werden integrative kenntnisse aus den bereichen finanzierung, rechnungslegung und steuern
+---------- Chunk 6 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Finance & Accounting Seminar ', 'source': 'module_handbooks_economics/2019-07-03_bsc_bwl_modulbeschreibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+modultitel deutsch : finance & accounting seminar modultitel englisch : finance & accounting seminar studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : bwl - s1 status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar finance & accounting fallstudienseminar wahlpflicht 30 h ( 2 sws ) 150 2 seminar intop unternehmenssimulation ( englisch ) wahlpflicht 60 h ( 4 sws ) 120 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : studierende sollen in dem modul integrative kenntnisse erwerben. insbesondere sollen sie den zusammenhang zwischen finanzierung und rechnungslegung anhand von fallstudien oder unternehmenssimulationen verstehen lernen. dabei werden die bisher in diesen bereichen erworbenen kenntnisse vorausgesetzt. lehrinhalte des moduls : finance und accounting fallstudienseminar : in der veranstaltung „ finance und accounting fallstudienseminar “ werden integrative kenntnisse aus den bereichen finanzierung, rechnungslegung und steuern
+---------- Chunk 7 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Finance & Accounting Seminar ', 'source': 'module_handbooks_economics/2018-10-04_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+modultitel deutsch : finance & accounting seminar modultitel englisch : finance & accounting seminar studiengang : bachelor volkswirtschaftslehre 1 modulnummer : bwl s1 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar finance & accounting fallstudienseminar wahlpflicht 30 h ( 2 sws ) 150 2 seminar intop unternehmenssimulation ( englisch ) wahlpflicht 60 h ( 4 sws ) 120 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : studierende sollen in dem modul integrative kenntnisse erwerben. insbesondere sollen sie den zusammenhang zwischen finanzierung und rechnungslegung anhand von fallstudien oder unternehmenssimulationen verstehen lernen. dabei werden die bisher in diesen bereichen erworbenen kenntnisse vorausgesetzt. lehrinhalte des moduls : finance und accounting fallstudienseminar : in der veranstaltung „ finance und accounting fallstudienseminar “ werden integrative kenntnisse aus den bereichen finanzierung, rechnungslegung und steuern ve
+---------- Chunk 8 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2020/21', 'examination_regulation': 'unknown', 'module_title': 'Finance & Accounting Seminar ', 'source': 'module_handbooks_economics/2020-06-16_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+modultitel deutsch : finance & accounting seminar modultitel englisch : finance & accounting seminar studiengang : bachelor volkswirtschaftslehre 1 modulnummer : bwl s1 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar finance & accounting fallstudienseminar wahlpflicht 30 h ( 2 sws ) 150 2 seminar intop unternehmenssimulation ( englisch ) wahlpflicht 60 h ( 4 sws ) 120 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : studierende sollen in dem modul integrative kenntnisse erwerben. insbesondere sollen sie den zusammenhang zwischen finanzierung und rechnungslegung anhand von fallstudien oder unternehmenssimulationen verstehen lernen. dabei werden die bisher in diesen bereichen erworbenen kenntnisse vorausgesetzt. lehrinhalte des moduls : finance und accounting fallstudienseminar : in der veranstaltung „ finance und accounting fallstudienseminar “ werden integrative kenntnisse aus den bereichen finanzierung, rechnungslegung und steuern ve
+---------- Chunk 9 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Finance & Accounting Seminar ', 'source': 'module_handbooks_economics/2019-07-03_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+modultitel deutsch : finance & accounting seminar modultitel englisch : finance & accounting seminar studiengang : bachelor volkswirtschaftslehre 1 modulnummer : bwl s1 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes wintersemester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar finance & accounting fallstudienseminar wahlpflicht 30 h ( 2 sws ) 150 2 seminar intop unternehmenssimulation ( englisch ) wahlpflicht 60 h ( 4 sws ) 120 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : studierende sollen in dem modul integrative kenntnisse erwerben. insbesondere sollen sie den zusammenhang zwischen finanzierung und rechnungslegung anhand von fallstudien oder unternehmenssimulationen verstehen lernen. dabei werden die bisher in diesen bereichen erworbenen kenntnisse vorausgesetzt. lehrinhalte des moduls : finance und accounting fallstudienseminar : in der veranstaltung „ finance und accounting fallstudienseminar “ werden integrative kenntnisse aus den bereichen finanzierung, rechnungslegung und steuern ve
+
+
+===== Answer =====
+
+Answer: Laut meiner Informationen ist der Praxisworkshop im Masterstudiengang Betriebswirtschaftslehre (BWL) mit Major Finance im 3. Fachsemester vorgesehen.
+Expected answer: Im 3. Fachsemester

@@ -1,0 +1,194 @@
+Metadata in chunk - Question: Was sind Module im 1. Semester Bachelor Wirtschaftsinformatik in der PO 2022? 
+
+===== Metadata =====
+
+---------- Chunk 0 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Seminar Allgemeine Volkswirtschaftslehre I 
+
+---------- Chunk 1 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Seminar Allgemeine Volkswirtschaftslehre II 
+
+---------- Chunk 2 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Seminar Allgemeine Volkswirtschaftslehre I 
+
+---------- Chunk 3 ----------
+
+Source: module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Seminar Allgemeine Volkswirtschaftslehre II 
+
+---------- Chunk 4 ----------
+
+Source: module_handbooks_economics/2019-07-03_bsc_bwl_modulbeschreibungen.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Seminar Allgemeine Volkswirtschaftslehre 
+
+---------- Chunk 5 ----------
+
+Source: module_handbooks_economics/2019-07-03_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Angewandte Wirtschaftsforschung: Wirtschaftspolitik und 
+
+---------- Chunk 6 ----------
+
+Source: module_handbooks_economics/2018-10-04_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Angewandte Wirtschaftsforschung: Wirtschaftspolitik und 
+
+---------- Chunk 7 ----------
+
+Source: module_handbooks_economics/2020-01-22_bsc_bwl_modulhandbuch.pdf
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: Sommersemester 2020
+Module Title: Seminar Allgemeine Volkswirtschaftslehre 
+
+---------- Chunk 8 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Seminar Allgemeine Volkswirtschaftslehre II 
+
+---------- Chunk 9 ----------
+
+Source: module_handbooks_economics/2024-01-23_bsc_vwl_modulbeschreibungen.pdf
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Seminar Allgemeine Volkswirtschaftslehre I 
+
+
+
+===== Full Splits =====
+
+---------- Chunk 0 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Seminar Allgemeine Volkswirtschaftslehre I ', 'source': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Seminar Allgemeine Volkswirtschaftslehre I 
+
+modultitel deutsch : seminar allgemeine volkswirtschaftslehre i modultitel englisch : topics in economics i studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : trv 25 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar allgemeine volkswirtschaftslehre i pflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul ' seminar allgemeine volkswirtschaftslehre ' bietet eine vertiefende bearbeitung verschiedener ( hauptsachlich ) mikrookonomischer module, wie z. b. ' mikrookonomik ii '. lehrinhalte des moduls : das seminar allgemeine volkswirtschaftslehre steht jedes mal unter einem anderen oberthema, das speziell genug ist, um konsistent wissen zu einem bereich zu vermitteln, und allgemein genug, um fur jede
+---------- Chunk 1 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Seminar Allgemeine Volkswirtschaftslehre II ', 'source': 'module_handbooks_economics/2024-01-23_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Seminar Allgemeine Volkswirtschaftslehre II 
+
+modultitel deutsch : seminar allgemeine volkswirtschaftslehre ii modultitel englisch : topics in economics ii studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : trv 26 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar allgemeine volkswirtschaftslehre ii pflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul ' seminar allgemeine volkswirtschaftslehre ' bietet eine vertiefende bearbeitung verschiedener ( hauptsachlich ) mikrookonomischer module, wie z. b. ' mikrookonomik ii '. lehrinhalte des moduls : das seminar allgemeine volkswirtschaftslehre steht jedes mal unter einem anderen oberthema, das speziell genug ist, um konsistent wissen zu einem bereich zu vermitteln, und allgemein genug, um fur jede
+---------- Chunk 2 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Seminar Allgemeine Volkswirtschaftslehre I ', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Seminar Allgemeine Volkswirtschaftslehre I 
+
+modultitel deutsch : seminar allgemeine volkswirtschaftslehre i modultitel englisch : topics in economics i studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : trv 25 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar allgemeine volkswirtschaftslehre pflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul ' seminar allgemeine volkswirtschaftslehre ' bietet eine vertiefende bearbeitung verschiedener ( hauptsachlich ) mikrookonomischer module, wie z. b. ' mikrookonomik ii '. lehrinhalte des moduls : das seminar allgemeine volkswirtschaftslehre steht jedes mal unter einem anderen oberthema, das speziell genug ist, um konsistent wissen zu einem bereich zu vermitteln, und allgemein genug, um fur jed
+---------- Chunk 3 ----------
+{'degree': 'Bachelor', 'effective_from': 'Wintersemester 2022/23', 'examination_regulation': 'PO 2022', 'module_title': 'Seminar Allgemeine Volkswirtschaftslehre II ', 'source': 'module_handbooks_economics/2022-12-08_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: Wintersemester 2022/23
+Module Title: Seminar Allgemeine Volkswirtschaftslehre II 
+
+modultitel deutsch : seminar allgemeine volkswirtschaftslehre ii modultitel englisch : topics in economics ii studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : trv 26 status : wahlpflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar allgemeine volkswirtschaftslehre pflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul ' seminar allgemeine volkswirtschaftslehre ' bietet eine vertiefende bearbeitung verschiedener ( hauptsachlich ) mikrookonomischer module, wie z. b. ' mikrookonomik ii '. lehrinhalte des moduls : das seminar allgemeine volkswirtschaftslehre steht jedes mal unter einem anderen oberthema, das speziell genug ist, um konsistent wissen zu einem bereich zu vermitteln, und allgemein genug, um fur jed
+---------- Chunk 4 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Seminar Allgemeine Volkswirtschaftslehre ', 'source': 'module_handbooks_economics/2019-07-03_bsc_bwl_modulbeschreibungen.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Seminar Allgemeine Volkswirtschaftslehre 
+
+modultitel deutsch : seminar allgemeine volkswirtschaftslehre modultitel englisch : topics in economics studiengang : bachelor betriebswirtschaftslehre 1 modulnummer : vwl 31 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar allgemeine volkswirtschaftslehre pflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul ' seminar allgemeine volkswirtschaftslehre ' bietet eine vertiefende bearbeitung verschiedener ( hauptsachlich ) mikrookonomischer module, wie z. b. ' mikrookonomik ii '. lehrinhalte des moduls : das seminar allgemeine volkswirtschaftslehre steht jedes mal unter einem anderen oberthema, das speziell genug ist, um konsistent wissen zu einem bereich zu vermitteln, und allgemein genug, um fur jede ( n ) studierende ( n ) als
+---------- Chunk 5 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2019/20', 'examination_regulation': 'unknown', 'module_title': 'Angewandte Wirtschaftsforschung: Wirtschaftspolitik und ', 'source': 'module_handbooks_economics/2019-07-03_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: WS 2019/20
+Module Title: Angewandte Wirtschaftsforschung: Wirtschaftspolitik und 
+
+modultitel deutsch : angewandte wirtschaftsforschung : wirtschaftspolitik und regulierung modultitel englisch : applied research in economics : economic policy and regulation studiengang : bachelor volkswirtschaftslehre 1 modulnummer : vwl 6 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 3 oder 4 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar grundlagen der wirtschaftspolitik pflicht 60 h ( 4 sws ) 120 2 seminar grundlagen der regulierung pflicht 60 h ( 4 sws ) 120 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul „ angewandte wirtschaftsforschung : wirtschaftspolitik und regulierung “ baut auf den anderen modulen zur mikrookonomik auf. grundlage bildet die mikrookonomik i, darauf aufbauend gibt es anknupfungspunkte mit der markt - und preis - sowie der spieltheorie. schnittmengen
+---------- Chunk 6 ----------
+{'degree': 'Bachelor', 'effective_from': 'WS 2018/19', 'examination_regulation': 'Prüfungsordnung 2018', 'module_title': 'Angewandte Wirtschaftsforschung: Wirtschaftspolitik und ', 'source': 'module_handbooks_economics/2018-10-04_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: Prüfungsordnung 2018
+Effective From: WS 2018/19
+Module Title: Angewandte Wirtschaftsforschung: Wirtschaftspolitik und 
+
+modultitel deutsch : angewandte wirtschaftsforschung : wirtschaftspolitik und regulierung modultitel englisch : applied research in economics : economic policy and regulation studiengang : bachelor volkswirtschaftslehre 1 modulnummer : vwl 6 status : pflicht unterrichtssprache : deutsch 2 turnus : jedes sommersemester dauer : 1 semester fachsemester : 3 oder 4 lp : 12 workload ( h ) : 360 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar grundlagen der wirtschaftspolitik pflicht 60 h ( 4 sws ) 120 2 seminar grundlagen der regulierung pflicht 60 h ( 4 sws ) 120 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul „ angewandte wirtschaftsforschung : wirtschaftspolitik und regulierung “ baut auf den anderen modulen zur mikrookonomik auf. grundlage bildet die mikrookonomik i, darauf aufbauend gibt es anknupfungspunkte mit der markt - und preis - sowie der spieltheori
+---------- Chunk 7 ----------
+{'degree': 'Bachelor', 'effective_from': 'Sommersemester 2020', 'examination_regulation': 'unknown', 'module_title': 'Seminar Allgemeine Volkswirtschaftslehre ', 'source': 'module_handbooks_economics/2020-01-22_bsc_bwl_modulhandbuch.pdf', 'study_program': 'Betriebswirtschaftslehre'}
+Study Program: Betriebswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: unknown
+Effective From: Sommersemester 2020
+Module Title: Seminar Allgemeine Volkswirtschaftslehre 
+
+modultitel deutsch : seminar allgemeine volkswirtschaftslehre modultitel englisch : topics in economics studiengang : bachelor betriebswirtschaftslehre po 2017 / 2018 1 modulnummer : vwl 31 status : wahlpflicht unterrichtssprache : deutsch 2 turnus : jedes semester dauer : 1 semester fachsemester : 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar allgemeine volkswirtschaftslehre pflicht 30 h ( 2 sws ) 150 4 modulinhalte : zielsetzung des moduls / einbindung in das curriculum : das modul ' seminar allgemeine volkswirtschaftslehre ' bietet eine vertiefende bearbeitung verschiedener ( hauptsachlich ) mikrookonomischer module, wie z. b. ' mikrookonomik ii '. lehrinhalte des moduls : das seminar allgemeine volkswirtschaftslehre steht jedes mal unter einem anderen oberthema, das speziell genug ist, um konsistent wissen zu einem bereich zu vermitteln, und allgemein genug, um fur jede ( n ) studierende (
+---------- Chunk 8 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Seminar Allgemeine Volkswirtschaftslehre II ', 'source': 'module_handbooks_economics/2024-01-23_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Seminar Allgemeine Volkswirtschaftslehre II 
+
+modultitel deutsch : seminar allgemeine volkswirtschaftslehre ii modultitel englisch : topics in economics ii studiengang : bachelor volkswirtschaftslehre 1 modulnummer : vwl 14 status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 4 oder 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar allgemeine volkswirtschaftslehre ii pflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul ' seminar allgemeine volkswirtschaftslehre ' bietet eine vertiefende bearbeitung verschiedener ( hauptsachlich ) mikrookonomischer module, wie z. b. ' mikrookonomik ii '. lehrinhalte des moduls : das seminar allgemeine volkswirtschaftslehre steht jedes mal unter einem anderen oberthema, das speziell genug ist, um konsistent wissen zu einem bereich zu vermitteln, und allgemein genug, um fur jede (
+---------- Chunk 9 ----------
+{'degree': 'Bachelor', 'effective_from': 'WiSe 2023/24', 'examination_regulation': 'PO 2022', 'module_title': 'Seminar Allgemeine Volkswirtschaftslehre I ', 'source': 'module_handbooks_economics/2024-01-23_bsc_vwl_modulbeschreibungen.pdf', 'study_program': 'Volkswirtschaftslehre'}
+Study Program: Volkswirtschaftslehre
+Degree: Bachelor
+Examination Regulation: PO 2022
+Effective From: WiSe 2023/24
+Module Title: Seminar Allgemeine Volkswirtschaftslehre I 
+
+modultitel deutsch : seminar allgemeine volkswirtschaftslehre i modultitel englisch : topics in economics i studiengang : bachelor volkswirtschaftslehre 1 modulnummer : vwl 13 status : pflicht unterrichtssprache : deutsch oder englisch 2 turnus : jedes semester dauer : 1 semester fachsemester : 4 oder 5 oder 6 lp : 6 workload ( h ) : 180 3 modulstruktur : nr. typ veranstaltung status workload ( h ) prasenz ( h + sws ) selbststudium ( h ) 1 seminar seminar allgemeine volkswirtschaftslehre i pflicht 30 h ( 2 sws ) 150 4 profil des moduls : zielsetzung des moduls / einbindung in das curriculum : das modul ' seminar allgemeine volkswirtschaftslehre ' bietet eine vertiefende bearbeitung verschiedener ( hauptsachlich ) mikrookonomischer module, wie z. b. ' mikrookonomik ii '. lehrinhalte des moduls : das seminar allgemeine volkswirtschaftslehre steht jedes mal unter einem anderen oberthema, das speziell genug ist, um konsistent wissen zu einem bereich zu vermitteln, und allgemein genug, um fur jede (
+
+
+===== Answer =====
+
+Answer: Based on my information, I do not have any data about the modules in the 1. Semester Bachelor Wirtschaftsinformatik in the PO 2022.
+Expected answer: Einführung in die Wirtschaftsinformatik, Programmierung, Wirtschaftsmathematik, Einführung in die BWL, Investition und Finanzierung
